@@ -1,0 +1,191 @@
+Outcome,Metric,School_Name,Score
+College and Career,Graduate in 5 Years,William E. Carter School,-
+Grade Level Mastery,ELA Achievement Gap,Warren-Prescott K-8 School,-
+Grade Level Mastery,ELA Achievement Gap,UP Academy Holland,-
+Grade Level Mastery,ELA Achievement Gap,Young Achievers School of Science & Math,-
+Grade Level Mastery,ELA Achievement Gap,William E. Russell Elementary School,-
+Grade Level Mastery,ELA Achievement Gap,William Monroe Trotter Elementary School,-
+Grade Level Mastery,ELA Achievement Gap,William E. Carter School,-
+Grade Level Mastery,ELA Achievement Gap,William Blackstone Elementary School,-
+Grade Level Mastery,ELA Achievement Gap,William Ellery Channing Elementary School,-
+Grade Level Mastery,ELA Achievement Gap,UP Academy Charter School of Dorchester,-
+Grade Level Mastery,ELA Achievement Gap,Thomas J. Kenny Elementary School,100
+Grade Level Mastery,ELA Achievement Gap,Wolfgang Amadeus Mozart Elementary School,100
+Grade Level Mastery,Math Achievement Gap,UP Academy Holland,-
+Grade Level Mastery,Math Achievement Gap,Thomas J. Kenny Elementary School,-
+Grade Level Mastery,Math Achievement Gap,William Monroe Trotter Elementary School,-
+Grade Level Mastery,Math Achievement Gap,William E. Russell Elementary School,-
+Grade Level Mastery,Math Achievement Gap,William Blackstone Elementary School,-
+Grade Level Mastery,Math Achievement Gap,Wolfgang Amadeus Mozart Elementary School,-
+Grade Level Mastery,Math Achievement Gap,Young Achievers School of Science & Math,-
+Grade Level Mastery,Math Achievement Gap,Warren-Prescott K-8 School,-
+Grade Level Mastery,Math Achievement Gap,William E. Carter School,-
+Grade Level Mastery,Math Achievement Gap,William Ellery Channing Elementary School,-
+Grade Level Mastery,Math Achievement Gap,UP Academy Charter School of Dorchester,-
+College and Career,Students Set Goals and Persist,William E. Carter School,-
+College and Career,Students Set Goals and Persist,Young Achievers School of Science & Math,25
+College and Career,Students Set Goals and Persist,UP Academy Charter School of Dorchester,50
+College and Career,Students Set Goals and Persist,William Ellery Channing Elementary School,62.5
+College and Career,Students Set Goals and Persist,UP Academy Holland,62.5
+College and Career,Students Set Goals and Persist,William E. Russell Elementary School,75
+College and Career,Students Set Goals and Persist,William Monroe Trotter Elementary School,75
+College and Career,Students Set Goals and Persist,William Blackstone Elementary School,75
+College and Career,Students Set Goals and Persist,Thomas J. Kenny Elementary School,75
+College and Career,Students Set Goals and Persist,Warren-Prescott K-8 School,75
+College and Career,Students Set Goals and Persist,Wolfgang Amadeus Mozart Elementary School,75
+College and Career,Drop-Out Rate,William E. Carter School,-
+Academic Growth,ELA Growth,William E. Carter School,-
+Academic Growth,ELA Growth,William Ellery Channing Elementary School,25
+Academic Growth,ELA Growth,William E. Russell Elementary School,50
+Academic Growth,ELA Growth,William Blackstone Elementary School,50
+Academic Growth,ELA Growth,Thomas J. Kenny Elementary School,50
+Academic Growth,ELA Growth,Warren-Prescott K-8 School,100
+Academic Growth,ELA Growth,UP Academy Charter School of Dorchester,100
+Academic Growth,ELA Growth,Wolfgang Amadeus Mozart Elementary School,75
+Academic Growth,ELA Growth,Young Achievers School of Science & Math,75
+Academic Growth,ELA Growth,UP Academy Holland,75
+Academic Growth,ELA Growth,William Monroe Trotter Elementary School,75
+Academic Growth,ELA Growth - Subgroups,Warren-Prescott K-8 School,91.7
+Academic Growth,ELA Growth - Subgroups,William E. Carter School,-
+Academic Growth,ELA Growth - Subgroups,William Blackstone Elementary School,50
+Academic Growth,ELA Growth - Subgroups,William Ellery Channing Elementary School,50
+Academic Growth,ELA Growth - Subgroups,Wolfgang Amadeus Mozart Elementary School,100
+Academic Growth,ELA Growth - Subgroups,William Monroe Trotter Elementary School,75
+Academic Growth,ELA Growth - Subgroups,UP Academy Charter School of Dorchester,75
+Academic Growth,ELA Growth - Subgroups,William E. Russell Elementary School,75
+Academic Growth,ELA Growth - Subgroups,UP Academy Holland,75
+Academic Growth,ELA Growth - Subgroups,Thomas J. Kenny Elementary School,58.3
+Academic Growth,ELA Growth - Subgroups,Young Achievers School of Science & Math,66.7
+Academic Growth,ELA Growth - High-Performing Students,William E. Carter School,-
+Academic Growth,ELA Growth - High-Performing Students,William Blackstone Elementary School,-
+Academic Growth,ELA Growth - High-Performing Students,Young Achievers School of Science & Math,-
+Academic Growth,ELA Growth - High-Performing Students,William E. Russell Elementary School,-
+Academic Growth,ELA Growth - High-Performing Students,UP Academy Holland,-
+Academic Growth,ELA Growth - High-Performing Students,William Ellery Channing Elementary School,-
+Academic Growth,ELA Growth - High-Performing Students,Thomas J. Kenny Elementary School,50
+Academic Growth,ELA Growth - High-Performing Students,William Monroe Trotter Elementary School,50
+Academic Growth,ELA Growth - High-Performing Students,UP Academy Charter School of Dorchester,100
+Academic Growth,ELA Growth - High-Performing Students,Warren-Prescott K-8 School,100
+Academic Growth,ELA Growth - High-Performing Students,Wolfgang Amadeus Mozart Elementary School,75
+Academic Growth,Math Growth - High-Performing Students,William E. Russell Elementary School,-
+Academic Growth,Math Growth - High-Performing Students,William E. Carter School,-
+Academic Growth,Math Growth - High-Performing Students,Thomas J. Kenny Elementary School,-
+Academic Growth,Math Growth - High-Performing Students,Young Achievers School of Science & Math,-
+Academic Growth,Math Growth - High-Performing Students,UP Academy Charter School of Dorchester,-
+Academic Growth,Math Growth - High-Performing Students,William Monroe Trotter Elementary School,-
+Academic Growth,Math Growth - High-Performing Students,UP Academy Holland,-
+Academic Growth,Math Growth - High-Performing Students,William Blackstone Elementary School,-
+Academic Growth,Math Growth - High-Performing Students,William Ellery Channing Elementary School,-
+Academic Growth,Math Growth - High-Performing Students,Wolfgang Amadeus Mozart Elementary School,75
+Academic Growth,Math Growth - High-Performing Students,Warren-Prescott K-8 School,75
+Academic Growth,ELA Growth - Low-Performing Students,William E. Carter School,-
+Academic Growth,ELA Growth - Low-Performing Students,Wolfgang Amadeus Mozart Elementary School,-
+Academic Growth,ELA Growth - Low-Performing Students,William Ellery Channing Elementary School,-
+Academic Growth,ELA Growth - Low-Performing Students,William Blackstone Elementary School,50
+Academic Growth,ELA Growth - Low-Performing Students,William Monroe Trotter Elementary School,50
+Academic Growth,ELA Growth - Low-Performing Students,William E. Russell Elementary School,50
+Academic Growth,ELA Growth - Low-Performing Students,Thomas J. Kenny Elementary School,50
+Academic Growth,ELA Growth - Low-Performing Students,Warren-Prescott K-8 School,100
+Academic Growth,ELA Growth - Low-Performing Students,Young Achievers School of Science & Math,75
+Academic Growth,ELA Growth - Low-Performing Students,UP Academy Charter School of Dorchester,75
+Academic Growth,ELA Growth - Low-Performing Students,UP Academy Holland,75
+Academic Growth,Math Growth - Low-Performing Students,William Ellery Channing Elementary School,-
+Academic Growth,Math Growth - Low-Performing Students,Wolfgang Amadeus Mozart Elementary School,-
+Academic Growth,Math Growth - Low-Performing Students,William E. Carter School,-
+Academic Growth,Math Growth - Low-Performing Students,Thomas J. Kenny Elementary School,25
+Academic Growth,Math Growth - Low-Performing Students,William Monroe Trotter Elementary School,50
+Academic Growth,Math Growth - Low-Performing Students,Young Achievers School of Science & Math,50
+Academic Growth,Math Growth - Low-Performing Students,William E. Russell Elementary School,50
+Academic Growth,Math Growth - Low-Performing Students,William Blackstone Elementary School,50
+Academic Growth,Math Growth - Low-Performing Students,UP Academy Holland,50
+Academic Growth,Math Growth - Low-Performing Students,Warren-Prescott K-8 School,75
+Academic Growth,Math Growth - Low-Performing Students,UP Academy Charter School of Dorchester,75
+Academic Growth,English Learner Growth,William Monroe Trotter Elementary School,-
+Academic Growth,English Learner Growth,William Ellery Channing Elementary School,-
+Academic Growth,English Learner Growth,Wolfgang Amadeus Mozart Elementary School,-
+Academic Growth,English Learner Growth,William E. Carter School,-
+Academic Growth,English Learner Growth,Warren-Prescott K-8 School,-
+Academic Growth,English Learner Growth,William E. Russell Elementary School,25
+Academic Growth,English Learner Growth,Young Achievers School of Science & Math,50
+Academic Growth,English Learner Growth,William Blackstone Elementary School,50
+Academic Growth,English Learner Growth,UP Academy Holland,50
+Academic Growth,English Learner Growth,Thomas J. Kenny Elementary School,100
+Academic Growth,English Learner Growth,UP Academy Charter School of Dorchester,75
+Academic Growth,Math Growth,William E. Russell Elementary School,-
+Academic Growth,Math Growth,William E. Carter School,-
+Academic Growth,Math Growth,Thomas J. Kenny Elementary School,25
+Academic Growth,Math Growth,Young Achievers School of Science & Math,25
+Academic Growth,Math Growth,William Blackstone Elementary School,50
+Academic Growth,Math Growth,William Ellery Channing Elementary School,50
+Academic Growth,Math Growth,Wolfgang Amadeus Mozart Elementary School,50
+Academic Growth,Math Growth,UP Academy Charter School of Dorchester,100
+Academic Growth,Math Growth,Warren-Prescott K-8 School,75
+Academic Growth,Math Growth,William Monroe Trotter Elementary School,75
+Academic Growth,Math Growth,UP Academy Holland,75
+Academic Growth,Math Growth - Subgroups,Young Achievers School of Science & Math,33.3
+Academic Growth,Math Growth - Subgroups,William E. Russell Elementary School,12.5
+Academic Growth,Math Growth - Subgroups,William E. Carter School,-
+Academic Growth,Math Growth - Subgroups,Wolfgang Amadeus Mozart Elementary School,50
+Academic Growth,Math Growth - Subgroups,William Ellery Channing Elementary School,50
+Academic Growth,Math Growth - Subgroups,William Blackstone Elementary School,50
+Academic Growth,Math Growth - Subgroups,William Monroe Trotter Elementary School,50
+Academic Growth,Math Growth - Subgroups,UP Academy Charter School of Dorchester,87.5
+Academic Growth,Math Growth - Subgroups,UP Academy Holland,87.5
+Academic Growth,Math Growth - Subgroups,Thomas J. Kenny Elementary School,58.3
+Academic Growth,Math Growth - Subgroups,Warren-Prescott K-8 School,66.7
+College and Career,Students in College after Graduation,William E. Carter School,-
+Grade Level Mastery,School Meets ELA MCAS Goals,William Ellery Channing Elementary School,-
+Grade Level Mastery,School Meets ELA MCAS Goals,William E. Russell Elementary School,-
+Grade Level Mastery,School Meets ELA MCAS Goals,Thomas J. Kenny Elementary School,-
+Grade Level Mastery,School Meets ELA MCAS Goals,William Blackstone Elementary School,-
+Grade Level Mastery,School Meets ELA MCAS Goals,William E. Carter School,-
+Grade Level Mastery,School Meets ELA MCAS Goals,William Monroe Trotter Elementary School,50
+Grade Level Mastery,School Meets ELA MCAS Goals,Wolfgang Amadeus Mozart Elementary School,50
+Grade Level Mastery,School Meets ELA MCAS Goals,UP Academy Holland,50
+Grade Level Mastery,School Meets ELA MCAS Goals,Young Achievers School of Science & Math,100
+Grade Level Mastery,School Meets ELA MCAS Goals,UP Academy Charter School of Dorchester,100
+Grade Level Mastery,School Meets ELA MCAS Goals,Warren-Prescott K-8 School,75
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,William Blackstone Elementary School,12.5
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,William Ellery Channing Elementary School,-
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Wolfgang Amadeus Mozart Elementary School,-
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,William E. Carter School,-
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,William Monroe Trotter Elementary School,25
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,UP Academy Holland,25
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Thomas J. Kenny Elementary School,50
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Young Achievers School of Science & Math,100
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,William E. Russell Elementary School,75
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,UP Academy Charter School of Dorchester,87.5
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Warren-Prescott K-8 School,66.7
+Grade Level Mastery,School Meets Math MCAS Goals,William Ellery Channing Elementary School,-
+Grade Level Mastery,School Meets Math MCAS Goals,William E. Russell Elementary School,-
+Grade Level Mastery,School Meets Math MCAS Goals,Thomas J. Kenny Elementary School,-
+Grade Level Mastery,School Meets Math MCAS Goals,Warren-Prescott K-8 School,-
+Grade Level Mastery,School Meets Math MCAS Goals,William E. Carter School,-
+Grade Level Mastery,School Meets Math MCAS Goals,William Blackstone Elementary School,25
+Grade Level Mastery,School Meets Math MCAS Goals,Young Achievers School of Science & Math,50
+Grade Level Mastery,School Meets Math MCAS Goals,UP Academy Holland,50
+Grade Level Mastery,School Meets Math MCAS Goals,Wolfgang Amadeus Mozart Elementary School,50
+Grade Level Mastery,School Meets Math MCAS Goals,William Monroe Trotter Elementary School,100
+Grade Level Mastery,School Meets Math MCAS Goals,UP Academy Charter School of Dorchester,100
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Warren-Prescott K-8 School,33.3
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Thomas J. Kenny Elementary School,33.3
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,William E. Carter School,-
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,William E. Russell Elementary School,-
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Wolfgang Amadeus Mozart Elementary School,-
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,William Ellery Channing Elementary School,25
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,William Blackstone Elementary School,25
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,UP Academy Holland,50
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,UP Academy Charter School of Dorchester,100
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,William Monroe Trotter Elementary School,62.5
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Young Achievers School of Science & Math,75
+Grade Level Mastery,School Meets Science MCAS Goals,Warren-Prescott K-8 School,-
+Grade Level Mastery,School Meets Science MCAS Goals,William E. Carter School,-
+Grade Level Mastery,School Meets Science MCAS Goals,UP Academy Holland,-
+Grade Level Mastery,School Meets Science MCAS Goals,Thomas J. Kenny Elementary School,-
+Grade Level Mastery,School Meets Science MCAS Goals,Wolfgang Amadeus Mozart Elementary School,-
+Grade Level Mastery,School Meets Science MCAS Goals,William Ellery Channing Elementary School,-
+Grade Level Mastery,School Meets Science MCAS Goals,William E. Russell Elementary School,-
+Grade Level Mastery,School Meets Science MCAS Goals,William Monroe Trotter Elementary School,50
+Grade Level Mastery,School Meets Science MCAS Goals,William Blackstone Elementary School,50
+Grade Level Mastery,School Meets Science MCAS Goals,UP Academy Charter School of Dorchester,100
+Grade Level Mastery,School Meets Science MCAS Goals,Young Achievers School of Science & Math,75

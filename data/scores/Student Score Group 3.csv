@@ -1,0 +1,352 @@
+Outcome,Metric,School_Name,Score
+College and Career,Graduate in 4 Years,John D. O'Bryant School of Mathematics and Science,92.9
+College and Career,Graduate in 4 Years,Josiah Quincy Upper School,95
+College and Career,Graduate in 5 Years,John D. O'Bryant School of Mathematics and Science,96.4
+College and Career,Graduate in 5 Years,Horace Mann School for the Deaf & Hard of Hearing,-
+College and Career,Graduate in 5 Years,Josiah Quincy Upper School,87.5
+Grade Level Mastery,ELA Achievement Gap,John D. O'Bryant School of Mathematics and Science,20.8
+Grade Level Mastery,ELA Achievement Gap,Higginson (K-2) / Higginson/Lewis K-8,-
+Grade Level Mastery,ELA Achievement Gap,James Otis Elementary School,-
+Grade Level Mastery,ELA Achievement Gap,Joseph Lee K-8 School,-
+Grade Level Mastery,ELA Achievement Gap,James W. Hennigan Elementary School,-
+Grade Level Mastery,ELA Achievement Gap,James F. Condon K-8 School,-
+Grade Level Mastery,ELA Achievement Gap,Joseph P. Tynan Elementary School,-
+Grade Level Mastery,ELA Achievement Gap,Hugh R. O'Donnell Elementary School,-
+Grade Level Mastery,ELA Achievement Gap,Josiah Quincy Elementary School,-
+Grade Level Mastery,ELA Achievement Gap,John Winthrop Elementary School,-
+Grade Level Mastery,ELA Achievement Gap,Joseph P. Manning Elementary School,-
+Grade Level Mastery,ELA Achievement Gap,Henry Grew Elementary School,-
+Grade Level Mastery,ELA Achievement Gap,John F. Kennedy Elementary School,-
+Grade Level Mastery,ELA Achievement Gap,Josiah Quincy Upper School,-
+Grade Level Mastery,ELA Achievement Gap,Joyce Kilmer K-8 School,-
+Grade Level Mastery,ELA Achievement Gap,Horace Mann School for the Deaf & Hard of Hearing,-
+Grade Level Mastery,ELA Achievement Gap,John Eliot K-8 School,-
+Grade Level Mastery,ELA Achievement Gap,James J. Chittick Elementary School,-
+Grade Level Mastery,ELA Achievement Gap,Joseph J. Hurley K-8 School,25
+Grade Level Mastery,ELA Achievement Gap,Harvard-Kent Elementary School,100
+Grade Level Mastery,Math Achievement Gap,John D. O'Bryant School of Mathematics and Science,64.6
+Grade Level Mastery,Math Achievement Gap,James W. Hennigan Elementary School,-
+Grade Level Mastery,Math Achievement Gap,Joseph Lee K-8 School,-
+Grade Level Mastery,Math Achievement Gap,James F. Condon K-8 School,-
+Grade Level Mastery,Math Achievement Gap,John Winthrop Elementary School,-
+Grade Level Mastery,Math Achievement Gap,Hugh R. O'Donnell Elementary School,-
+Grade Level Mastery,Math Achievement Gap,Higginson (K-2) / Higginson/Lewis K-8,-
+Grade Level Mastery,Math Achievement Gap,James J. Chittick Elementary School,-
+Grade Level Mastery,Math Achievement Gap,Horace Mann School for the Deaf & Hard of Hearing,-
+Grade Level Mastery,Math Achievement Gap,Joyce Kilmer K-8 School,-
+Grade Level Mastery,Math Achievement Gap,Josiah Quincy Upper School,-
+Grade Level Mastery,Math Achievement Gap,John Eliot K-8 School,-
+Grade Level Mastery,Math Achievement Gap,Joseph P. Manning Elementary School,-
+Grade Level Mastery,Math Achievement Gap,Henry Grew Elementary School,-
+Grade Level Mastery,Math Achievement Gap,Harvard-Kent Elementary School,50
+Grade Level Mastery,Math Achievement Gap,Josiah Quincy Elementary School,100
+Grade Level Mastery,Math Achievement Gap,Joseph J. Hurley K-8 School,100
+Grade Level Mastery,Math Achievement Gap,John F. Kennedy Elementary School,75
+Grade Level Mastery,Math Achievement Gap,James Otis Elementary School,75
+Grade Level Mastery,Math Achievement Gap,Joseph P. Tynan Elementary School,75
+College and Career,Students Set Goals and Persist,Horace Mann School for the Deaf & Hard of Hearing,-
+College and Career,Students Set Goals and Persist,Josiah Quincy Upper School,50
+College and Career,Students Set Goals and Persist,James W. Hennigan Elementary School,50
+College and Career,Students Set Goals and Persist,Joseph Lee K-8 School,50
+College and Career,Students Set Goals and Persist,Joyce Kilmer K-8 School,62.5
+College and Career,Students Set Goals and Persist,James F. Condon K-8 School,62.5
+College and Career,Students Set Goals and Persist,Joseph J. Hurley K-8 School,62.5
+College and Career,Students Set Goals and Persist,John Winthrop Elementary School,62.5
+College and Career,Students Set Goals and Persist,Henry Grew Elementary School,62.5
+College and Career,Students Set Goals and Persist,John Eliot K-8 School,75
+College and Career,Students Set Goals and Persist,Joseph P. Tynan Elementary School,75
+College and Career,Students Set Goals and Persist,John D. O'Bryant School of Mathematics and Science,75
+College and Career,Students Set Goals and Persist,John F. Kennedy Elementary School,75
+College and Career,Students Set Goals and Persist,James J. Chittick Elementary School,75
+College and Career,Students Set Goals and Persist,Josiah Quincy Elementary School,75
+College and Career,Students Set Goals and Persist,Joseph P. Manning Elementary School,75
+College and Career,Students Set Goals and Persist,Hugh R. O'Donnell Elementary School,75
+College and Career,Students Set Goals and Persist,James Otis Elementary School,75
+College and Career,Students Set Goals and Persist,Higginson (K-2) / Higginson/Lewis K-8,75
+College and Career,Students Set Goals and Persist,Harvard-Kent Elementary School,75
+College and Career,Drop-Out Rate,Horace Mann School for the Deaf & Hard of Hearing,-
+College and Career,Drop-Out Rate,Josiah Quincy Upper School,75
+College and Career,Drop-Out Rate,John D. O'Bryant School of Mathematics and Science,75
+Academic Growth,ELA Growth,John D. O'Bryant School of Mathematics and Science,55.2
+Academic Growth,ELA Growth,Horace Mann School for the Deaf & Hard of Hearing,-
+Academic Growth,ELA Growth,Harvard-Kent Elementary School,25
+Academic Growth,ELA Growth,Joseph P. Tynan Elementary School,50
+Academic Growth,ELA Growth,James F. Condon K-8 School,50
+Academic Growth,ELA Growth,Henry Grew Elementary School,50
+Academic Growth,ELA Growth,Joseph Lee K-8 School,50
+Academic Growth,ELA Growth,Joyce Kilmer K-8 School,50
+Academic Growth,ELA Growth,Josiah Quincy Upper School,50
+Academic Growth,ELA Growth,John Winthrop Elementary School,100
+Academic Growth,ELA Growth,James Otis Elementary School,100
+Academic Growth,ELA Growth,Joseph J. Hurley K-8 School,100
+Academic Growth,ELA Growth,Joseph P. Manning Elementary School,75
+Academic Growth,ELA Growth,Higginson (K-2) / Higginson/Lewis K-8,75
+Academic Growth,ELA Growth,John F. Kennedy Elementary School,75
+Academic Growth,ELA Growth,John Eliot K-8 School,75
+Academic Growth,ELA Growth,James J. Chittick Elementary School,75
+Academic Growth,ELA Growth,James W. Hennigan Elementary School,75
+Academic Growth,ELA Growth,Josiah Quincy Elementary School,75
+Academic Growth,ELA Growth,Hugh R. O'Donnell Elementary School,75
+Academic Growth,ELA Growth - Subgroups,James F. Condon K-8 School,41.7
+Academic Growth,ELA Growth - Subgroups,Joseph Lee K-8 School,41.7
+Academic Growth,ELA Growth - Subgroups,Harvard-Kent Elementary School,12.5
+Academic Growth,ELA Growth - Subgroups,Josiah Quincy Upper School,45.6
+Academic Growth,ELA Growth - Subgroups,John D. O'Bryant School of Mathematics and Science,53.9
+Academic Growth,ELA Growth - Subgroups,Horace Mann School for the Deaf & Hard of Hearing,-
+Academic Growth,ELA Growth - Subgroups,Joseph P. Tynan Elementary School,-
+Academic Growth,ELA Growth - Subgroups,James J. Chittick Elementary School,-
+Academic Growth,ELA Growth - Subgroups,Joyce Kilmer K-8 School,50
+Academic Growth,ELA Growth - Subgroups,Henry Grew Elementary School,50
+Academic Growth,ELA Growth - Subgroups,James Otis Elementary School,100
+Academic Growth,ELA Growth - Subgroups,John Winthrop Elementary School,100
+Academic Growth,ELA Growth - Subgroups,John Eliot K-8 School,62.5
+Academic Growth,ELA Growth - Subgroups,Josiah Quincy Elementary School,75
+Academic Growth,ELA Growth - Subgroups,Joseph P. Manning Elementary School,75
+Academic Growth,ELA Growth - Subgroups,John F. Kennedy Elementary School,75
+Academic Growth,ELA Growth - Subgroups,Hugh R. O'Donnell Elementary School,75
+Academic Growth,ELA Growth - Subgroups,Joseph J. Hurley K-8 School,87.5
+Academic Growth,ELA Growth - Subgroups,James W. Hennigan Elementary School,58.3
+Academic Growth,ELA Growth - Subgroups,Higginson (K-2) / Higginson/Lewis K-8,58.3
+Academic Growth,ELA Growth - High-Performing Students,Joseph P. Tynan Elementary School,-
+Academic Growth,ELA Growth - High-Performing Students,James J. Chittick Elementary School,-
+Academic Growth,ELA Growth - High-Performing Students,Higginson (K-2) / Higginson/Lewis K-8,-
+Academic Growth,ELA Growth - High-Performing Students,John Winthrop Elementary School,-
+Academic Growth,ELA Growth - High-Performing Students,Horace Mann School for the Deaf & Hard of Hearing,-
+Academic Growth,ELA Growth - High-Performing Students,Hugh R. O'Donnell Elementary School,-
+Academic Growth,ELA Growth - High-Performing Students,Joseph Lee K-8 School,-
+Academic Growth,ELA Growth - High-Performing Students,Henry Grew Elementary School,-
+Academic Growth,ELA Growth - High-Performing Students,Harvard-Kent Elementary School,25
+Academic Growth,ELA Growth - High-Performing Students,Josiah Quincy Upper School,50
+Academic Growth,ELA Growth - High-Performing Students,John D. O'Bryant School of Mathematics and Science,50
+Academic Growth,ELA Growth - High-Performing Students,James W. Hennigan Elementary School,50
+Academic Growth,ELA Growth - High-Performing Students,Josiah Quincy Elementary School,50
+Academic Growth,ELA Growth - High-Performing Students,James F. Condon K-8 School,50
+Academic Growth,ELA Growth - High-Performing Students,Joyce Kilmer K-8 School,50
+Academic Growth,ELA Growth - High-Performing Students,James Otis Elementary School,75
+Academic Growth,ELA Growth - High-Performing Students,Joseph P. Manning Elementary School,75
+Academic Growth,ELA Growth - High-Performing Students,John F. Kennedy Elementary School,75
+Academic Growth,ELA Growth - High-Performing Students,Joseph J. Hurley K-8 School,75
+Academic Growth,ELA Growth - High-Performing Students,John Eliot K-8 School,75
+Academic Growth,Math Growth - High-Performing Students,Higginson (K-2) / Higginson/Lewis K-8,-
+Academic Growth,Math Growth - High-Performing Students,Horace Mann School for the Deaf & Hard of Hearing,-
+Academic Growth,Math Growth - High-Performing Students,Hugh R. O'Donnell Elementary School,-
+Academic Growth,Math Growth - High-Performing Students,Joseph P. Tynan Elementary School,-
+Academic Growth,Math Growth - High-Performing Students,John Winthrop Elementary School,-
+Academic Growth,Math Growth - High-Performing Students,Henry Grew Elementary School,-
+Academic Growth,Math Growth - High-Performing Students,James J. Chittick Elementary School,-
+Academic Growth,Math Growth - High-Performing Students,Joseph Lee K-8 School,-
+Academic Growth,Math Growth - High-Performing Students,James W. Hennigan Elementary School,-
+Academic Growth,Math Growth - High-Performing Students,James F. Condon K-8 School,25
+Academic Growth,Math Growth - High-Performing Students,Josiah Quincy Upper School,50
+Academic Growth,Math Growth - High-Performing Students,Harvard-Kent Elementary School,50
+Academic Growth,Math Growth - High-Performing Students,James Otis Elementary School,100
+Academic Growth,Math Growth - High-Performing Students,John F. Kennedy Elementary School,100
+Academic Growth,Math Growth - High-Performing Students,John D. O'Bryant School of Mathematics and Science,100
+Academic Growth,Math Growth - High-Performing Students,Joseph J. Hurley K-8 School,75
+Academic Growth,Math Growth - High-Performing Students,Joyce Kilmer K-8 School,75
+Academic Growth,Math Growth - High-Performing Students,Josiah Quincy Elementary School,75
+Academic Growth,Math Growth - High-Performing Students,Joseph P. Manning Elementary School,75
+Academic Growth,Math Growth - High-Performing Students,John Eliot K-8 School,75
+Academic Growth,ELA Growth - Low-Performing Students,Joseph P. Manning Elementary School,-
+Academic Growth,ELA Growth - Low-Performing Students,Horace Mann School for the Deaf & Hard of Hearing,-
+Academic Growth,ELA Growth - Low-Performing Students,Henry Grew Elementary School,-
+Academic Growth,ELA Growth - Low-Performing Students,Hugh R. O'Donnell Elementary School,-
+Academic Growth,ELA Growth - Low-Performing Students,James J. Chittick Elementary School,-
+Academic Growth,ELA Growth - Low-Performing Students,Joseph P. Tynan Elementary School,-
+Academic Growth,ELA Growth - Low-Performing Students,Joseph Lee K-8 School,25
+Academic Growth,ELA Growth - Low-Performing Students,John F. Kennedy Elementary School,50
+Academic Growth,ELA Growth - Low-Performing Students,Harvard-Kent Elementary School,50
+Academic Growth,ELA Growth - Low-Performing Students,Joseph J. Hurley K-8 School,50
+Academic Growth,ELA Growth - Low-Performing Students,Josiah Quincy Upper School,50
+Academic Growth,ELA Growth - Low-Performing Students,Joyce Kilmer K-8 School,50
+Academic Growth,ELA Growth - Low-Performing Students,John Eliot K-8 School,50
+Academic Growth,ELA Growth - Low-Performing Students,James F. Condon K-8 School,50
+Academic Growth,ELA Growth - Low-Performing Students,John Winthrop Elementary School,75
+Academic Growth,ELA Growth - Low-Performing Students,John D. O'Bryant School of Mathematics and Science,75
+Academic Growth,ELA Growth - Low-Performing Students,James Otis Elementary School,75
+Academic Growth,ELA Growth - Low-Performing Students,James W. Hennigan Elementary School,75
+Academic Growth,ELA Growth - Low-Performing Students,Higginson (K-2) / Higginson/Lewis K-8,75
+Academic Growth,ELA Growth - Low-Performing Students,Josiah Quincy Elementary School,75
+Academic Growth,Math Growth - Low-Performing Students,Joseph P. Manning Elementary School,-
+Academic Growth,Math Growth - Low-Performing Students,Henry Grew Elementary School,-
+Academic Growth,Math Growth - Low-Performing Students,Hugh R. O'Donnell Elementary School,-
+Academic Growth,Math Growth - Low-Performing Students,Horace Mann School for the Deaf & Hard of Hearing,-
+Academic Growth,Math Growth - Low-Performing Students,James J. Chittick Elementary School,-
+Academic Growth,Math Growth - Low-Performing Students,Joseph P. Tynan Elementary School,-
+Academic Growth,Math Growth - Low-Performing Students,Joseph Lee K-8 School,50
+Academic Growth,Math Growth - Low-Performing Students,John F. Kennedy Elementary School,50
+Academic Growth,Math Growth - Low-Performing Students,Harvard-Kent Elementary School,50
+Academic Growth,Math Growth - Low-Performing Students,Josiah Quincy Upper School,50
+Academic Growth,Math Growth - Low-Performing Students,James Otis Elementary School,100
+Academic Growth,Math Growth - Low-Performing Students,John D. O'Bryant School of Mathematics and Science,100
+Academic Growth,Math Growth - Low-Performing Students,Josiah Quincy Elementary School,100
+Academic Growth,Math Growth - Low-Performing Students,John Winthrop Elementary School,100
+Academic Growth,Math Growth - Low-Performing Students,John Eliot K-8 School,75
+Academic Growth,Math Growth - Low-Performing Students,James F. Condon K-8 School,75
+Academic Growth,Math Growth - Low-Performing Students,Joseph J. Hurley K-8 School,75
+Academic Growth,Math Growth - Low-Performing Students,Joyce Kilmer K-8 School,75
+Academic Growth,Math Growth - Low-Performing Students,James W. Hennigan Elementary School,75
+Academic Growth,Math Growth - Low-Performing Students,Higginson (K-2) / Higginson/Lewis K-8,75
+Academic Growth,English Learner Growth,Joseph P. Manning Elementary School,-
+Academic Growth,English Learner Growth,John D. O'Bryant School of Mathematics and Science,-
+Academic Growth,English Learner Growth,Horace Mann School for the Deaf & Hard of Hearing,-
+Academic Growth,English Learner Growth,Joseph P. Tynan Elementary School,-
+Academic Growth,English Learner Growth,Joyce Kilmer K-8 School,-
+Academic Growth,English Learner Growth,James J. Chittick Elementary School,-
+Academic Growth,English Learner Growth,Henry Grew Elementary School,25
+Academic Growth,English Learner Growth,John Winthrop Elementary School,50
+Academic Growth,English Learner Growth,James W. Hennigan Elementary School,50
+Academic Growth,English Learner Growth,Joseph J. Hurley K-8 School,50
+Academic Growth,English Learner Growth,Higginson (K-2) / Higginson/Lewis K-8,50
+Academic Growth,English Learner Growth,James F. Condon K-8 School,50
+Academic Growth,English Learner Growth,James Otis Elementary School,50
+Academic Growth,English Learner Growth,John F. Kennedy Elementary School,50
+Academic Growth,English Learner Growth,Joseph Lee K-8 School,100
+Academic Growth,English Learner Growth,Josiah Quincy Elementary School,100
+Academic Growth,English Learner Growth,Harvard-Kent Elementary School,100
+Academic Growth,English Learner Growth,John Eliot K-8 School,75
+Academic Growth,English Learner Growth,Josiah Quincy Upper School,75
+Academic Growth,English Learner Growth,Hugh R. O'Donnell Elementary School,75
+Academic Growth,Math Growth,Josiah Quincy Upper School,73.5
+Academic Growth,Math Growth,John D. O'Bryant School of Mathematics and Science,80.2
+Academic Growth,Math Growth,Horace Mann School for the Deaf & Hard of Hearing,-
+Academic Growth,Math Growth,James F. Condon K-8 School,50
+Academic Growth,Math Growth,James W. Hennigan Elementary School,50
+Academic Growth,Math Growth,Henry Grew Elementary School,50
+Academic Growth,Math Growth,Harvard-Kent Elementary School,50
+Academic Growth,Math Growth,Joseph Lee K-8 School,50
+Academic Growth,Math Growth,Higginson (K-2) / Higginson/Lewis K-8,50
+Academic Growth,Math Growth,James Otis Elementary School,100
+Academic Growth,Math Growth,Hugh R. O'Donnell Elementary School,100
+Academic Growth,Math Growth,James J. Chittick Elementary School,100
+Academic Growth,Math Growth,John Eliot K-8 School,100
+Academic Growth,Math Growth,John Winthrop Elementary School,100
+Academic Growth,Math Growth,Joseph P. Manning Elementary School,75
+Academic Growth,Math Growth,Joyce Kilmer K-8 School,75
+Academic Growth,Math Growth,John F. Kennedy Elementary School,75
+Academic Growth,Math Growth,Joseph P. Tynan Elementary School,75
+Academic Growth,Math Growth,Josiah Quincy Elementary School,75
+Academic Growth,Math Growth,Joseph J. Hurley K-8 School,75
+Academic Growth,Math Growth - Subgroups,Josiah Quincy Upper School,73.5
+Academic Growth,Math Growth - Subgroups,John D. O'Bryant School of Mathematics and Science,75.3
+Academic Growth,Math Growth - Subgroups,James J. Chittick Elementary School,-
+Academic Growth,Math Growth - Subgroups,Joseph P. Tynan Elementary School,-
+Academic Growth,Math Growth - Subgroups,Horace Mann School for the Deaf & Hard of Hearing,-
+Academic Growth,Math Growth - Subgroups,Harvard-Kent Elementary School,25
+Academic Growth,Math Growth - Subgroups,Henry Grew Elementary School,25
+Academic Growth,Math Growth - Subgroups,James W. Hennigan Elementary School,50
+Academic Growth,Math Growth - Subgroups,Joseph Lee K-8 School,50
+Academic Growth,Math Growth - Subgroups,Hugh R. O'Donnell Elementary School,100
+Academic Growth,Math Growth - Subgroups,John Winthrop Elementary School,100
+Academic Growth,Math Growth - Subgroups,James Otis Elementary School,100
+Academic Growth,Math Growth - Subgroups,John F. Kennedy Elementary School,75
+Academic Growth,Math Growth - Subgroups,Josiah Quincy Elementary School,75
+Academic Growth,Math Growth - Subgroups,Joseph J. Hurley K-8 School,75
+Academic Growth,Math Growth - Subgroups,Joseph P. Manning Elementary School,75
+Academic Growth,Math Growth - Subgroups,John Eliot K-8 School,81.3
+Academic Growth,Math Growth - Subgroups,Joyce Kilmer K-8 School,58.3
+Academic Growth,Math Growth - Subgroups,James F. Condon K-8 School,58.3
+Academic Growth,Math Growth - Subgroups,Higginson (K-2) / Higginson/Lewis K-8,66.7
+College and Career,Students in College after Graduation,Horace Mann School for the Deaf & Hard of Hearing,-
+College and Career,Students in College after Graduation,Josiah Quincy Upper School,25
+College and Career,Students in College after Graduation,John D. O'Bryant School of Mathematics and Science,100
+Grade Level Mastery,School Meets ELA MCAS Goals,Horace Mann School for the Deaf & Hard of Hearing,-
+Grade Level Mastery,School Meets ELA MCAS Goals,Joseph J. Hurley K-8 School,-
+Grade Level Mastery,School Meets ELA MCAS Goals,Harvard-Kent Elementary School,-
+Grade Level Mastery,School Meets ELA MCAS Goals,Henry Grew Elementary School,-
+Grade Level Mastery,School Meets ELA MCAS Goals,Joseph P. Manning Elementary School,-
+Grade Level Mastery,School Meets ELA MCAS Goals,James F. Condon K-8 School,-
+Grade Level Mastery,School Meets ELA MCAS Goals,John D. O'Bryant School of Mathematics and Science,-
+Grade Level Mastery,School Meets ELA MCAS Goals,Josiah Quincy Upper School,-
+Grade Level Mastery,School Meets ELA MCAS Goals,Joyce Kilmer K-8 School,-
+Grade Level Mastery,School Meets ELA MCAS Goals,Hugh R. O'Donnell Elementary School,25
+Grade Level Mastery,School Meets ELA MCAS Goals,Josiah Quincy Elementary School,50
+Grade Level Mastery,School Meets ELA MCAS Goals,John Eliot K-8 School,50
+Grade Level Mastery,School Meets ELA MCAS Goals,James W. Hennigan Elementary School,50
+Grade Level Mastery,School Meets ELA MCAS Goals,John F. Kennedy Elementary School,50
+Grade Level Mastery,School Meets ELA MCAS Goals,John Winthrop Elementary School,100
+Grade Level Mastery,School Meets ELA MCAS Goals,James J. Chittick Elementary School,100
+Grade Level Mastery,School Meets ELA MCAS Goals,Higginson (K-2) / Higginson/Lewis K-8,100
+Grade Level Mastery,School Meets ELA MCAS Goals,Joseph P. Tynan Elementary School,100
+Grade Level Mastery,School Meets ELA MCAS Goals,James Otis Elementary School,75
+Grade Level Mastery,School Meets ELA MCAS Goals,Joseph Lee K-8 School,75
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,John D. O'Bryant School of Mathematics and Science,5.2
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,James F. Condon K-8 School,16.7
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Josiah Quincy Upper School,8.8
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,John F. Kennedy Elementary School,33.3
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Joyce Kilmer K-8 School,-
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Horace Mann School for the Deaf & Hard of Hearing,-
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Joseph J. Hurley K-8 School,-
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Henry Grew Elementary School,-
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Harvard-Kent Elementary School,-
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Joseph P. Tynan Elementary School,-
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Hugh R. O'Donnell Elementary School,50
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,James Otis Elementary School,50
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,James J. Chittick Elementary School,100
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Josiah Quincy Elementary School,62.5
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,James W. Hennigan Elementary School,37.5
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,John Eliot K-8 School,37.5
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,John Winthrop Elementary School,75
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Joseph P. Manning Elementary School,75
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Joseph Lee K-8 School,75
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Higginson (K-2) / Higginson/Lewis K-8,87.5
+Grade Level Mastery,School Meets Math MCAS Goals,John D. O'Bryant School of Mathematics and Science,59.4
+Grade Level Mastery,School Meets Math MCAS Goals,Josiah Quincy Upper School,-
+Grade Level Mastery,School Meets Math MCAS Goals,Horace Mann School for the Deaf & Hard of Hearing,-
+Grade Level Mastery,School Meets Math MCAS Goals,Henry Grew Elementary School,-
+Grade Level Mastery,School Meets Math MCAS Goals,Joseph P. Manning Elementary School,50
+Grade Level Mastery,School Meets Math MCAS Goals,Joseph P. Tynan Elementary School,50
+Grade Level Mastery,School Meets Math MCAS Goals,Joseph J. Hurley K-8 School,50
+Grade Level Mastery,School Meets Math MCAS Goals,Josiah Quincy Elementary School,50
+Grade Level Mastery,School Meets Math MCAS Goals,James F. Condon K-8 School,50
+Grade Level Mastery,School Meets Math MCAS Goals,Joyce Kilmer K-8 School,50
+Grade Level Mastery,School Meets Math MCAS Goals,John F. Kennedy Elementary School,100
+Grade Level Mastery,School Meets Math MCAS Goals,James Otis Elementary School,100
+Grade Level Mastery,School Meets Math MCAS Goals,John Winthrop Elementary School,100
+Grade Level Mastery,School Meets Math MCAS Goals,Higginson (K-2) / Higginson/Lewis K-8,100
+Grade Level Mastery,School Meets Math MCAS Goals,John Eliot K-8 School,100
+Grade Level Mastery,School Meets Math MCAS Goals,Joseph Lee K-8 School,100
+Grade Level Mastery,School Meets Math MCAS Goals,James J. Chittick Elementary School,100
+Grade Level Mastery,School Meets Math MCAS Goals,Hugh R. O'Donnell Elementary School,100
+Grade Level Mastery,School Meets Math MCAS Goals,Harvard-Kent Elementary School,75
+Grade Level Mastery,School Meets Math MCAS Goals,James W. Hennigan Elementary School,75
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,James F. Condon K-8 School,83.3
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,John D. O'Bryant School of Mathematics and Science,48.4
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,John F. Kennedy Elementary School,33.3
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Josiah Quincy Upper School,8.8
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Joseph P. Tynan Elementary School,-
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Henry Grew Elementary School,-
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Horace Mann School for the Deaf & Hard of Hearing,-
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Joseph P. Manning Elementary School,-
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Joyce Kilmer K-8 School,50
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,James Otis Elementary School,50
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,James J. Chittick Elementary School,100
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Higginson (K-2) / Higginson/Lewis K-8,100
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Hugh R. O'Donnell Elementary School,100
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,John Winthrop Elementary School,100
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Josiah Quincy Elementary School,62.5
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Joseph J. Hurley K-8 School,37.5
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,James W. Hennigan Elementary School,75
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Joseph Lee K-8 School,75
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,John Eliot K-8 School,68.8
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Harvard-Kent Elementary School,58.3
+Grade Level Mastery,School Meets Science MCAS Goals,Josiah Quincy Upper School,23.5
+Grade Level Mastery,School Meets Science MCAS Goals,John D. O'Bryant School of Mathematics and Science,39.6
+Grade Level Mastery,School Meets Science MCAS Goals,Josiah Quincy Elementary School,-
+Grade Level Mastery,School Meets Science MCAS Goals,Joseph P. Manning Elementary School,-
+Grade Level Mastery,School Meets Science MCAS Goals,Hugh R. O'Donnell Elementary School,-
+Grade Level Mastery,School Meets Science MCAS Goals,John Eliot K-8 School,-
+Grade Level Mastery,School Meets Science MCAS Goals,James J. Chittick Elementary School,-
+Grade Level Mastery,School Meets Science MCAS Goals,Joyce Kilmer K-8 School,-
+Grade Level Mastery,School Meets Science MCAS Goals,Horace Mann School for the Deaf & Hard of Hearing,-
+Grade Level Mastery,School Meets Science MCAS Goals,James W. Hennigan Elementary School,-
+Grade Level Mastery,School Meets Science MCAS Goals,Joseph P. Tynan Elementary School,-
+Grade Level Mastery,School Meets Science MCAS Goals,Henry Grew Elementary School,-
+Grade Level Mastery,School Meets Science MCAS Goals,James F. Condon K-8 School,25
+Grade Level Mastery,School Meets Science MCAS Goals,Joseph Lee K-8 School,50
+Grade Level Mastery,School Meets Science MCAS Goals,Joseph J. Hurley K-8 School,50
+Grade Level Mastery,School Meets Science MCAS Goals,Higginson (K-2) / Higginson/Lewis K-8,50
+Grade Level Mastery,School Meets Science MCAS Goals,John Winthrop Elementary School,100
+Grade Level Mastery,School Meets Science MCAS Goals,Harvard-Kent Elementary School,100
+Grade Level Mastery,School Meets Science MCAS Goals,James Otis Elementary School,100
+Grade Level Mastery,School Meets Science MCAS Goals,John F. Kennedy Elementary School,75

@@ -1,0 +1,368 @@
+Outcome,Metric,School_Name,Score
+College and Career,Graduate in 4 Years,"Dearborn Science, Technology, Engineering and Mathematics Academy",60
+College and Career,Graduate in 4 Years,Excel High School,42.9
+College and Career,Graduate in 4 Years,Dr. William W. Henderson K-12 Inclusion School,57.1
+College and Career,Graduate in 4 Years,East Boston High School,50
+College and Career,Graduate in 4 Years,Fenway High School,50
+College and Career,Graduate in 4 Years,Edward M. Kennedy Academy for Health Careers,100
+College and Career,Graduate in 5 Years,Fenway High School,95.8
+College and Career,Graduate in 5 Years,East Boston High School,85.7
+College and Career,Graduate in 5 Years,Dr. William W. Henderson K-12 Inclusion School,71.4
+College and Career,Graduate in 5 Years,"Dearborn Science, Technology, Engineering and Mathematics Academy",95
+College and Career,Graduate in 5 Years,Greater Egleston Community High School,-
+College and Career,Graduate in 5 Years,Excel High School,50
+College and Career,Graduate in 5 Years,Edward M. Kennedy Academy for Health Careers,100
+Grade Level Mastery,ELA Achievement Gap,Dennis C. Haley Elementary School,-
+Grade Level Mastery,ELA Achievement Gap,Donald McKay K-8 School,-
+Grade Level Mastery,ELA Achievement Gap,Dudley Street Neighborhood Charter School,-
+Grade Level Mastery,ELA Achievement Gap,David A. Ellis Elementary School,-
+Grade Level Mastery,ELA Achievement Gap,East Boston Early Education Center,-
+Grade Level Mastery,ELA Achievement Gap,East Boston High School,-
+Grade Level Mastery,ELA Achievement Gap,"Dearborn Science, Technology, Engineering and Mathematics Academy",-
+Grade Level Mastery,ELA Achievement Gap,F. Lyman Winship Elementary School,-
+Grade Level Mastery,ELA Achievement Gap,Gardner Pilot Academy,-
+Grade Level Mastery,ELA Achievement Gap,Edward Everett Elementary School,-
+Grade Level Mastery,ELA Achievement Gap,Ellis Mendell Elementary School,-
+Grade Level Mastery,ELA Achievement Gap,Edward M. Kennedy Academy for Health Careers,-
+Grade Level Mastery,ELA Achievement Gap,Harriet A. Baldwin Early Learning Pilot Academy,-
+Grade Level Mastery,ELA Achievement Gap,Greater Egleston Community High School,-
+Grade Level Mastery,ELA Achievement Gap,George H. Conley Elementary School,-
+Grade Level Mastery,ELA Achievement Gap,Fenway High School,-
+Grade Level Mastery,ELA Achievement Gap,Excel High School,-
+Grade Level Mastery,ELA Achievement Gap,Dr. Catherine Ellison - Rosa Parks Early Education School,-
+Grade Level Mastery,ELA Achievement Gap,Dr. William W. Henderson K-12 Inclusion School,25
+Grade Level Mastery,ELA Achievement Gap,Franklin D. Roosevelt Elementary School,75
+Grade Level Mastery,Math Achievement Gap,"Dearborn Science, Technology, Engineering and Mathematics Academy",-
+Grade Level Mastery,Math Achievement Gap,Donald McKay K-8 School,-
+Grade Level Mastery,Math Achievement Gap,F. Lyman Winship Elementary School,-
+Grade Level Mastery,Math Achievement Gap,Fenway High School,-
+Grade Level Mastery,Math Achievement Gap,Ellis Mendell Elementary School,-
+Grade Level Mastery,Math Achievement Gap,Edward Everett Elementary School,-
+Grade Level Mastery,Math Achievement Gap,Edward M. Kennedy Academy for Health Careers,-
+Grade Level Mastery,Math Achievement Gap,Dr. Catherine Ellison - Rosa Parks Early Education School,-
+Grade Level Mastery,Math Achievement Gap,Greater Egleston Community High School,-
+Grade Level Mastery,Math Achievement Gap,East Boston High School,-
+Grade Level Mastery,Math Achievement Gap,David A. Ellis Elementary School,-
+Grade Level Mastery,Math Achievement Gap,East Boston Early Education Center,-
+Grade Level Mastery,Math Achievement Gap,Harriet A. Baldwin Early Learning Pilot Academy,-
+Grade Level Mastery,Math Achievement Gap,Dr. William W. Henderson K-12 Inclusion School,-
+Grade Level Mastery,Math Achievement Gap,Excel High School,-
+Grade Level Mastery,Math Achievement Gap,Dudley Street Neighborhood Charter School,-
+Grade Level Mastery,Math Achievement Gap,Dennis C. Haley Elementary School,25
+Grade Level Mastery,Math Achievement Gap,Franklin D. Roosevelt Elementary School,100
+Grade Level Mastery,Math Achievement Gap,George H. Conley Elementary School,100
+Grade Level Mastery,Math Achievement Gap,Gardner Pilot Academy,75
+College and Career,Students Set Goals and Persist,Greater Egleston Community High School,-
+College and Career,Students Set Goals and Persist,East Boston Early Education Center,-
+College and Career,Students Set Goals and Persist,Harriet A. Baldwin Early Learning Pilot Academy,-
+College and Career,Students Set Goals and Persist,Dr. Catherine Ellison - Rosa Parks Early Education School,-
+College and Career,Students Set Goals and Persist,Excel High School,25
+College and Career,Students Set Goals and Persist,Franklin D. Roosevelt Elementary School,50
+College and Career,Students Set Goals and Persist,"Dearborn Science, Technology, Engineering and Mathematics Academy",50
+College and Career,Students Set Goals and Persist,Edward M. Kennedy Academy for Health Careers,50
+College and Career,Students Set Goals and Persist,East Boston High School,50
+College and Career,Students Set Goals and Persist,Donald McKay K-8 School,50
+College and Career,Students Set Goals and Persist,Gardner Pilot Academy,50
+College and Career,Students Set Goals and Persist,Dennis C. Haley Elementary School,62.5
+College and Career,Students Set Goals and Persist,Dr. William W. Henderson K-12 Inclusion School,62.5
+College and Career,Students Set Goals and Persist,Ellis Mendell Elementary School,62.5
+College and Career,Students Set Goals and Persist,Dudley Street Neighborhood Charter School,75
+College and Career,Students Set Goals and Persist,Fenway High School,75
+College and Career,Students Set Goals and Persist,George H. Conley Elementary School,75
+College and Career,Students Set Goals and Persist,Edward Everett Elementary School,75
+College and Career,Students Set Goals and Persist,F. Lyman Winship Elementary School,75
+College and Career,Students Set Goals and Persist,David A. Ellis Elementary School,75
+College and Career,Drop-Out Rate,East Boston High School,-
+College and Career,Drop-Out Rate,Fenway High School,-
+College and Career,Drop-Out Rate,Greater Egleston Community High School,-
+College and Career,Drop-Out Rate,Dr. William W. Henderson K-12 Inclusion School,-
+College and Career,Drop-Out Rate,"Dearborn Science, Technology, Engineering and Mathematics Academy",-
+College and Career,Drop-Out Rate,Excel High School,25
+College and Career,Drop-Out Rate,Edward M. Kennedy Academy for Health Careers,100
+Academic Growth,ELA Growth,East Boston High School,54.4
+Academic Growth,ELA Growth,Greater Egleston Community High School,-
+Academic Growth,ELA Growth,East Boston Early Education Center,-
+Academic Growth,ELA Growth,Dr. Catherine Ellison - Rosa Parks Early Education School,-
+Academic Growth,ELA Growth,Excel High School,-
+Academic Growth,ELA Growth,Harriet A. Baldwin Early Learning Pilot Academy,-
+Academic Growth,ELA Growth,"Dearborn Science, Technology, Engineering and Mathematics Academy",50
+Academic Growth,ELA Growth,Ellis Mendell Elementary School,50
+Academic Growth,ELA Growth,Gardner Pilot Academy,50
+Academic Growth,ELA Growth,Franklin D. Roosevelt Elementary School,50
+Academic Growth,ELA Growth,Edward M. Kennedy Academy for Health Careers,50
+Academic Growth,ELA Growth,Fenway High School,50
+Academic Growth,ELA Growth,Edward Everett Elementary School,50
+Academic Growth,ELA Growth,Dennis C. Haley Elementary School,50
+Academic Growth,ELA Growth,Dr. William W. Henderson K-12 Inclusion School,50
+Academic Growth,ELA Growth,Dudley Street Neighborhood Charter School,50
+Academic Growth,ELA Growth,George H. Conley Elementary School,75
+Academic Growth,ELA Growth,F. Lyman Winship Elementary School,75
+Academic Growth,ELA Growth,Donald McKay K-8 School,75
+Academic Growth,ELA Growth,David A. Ellis Elementary School,75
+Academic Growth,ELA Growth - Subgroups,Dr. William W. Henderson K-12 Inclusion School,54.9
+Academic Growth,ELA Growth - Subgroups,"Dearborn Science, Technology, Engineering and Mathematics Academy",54.5
+Academic Growth,ELA Growth - Subgroups,East Boston High School,52.2
+Academic Growth,ELA Growth - Subgroups,George H. Conley Elementary School,-
+Academic Growth,ELA Growth - Subgroups,Greater Egleston Community High School,-
+Academic Growth,ELA Growth - Subgroups,East Boston Early Education Center,-
+Academic Growth,ELA Growth - Subgroups,Excel High School,-
+Academic Growth,ELA Growth - Subgroups,Dr. Catherine Ellison - Rosa Parks Early Education School,-
+Academic Growth,ELA Growth - Subgroups,Harriet A. Baldwin Early Learning Pilot Academy,-
+Academic Growth,ELA Growth - Subgroups,Gardner Pilot Academy,50
+Academic Growth,ELA Growth - Subgroups,Fenway High School,50
+Academic Growth,ELA Growth - Subgroups,Edward M. Kennedy Academy for Health Careers,50
+Academic Growth,ELA Growth - Subgroups,Franklin D. Roosevelt Elementary School,50
+Academic Growth,ELA Growth - Subgroups,Ellis Mendell Elementary School,62.5
+Academic Growth,ELA Growth - Subgroups,Edward Everett Elementary School,62.5
+Academic Growth,ELA Growth - Subgroups,Dudley Street Neighborhood Charter School,37.5
+Academic Growth,ELA Growth - Subgroups,F. Lyman Winship Elementary School,75
+Academic Growth,ELA Growth - Subgroups,David A. Ellis Elementary School,75
+Academic Growth,ELA Growth - Subgroups,Donald McKay K-8 School,87.5
+Academic Growth,ELA Growth - Subgroups,Dennis C. Haley Elementary School,56.3
+Academic Growth,ELA Growth - High-Performing Students,"Dearborn Science, Technology, Engineering and Mathematics Academy",-
+Academic Growth,ELA Growth - High-Performing Students,Greater Egleston Community High School,-
+Academic Growth,ELA Growth - High-Performing Students,Harriet A. Baldwin Early Learning Pilot Academy,-
+Academic Growth,ELA Growth - High-Performing Students,David A. Ellis Elementary School,-
+Academic Growth,ELA Growth - High-Performing Students,Fenway High School,-
+Academic Growth,ELA Growth - High-Performing Students,Excel High School,-
+Academic Growth,ELA Growth - High-Performing Students,George H. Conley Elementary School,-
+Academic Growth,ELA Growth - High-Performing Students,East Boston Early Education Center,-
+Academic Growth,ELA Growth - High-Performing Students,Edward M. Kennedy Academy for Health Careers,-
+Academic Growth,ELA Growth - High-Performing Students,Dr. Catherine Ellison - Rosa Parks Early Education School,-
+Academic Growth,ELA Growth - High-Performing Students,Dudley Street Neighborhood Charter School,-
+Academic Growth,ELA Growth - High-Performing Students,Dr. William W. Henderson K-12 Inclusion School,25
+Academic Growth,ELA Growth - High-Performing Students,Franklin D. Roosevelt Elementary School,50
+Academic Growth,ELA Growth - High-Performing Students,Gardner Pilot Academy,50
+Academic Growth,ELA Growth - High-Performing Students,Dennis C. Haley Elementary School,50
+Academic Growth,ELA Growth - High-Performing Students,Edward Everett Elementary School,50
+Academic Growth,ELA Growth - High-Performing Students,Ellis Mendell Elementary School,50
+Academic Growth,ELA Growth - High-Performing Students,East Boston High School,100
+Academic Growth,ELA Growth - High-Performing Students,Donald McKay K-8 School,75
+Academic Growth,ELA Growth - High-Performing Students,F. Lyman Winship Elementary School,75
+Academic Growth,Math Growth - High-Performing Students,Dr. Catherine Ellison - Rosa Parks Early Education School,-
+Academic Growth,Math Growth - High-Performing Students,Dr. William W. Henderson K-12 Inclusion School,-
+Academic Growth,Math Growth - High-Performing Students,Excel High School,-
+Academic Growth,Math Growth - High-Performing Students,East Boston High School,-
+Academic Growth,Math Growth - High-Performing Students,Dudley Street Neighborhood Charter School,-
+Academic Growth,Math Growth - High-Performing Students,East Boston Early Education Center,-
+Academic Growth,Math Growth - High-Performing Students,"Dearborn Science, Technology, Engineering and Mathematics Academy",-
+Academic Growth,Math Growth - High-Performing Students,Harriet A. Baldwin Early Learning Pilot Academy,-
+Academic Growth,Math Growth - High-Performing Students,Edward M. Kennedy Academy for Health Careers,-
+Academic Growth,Math Growth - High-Performing Students,Greater Egleston Community High School,-
+Academic Growth,Math Growth - High-Performing Students,George H. Conley Elementary School,-
+Academic Growth,Math Growth - High-Performing Students,David A. Ellis Elementary School,-
+Academic Growth,Math Growth - High-Performing Students,Fenway High School,-
+Academic Growth,Math Growth - High-Performing Students,Edward Everett Elementary School,25
+Academic Growth,Math Growth - High-Performing Students,Ellis Mendell Elementary School,50
+Academic Growth,Math Growth - High-Performing Students,F. Lyman Winship Elementary School,50
+Academic Growth,Math Growth - High-Performing Students,Franklin D. Roosevelt Elementary School,50
+Academic Growth,Math Growth - High-Performing Students,Donald McKay K-8 School,100
+Academic Growth,Math Growth - High-Performing Students,Gardner Pilot Academy,75
+Academic Growth,Math Growth - High-Performing Students,Dennis C. Haley Elementary School,75
+Academic Growth,ELA Growth - Low-Performing Students,Harriet A. Baldwin Early Learning Pilot Academy,-
+Academic Growth,ELA Growth - Low-Performing Students,David A. Ellis Elementary School,-
+Academic Growth,ELA Growth - Low-Performing Students,Fenway High School,-
+Academic Growth,ELA Growth - Low-Performing Students,Greater Egleston Community High School,-
+Academic Growth,ELA Growth - Low-Performing Students,East Boston Early Education Center,-
+Academic Growth,ELA Growth - Low-Performing Students,Dudley Street Neighborhood Charter School,-
+Academic Growth,ELA Growth - Low-Performing Students,Excel High School,-
+Academic Growth,ELA Growth - Low-Performing Students,Dr. Catherine Ellison - Rosa Parks Early Education School,-
+Academic Growth,ELA Growth - Low-Performing Students,George H. Conley Elementary School,-
+Academic Growth,ELA Growth - Low-Performing Students,Edward Everett Elementary School,-
+Academic Growth,ELA Growth - Low-Performing Students,Ellis Mendell Elementary School,50
+Academic Growth,ELA Growth - Low-Performing Students,Franklin D. Roosevelt Elementary School,50
+Academic Growth,ELA Growth - Low-Performing Students,"Dearborn Science, Technology, Engineering and Mathematics Academy",50
+Academic Growth,ELA Growth - Low-Performing Students,Dennis C. Haley Elementary School,50
+Academic Growth,ELA Growth - Low-Performing Students,Edward M. Kennedy Academy for Health Careers,50
+Academic Growth,ELA Growth - Low-Performing Students,Dr. William W. Henderson K-12 Inclusion School,50
+Academic Growth,ELA Growth - Low-Performing Students,F. Lyman Winship Elementary School,50
+Academic Growth,ELA Growth - Low-Performing Students,Gardner Pilot Academy,50
+Academic Growth,ELA Growth - Low-Performing Students,East Boston High School,75
+Academic Growth,ELA Growth - Low-Performing Students,Donald McKay K-8 School,75
+Academic Growth,Math Growth - Low-Performing Students,East Boston High School,91.2
+Academic Growth,Math Growth - Low-Performing Students,George H. Conley Elementary School,-
+Academic Growth,Math Growth - Low-Performing Students,David A. Ellis Elementary School,-
+Academic Growth,Math Growth - Low-Performing Students,East Boston Early Education Center,-
+Academic Growth,Math Growth - Low-Performing Students,Harriet A. Baldwin Early Learning Pilot Academy,-
+Academic Growth,Math Growth - Low-Performing Students,Dr. Catherine Ellison - Rosa Parks Early Education School,-
+Academic Growth,Math Growth - Low-Performing Students,Dudley Street Neighborhood Charter School,-
+Academic Growth,Math Growth - Low-Performing Students,Edward Everett Elementary School,-
+Academic Growth,Math Growth - Low-Performing Students,Fenway High School,-
+Academic Growth,Math Growth - Low-Performing Students,Greater Egleston Community High School,-
+Academic Growth,Math Growth - Low-Performing Students,Excel High School,-
+Academic Growth,Math Growth - Low-Performing Students,Ellis Mendell Elementary School,50
+Academic Growth,Math Growth - Low-Performing Students,"Dearborn Science, Technology, Engineering and Mathematics Academy",50
+Academic Growth,Math Growth - Low-Performing Students,Dennis C. Haley Elementary School,50
+Academic Growth,Math Growth - Low-Performing Students,Dr. William W. Henderson K-12 Inclusion School,50
+Academic Growth,Math Growth - Low-Performing Students,Gardner Pilot Academy,50
+Academic Growth,Math Growth - Low-Performing Students,Franklin D. Roosevelt Elementary School,50
+Academic Growth,Math Growth - Low-Performing Students,F. Lyman Winship Elementary School,75
+Academic Growth,Math Growth - Low-Performing Students,Edward M. Kennedy Academy for Health Careers,75
+Academic Growth,Math Growth - Low-Performing Students,Donald McKay K-8 School,75
+Academic Growth,English Learner Growth,East Boston Early Education Center,-
+Academic Growth,English Learner Growth,George H. Conley Elementary School,-
+Academic Growth,English Learner Growth,Dr. Catherine Ellison - Rosa Parks Early Education School,-
+Academic Growth,English Learner Growth,Greater Egleston Community High School,-
+Academic Growth,English Learner Growth,Harriet A. Baldwin Early Learning Pilot Academy,-
+Academic Growth,English Learner Growth,Ellis Mendell Elementary School,25
+Academic Growth,English Learner Growth,Dr. William W. Henderson K-12 Inclusion School,50
+Academic Growth,English Learner Growth,"Dearborn Science, Technology, Engineering and Mathematics Academy",50
+Academic Growth,English Learner Growth,Gardner Pilot Academy,50
+Academic Growth,English Learner Growth,Dudley Street Neighborhood Charter School,50
+Academic Growth,English Learner Growth,Dennis C. Haley Elementary School,100
+Academic Growth,English Learner Growth,Excel High School,100
+Academic Growth,English Learner Growth,Fenway High School,100
+Academic Growth,English Learner Growth,F. Lyman Winship Elementary School,100
+Academic Growth,English Learner Growth,Franklin D. Roosevelt Elementary School,75
+Academic Growth,English Learner Growth,David A. Ellis Elementary School,75
+Academic Growth,English Learner Growth,Donald McKay K-8 School,75
+Academic Growth,English Learner Growth,Edward M. Kennedy Academy for Health Careers,75
+Academic Growth,English Learner Growth,East Boston High School,75
+Academic Growth,English Learner Growth,Edward Everett Elementary School,75
+Academic Growth,Math Growth,East Boston High School,86.8
+Academic Growth,Math Growth,"Dearborn Science, Technology, Engineering and Mathematics Academy",65.9
+Academic Growth,Math Growth,Harriet A. Baldwin Early Learning Pilot Academy,-
+Academic Growth,Math Growth,Greater Egleston Community High School,-
+Academic Growth,Math Growth,Dr. Catherine Ellison - Rosa Parks Early Education School,-
+Academic Growth,Math Growth,East Boston Early Education Center,-
+Academic Growth,Math Growth,Edward Everett Elementary School,25
+Academic Growth,Math Growth,George H. Conley Elementary School,50
+Academic Growth,Math Growth,Dr. William W. Henderson K-12 Inclusion School,50
+Academic Growth,Math Growth,Excel High School,50
+Academic Growth,Math Growth,Franklin D. Roosevelt Elementary School,50
+Academic Growth,Math Growth,F. Lyman Winship Elementary School,50
+Academic Growth,Math Growth,Ellis Mendell Elementary School,50
+Academic Growth,Math Growth,David A. Ellis Elementary School,50
+Academic Growth,Math Growth,Dudley Street Neighborhood Charter School,50
+Academic Growth,Math Growth,Fenway High School,100
+Academic Growth,Math Growth,Dennis C. Haley Elementary School,75
+Academic Growth,Math Growth,Donald McKay K-8 School,75
+Academic Growth,Math Growth,Edward M. Kennedy Academy for Health Careers,75
+Academic Growth,Math Growth,Gardner Pilot Academy,75
+Academic Growth,Math Growth - Subgroups,East Boston High School,86.8
+Academic Growth,Math Growth - Subgroups,Dr. William W. Henderson K-12 Inclusion School,40.1
+Academic Growth,Math Growth - Subgroups,"Dearborn Science, Technology, Engineering and Mathematics Academy",61.4
+Academic Growth,Math Growth - Subgroups,Dr. Catherine Ellison - Rosa Parks Early Education School,-
+Academic Growth,Math Growth - Subgroups,George H. Conley Elementary School,-
+Academic Growth,Math Growth - Subgroups,Harriet A. Baldwin Early Learning Pilot Academy,-
+Academic Growth,Math Growth - Subgroups,East Boston Early Education Center,-
+Academic Growth,Math Growth - Subgroups,Greater Egleston Community High School,-
+Academic Growth,Math Growth - Subgroups,Excel High School,-
+Academic Growth,Math Growth - Subgroups,David A. Ellis Elementary School,50
+Academic Growth,Math Growth - Subgroups,Donald McKay K-8 School,50
+Academic Growth,Math Growth - Subgroups,Fenway High School,100
+Academic Growth,Math Growth - Subgroups,F. Lyman Winship Elementary School,62.5
+Academic Growth,Math Growth - Subgroups,Ellis Mendell Elementary School,62.5
+Academic Growth,Math Growth - Subgroups,Dennis C. Haley Elementary School,62.5
+Academic Growth,Math Growth - Subgroups,Dudley Street Neighborhood Charter School,37.5
+Academic Growth,Math Growth - Subgroups,Edward Everett Elementary School,37.5
+Academic Growth,Math Growth - Subgroups,Edward M. Kennedy Academy for Health Careers,87.5
+Academic Growth,Math Growth - Subgroups,Gardner Pilot Academy,58.3
+Academic Growth,Math Growth - Subgroups,Franklin D. Roosevelt Elementary School,66.7
+College and Career,Students in College after Graduation,"Dearborn Science, Technology, Engineering and Mathematics Academy",-
+College and Career,Students in College after Graduation,Greater Egleston Community High School,-
+College and Career,Students in College after Graduation,Excel High School,-
+College and Career,Students in College after Graduation,Edward M. Kennedy Academy for Health Careers,-
+College and Career,Students in College after Graduation,Dr. William W. Henderson K-12 Inclusion School,50
+College and Career,Students in College after Graduation,East Boston High School,50
+College and Career,Students in College after Graduation,Fenway High School,50
+Grade Level Mastery,School Meets ELA MCAS Goals,"Dearborn Science, Technology, Engineering and Mathematics Academy",31.8
+Grade Level Mastery,School Meets ELA MCAS Goals,Dr. William W. Henderson K-12 Inclusion School,34.9
+Grade Level Mastery,School Meets ELA MCAS Goals,East Boston High School,17.6
+Grade Level Mastery,School Meets ELA MCAS Goals,Ellis Mendell Elementary School,-
+Grade Level Mastery,School Meets ELA MCAS Goals,Dr. Catherine Ellison - Rosa Parks Early Education School,-
+Grade Level Mastery,School Meets ELA MCAS Goals,Edward M. Kennedy Academy for Health Careers,-
+Grade Level Mastery,School Meets ELA MCAS Goals,Edward Everett Elementary School,-
+Grade Level Mastery,School Meets ELA MCAS Goals,East Boston Early Education Center,-
+Grade Level Mastery,School Meets ELA MCAS Goals,Excel High School,-
+Grade Level Mastery,School Meets ELA MCAS Goals,Dudley Street Neighborhood Charter School,-
+Grade Level Mastery,School Meets ELA MCAS Goals,Greater Egleston Community High School,-
+Grade Level Mastery,School Meets ELA MCAS Goals,Gardner Pilot Academy,-
+Grade Level Mastery,School Meets ELA MCAS Goals,Harriet A. Baldwin Early Learning Pilot Academy,-
+Grade Level Mastery,School Meets ELA MCAS Goals,Dennis C. Haley Elementary School,25
+Grade Level Mastery,School Meets ELA MCAS Goals,George H. Conley Elementary School,50
+Grade Level Mastery,School Meets ELA MCAS Goals,F. Lyman Winship Elementary School,50
+Grade Level Mastery,School Meets ELA MCAS Goals,Donald McKay K-8 School,50
+Grade Level Mastery,School Meets ELA MCAS Goals,Franklin D. Roosevelt Elementary School,50
+Grade Level Mastery,School Meets ELA MCAS Goals,David A. Ellis Elementary School,100
+Grade Level Mastery,School Meets ELA MCAS Goals,Fenway High School,100
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,East Boston High School,13.2
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,F. Lyman Winship Elementary School,12.5
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,"Dearborn Science, Technology, Engineering and Mathematics Academy",9.1
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Franklin D. Roosevelt Elementary School,41.7
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Dennis C. Haley Elementary School,-
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,East Boston Early Education Center,-
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Harriet A. Baldwin Early Learning Pilot Academy,-
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Edward M. Kennedy Academy for Health Careers,-
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Ellis Mendell Elementary School,-
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Greater Egleston Community High School,-
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Dudley Street Neighborhood Charter School,-
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Excel High School,-
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Gardner Pilot Academy,-
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Dr. Catherine Ellison - Rosa Parks Early Education School,-
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,George H. Conley Elementary School,25
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Donald McKay K-8 School,25
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Edward Everett Elementary School,25
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,David A. Ellis Elementary School,87.5
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Fenway High School,87.5
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Dr. William W. Henderson K-12 Inclusion School,56.3
+Grade Level Mastery,School Meets Math MCAS Goals,East Boston High School,8.8
+Grade Level Mastery,School Meets Math MCAS Goals,"Dearborn Science, Technology, Engineering and Mathematics Academy",18.2
+Grade Level Mastery,School Meets Math MCAS Goals,Edward M. Kennedy Academy for Health Careers,-
+Grade Level Mastery,School Meets Math MCAS Goals,Ellis Mendell Elementary School,-
+Grade Level Mastery,School Meets Math MCAS Goals,Greater Egleston Community High School,-
+Grade Level Mastery,School Meets Math MCAS Goals,Dudley Street Neighborhood Charter School,-
+Grade Level Mastery,School Meets Math MCAS Goals,East Boston Early Education Center,-
+Grade Level Mastery,School Meets Math MCAS Goals,Edward Everett Elementary School,-
+Grade Level Mastery,School Meets Math MCAS Goals,Excel High School,-
+Grade Level Mastery,School Meets Math MCAS Goals,Harriet A. Baldwin Early Learning Pilot Academy,-
+Grade Level Mastery,School Meets Math MCAS Goals,Dr. Catherine Ellison - Rosa Parks Early Education School,-
+Grade Level Mastery,School Meets Math MCAS Goals,David A. Ellis Elementary School,50
+Grade Level Mastery,School Meets Math MCAS Goals,Dr. William W. Henderson K-12 Inclusion School,50
+Grade Level Mastery,School Meets Math MCAS Goals,Gardner Pilot Academy,50
+Grade Level Mastery,School Meets Math MCAS Goals,Franklin D. Roosevelt Elementary School,50
+Grade Level Mastery,School Meets Math MCAS Goals,George H. Conley Elementary School,100
+Grade Level Mastery,School Meets Math MCAS Goals,Fenway High School,100
+Grade Level Mastery,School Meets Math MCAS Goals,Dennis C. Haley Elementary School,100
+Grade Level Mastery,School Meets Math MCAS Goals,Donald McKay K-8 School,100
+Grade Level Mastery,School Meets Math MCAS Goals,F. Lyman Winship Elementary School,75
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,"Dearborn Science, Technology, Engineering and Mathematics Academy",9.1
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Edward Everett Elementary School,8.3
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,East Boston High School,11
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Dr. William W. Henderson K-12 Inclusion School,43.8
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Dudley Street Neighborhood Charter School,-
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Harriet A. Baldwin Early Learning Pilot Academy,-
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,East Boston Early Education Center,-
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Dr. Catherine Ellison - Rosa Parks Early Education School,-
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Excel High School,-
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Greater Egleston Community High School,-
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Ellis Mendell Elementary School,-
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,George H. Conley Elementary School,-
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,David A. Ellis Elementary School,25
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Franklin D. Roosevelt Elementary School,25
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Edward M. Kennedy Academy for Health Careers,25
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Donald McKay K-8 School,50
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Dennis C. Haley Elementary School,50
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Gardner Pilot Academy,50
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Fenway High School,62.5
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,F. Lyman Winship Elementary School,75
+Grade Level Mastery,School Meets Science MCAS Goals,Dr. William W. Henderson K-12 Inclusion School,15.1
+Grade Level Mastery,School Meets Science MCAS Goals,East Boston High School,4.4
+Grade Level Mastery,School Meets Science MCAS Goals,"Dearborn Science, Technology, Engineering and Mathematics Academy",-
+Grade Level Mastery,School Meets Science MCAS Goals,Harriet A. Baldwin Early Learning Pilot Academy,-
+Grade Level Mastery,School Meets Science MCAS Goals,Greater Egleston Community High School,-
+Grade Level Mastery,School Meets Science MCAS Goals,Edward Everett Elementary School,-
+Grade Level Mastery,School Meets Science MCAS Goals,Excel High School,-
+Grade Level Mastery,School Meets Science MCAS Goals,Fenway High School,-
+Grade Level Mastery,School Meets Science MCAS Goals,East Boston Early Education Center,-
+Grade Level Mastery,School Meets Science MCAS Goals,Edward M. Kennedy Academy for Health Careers,-
+Grade Level Mastery,School Meets Science MCAS Goals,George H. Conley Elementary School,-
+Grade Level Mastery,School Meets Science MCAS Goals,Dr. Catherine Ellison - Rosa Parks Early Education School,-
+Grade Level Mastery,School Meets Science MCAS Goals,F. Lyman Winship Elementary School,-
+Grade Level Mastery,School Meets Science MCAS Goals,Ellis Mendell Elementary School,50
+Grade Level Mastery,School Meets Science MCAS Goals,Gardner Pilot Academy,50
+Grade Level Mastery,School Meets Science MCAS Goals,Franklin D. Roosevelt Elementary School,50
+Grade Level Mastery,School Meets Science MCAS Goals,David A. Ellis Elementary School,50
+Grade Level Mastery,School Meets Science MCAS Goals,Dennis C. Haley Elementary School,100
+Grade Level Mastery,School Meets Science MCAS Goals,Donald McKay K-8 School,75
+Grade Level Mastery,School Meets Science MCAS Goals,Dudley Street Neighborhood Charter School,75

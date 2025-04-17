@@ -1,0 +1,367 @@
+Outcome,Metric,School_Name,Score
+College and Career,Graduate in 4 Years,Madison Park Technical Vocational High School,29.2
+College and Career,Graduate in 4 Years,Mary Lyon Pilot High School,-
+College and Career,Graduate in 4 Years,New Mission High School,100
+College and Career,Graduate in 4 Years,Muriel S. Snowden International School at Copley,75
+College and Career,Graduate in 4 Years,Margarita Muniz Academy,81.3
+College and Career,Graduate in 5 Years,Madison Park Technical Vocational High School,70
+College and Career,Graduate in 5 Years,Margarita Muniz Academy,60
+College and Career,Graduate in 5 Years,New Mission High School,90
+College and Career,Graduate in 5 Years,Mel H. King Prep,-
+College and Career,Graduate in 5 Years,Mel H. King South End Academy,-
+College and Career,Graduate in 5 Years,Mary Lyon Pilot High School,-
+College and Career,Graduate in 5 Years,Muriel S. Snowden International School at Copley,50
+Grade Level Mastery,ELA Achievement Gap,Mel H. King Elementary,-
+Grade Level Mastery,ELA Achievement Gap,Mary Lyon Pilot High School,-
+Grade Level Mastery,ELA Achievement Gap,Nathan Hale Elementary School,-
+Grade Level Mastery,ELA Achievement Gap,Mario Umana Academy,-
+Grade Level Mastery,ELA Achievement Gap,Mildred Avenue K-8 School,-
+Grade Level Mastery,ELA Achievement Gap,Mel H. King South End Academy,-
+Grade Level Mastery,ELA Achievement Gap,Mather Elementary School,-
+Grade Level Mastery,ELA Achievement Gap,"Martin Luther King, Jr. Elementary School",-
+Grade Level Mastery,ELA Achievement Gap,Lee Academy,-
+Grade Level Mastery,ELA Achievement Gap,Michael J. Perkins Elementary School,-
+Grade Level Mastery,ELA Achievement Gap,Maurice J. Tobin K-8 School,-
+Grade Level Mastery,ELA Achievement Gap,Muriel S. Snowden International School at Copley,-
+Grade Level Mastery,ELA Achievement Gap,Mattahunt Elementary School,-
+Grade Level Mastery,ELA Achievement Gap,Madison Park Technical Vocational High School,-
+Grade Level Mastery,ELA Achievement Gap,Mel H. King Middle,-
+Grade Level Mastery,ELA Achievement Gap,New Mission High School,-
+Grade Level Mastery,ELA Achievement Gap,Margarita Muniz Academy,-
+Grade Level Mastery,ELA Achievement Gap,Mel H. King Prep,-
+Grade Level Mastery,ELA Achievement Gap,Mary Lyon K-8 School,100
+Grade Level Mastery,ELA Achievement Gap,Manassah E. Bradley Elementary School,75
+Grade Level Mastery,Math Achievement Gap,Lee Academy,-
+Grade Level Mastery,Math Achievement Gap,Mel H. King South End Academy,-
+Grade Level Mastery,Math Achievement Gap,Mel H. King Middle,-
+Grade Level Mastery,Math Achievement Gap,Mary Lyon K-8 School,-
+Grade Level Mastery,Math Achievement Gap,Margarita Muniz Academy,-
+Grade Level Mastery,Math Achievement Gap,Mel H. King Prep,-
+Grade Level Mastery,Math Achievement Gap,Mario Umana Academy,-
+Grade Level Mastery,Math Achievement Gap,Mary Lyon Pilot High School,-
+Grade Level Mastery,Math Achievement Gap,Michael J. Perkins Elementary School,-
+Grade Level Mastery,Math Achievement Gap,Mildred Avenue K-8 School,-
+Grade Level Mastery,Math Achievement Gap,Maurice J. Tobin K-8 School,-
+Grade Level Mastery,Math Achievement Gap,"Martin Luther King, Jr. Elementary School",-
+Grade Level Mastery,Math Achievement Gap,Mel H. King Elementary,-
+Grade Level Mastery,Math Achievement Gap,New Mission High School,-
+Grade Level Mastery,Math Achievement Gap,Madison Park Technical Vocational High School,-
+Grade Level Mastery,Math Achievement Gap,Muriel S. Snowden International School at Copley,-
+Grade Level Mastery,Math Achievement Gap,Mattahunt Elementary School,-
+Grade Level Mastery,Math Achievement Gap,Manassah E. Bradley Elementary School,100
+Grade Level Mastery,Math Achievement Gap,Mather Elementary School,100
+Grade Level Mastery,Math Achievement Gap,Nathan Hale Elementary School,75
+College and Career,Students Set Goals and Persist,Mary Lyon Pilot High School,-
+College and Career,Students Set Goals and Persist,Mel H. King Elementary,-
+College and Career,Students Set Goals and Persist,Mel H. King Middle,-
+College and Career,Students Set Goals and Persist,Mel H. King South End Academy,-
+College and Career,Students Set Goals and Persist,Mel H. King Prep,-
+College and Career,Students Set Goals and Persist,Lee Academy,-
+College and Career,Students Set Goals and Persist,Madison Park Technical Vocational High School,25
+College and Career,Students Set Goals and Persist,Mario Umana Academy,50
+College and Career,Students Set Goals and Persist,Mary Lyon K-8 School,50
+College and Career,Students Set Goals and Persist,Muriel S. Snowden International School at Copley,50
+College and Career,Students Set Goals and Persist,Maurice J. Tobin K-8 School,50
+College and Career,Students Set Goals and Persist,Margarita Muniz Academy,62.5
+College and Career,Students Set Goals and Persist,Mildred Avenue K-8 School,62.5
+College and Career,Students Set Goals and Persist,Manassah E. Bradley Elementary School,75
+College and Career,Students Set Goals and Persist,Nathan Hale Elementary School,75
+College and Career,Students Set Goals and Persist,Mather Elementary School,75
+College and Career,Students Set Goals and Persist,Michael J. Perkins Elementary School,75
+College and Career,Students Set Goals and Persist,"Martin Luther King, Jr. Elementary School",75
+College and Career,Students Set Goals and Persist,New Mission High School,75
+College and Career,Students Set Goals and Persist,Mattahunt Elementary School,75
+College and Career,Drop-Out Rate,Mel H. King Prep,-
+College and Career,Drop-Out Rate,Mel H. King South End Academy,-
+College and Career,Drop-Out Rate,Mary Lyon Pilot High School,-
+College and Career,Drop-Out Rate,Muriel S. Snowden International School at Copley,-
+College and Career,Drop-Out Rate,Madison Park Technical Vocational High School,-
+College and Career,Drop-Out Rate,Margarita Muniz Academy,50
+College and Career,Drop-Out Rate,New Mission High School,75
+Academic Growth,ELA Growth,New Mission High School,80.8
+Academic Growth,ELA Growth,Mel H. King Prep,-
+Academic Growth,ELA Growth,Lee Academy,-
+Academic Growth,ELA Growth,Mel H. King South End Academy,-
+Academic Growth,ELA Growth,Mary Lyon Pilot High School,-
+Academic Growth,ELA Growth,Mel H. King Middle,-
+Academic Growth,ELA Growth,Mel H. King Elementary,-
+Academic Growth,ELA Growth,Margarita Muniz Academy,25
+Academic Growth,ELA Growth,Michael J. Perkins Elementary School,50
+Academic Growth,ELA Growth,Mildred Avenue K-8 School,50
+Academic Growth,ELA Growth,"Martin Luther King, Jr. Elementary School",50
+Academic Growth,ELA Growth,Mather Elementary School,50
+Academic Growth,ELA Growth,Mattahunt Elementary School,50
+Academic Growth,ELA Growth,Madison Park Technical Vocational High School,50
+Academic Growth,ELA Growth,Muriel S. Snowden International School at Copley,75
+Academic Growth,ELA Growth,Manassah E. Bradley Elementary School,75
+Academic Growth,ELA Growth,Maurice J. Tobin K-8 School,75
+Academic Growth,ELA Growth,Nathan Hale Elementary School,75
+Academic Growth,ELA Growth,Mario Umana Academy,75
+Academic Growth,ELA Growth,Mary Lyon K-8 School,75
+Academic Growth,ELA Growth - Subgroups,"Martin Luther King, Jr. Elementary School",33.3
+Academic Growth,ELA Growth - Subgroups,New Mission High School,78.9
+Academic Growth,ELA Growth - Subgroups,Mary Lyon K-8 School,-
+Academic Growth,ELA Growth - Subgroups,Mary Lyon Pilot High School,-
+Academic Growth,ELA Growth - Subgroups,Lee Academy,-
+Academic Growth,ELA Growth - Subgroups,Mel H. King South End Academy,-
+Academic Growth,ELA Growth - Subgroups,Mel H. King Elementary,-
+Academic Growth,ELA Growth - Subgroups,Michael J. Perkins Elementary School,-
+Academic Growth,ELA Growth - Subgroups,Mel H. King Prep,-
+Academic Growth,ELA Growth - Subgroups,Mel H. King Middle,-
+Academic Growth,ELA Growth - Subgroups,Margarita Muniz Academy,25
+Academic Growth,ELA Growth - Subgroups,Nathan Hale Elementary School,50
+Academic Growth,ELA Growth - Subgroups,Mildred Avenue K-8 School,50
+Academic Growth,ELA Growth - Subgroups,Madison Park Technical Vocational High School,50
+Academic Growth,ELA Growth - Subgroups,Maurice J. Tobin K-8 School,62.5
+Academic Growth,ELA Growth - Subgroups,Mather Elementary School,75
+Academic Growth,ELA Growth - Subgroups,Mattahunt Elementary School,75
+Academic Growth,ELA Growth - Subgroups,Mario Umana Academy,75
+Academic Growth,ELA Growth - Subgroups,Muriel S. Snowden International School at Copley,75
+Academic Growth,ELA Growth - Subgroups,Manassah E. Bradley Elementary School,87.5
+Academic Growth,ELA Growth - High-Performing Students,"Martin Luther King, Jr. Elementary School",-
+Academic Growth,ELA Growth - High-Performing Students,Muriel S. Snowden International School at Copley,-
+Academic Growth,ELA Growth - High-Performing Students,Margarita Muniz Academy,-
+Academic Growth,ELA Growth - High-Performing Students,Madison Park Technical Vocational High School,-
+Academic Growth,ELA Growth - High-Performing Students,Mary Lyon Pilot High School,-
+Academic Growth,ELA Growth - High-Performing Students,Mario Umana Academy,-
+Academic Growth,ELA Growth - High-Performing Students,Mary Lyon K-8 School,-
+Academic Growth,ELA Growth - High-Performing Students,Lee Academy,-
+Academic Growth,ELA Growth - High-Performing Students,Mel H. King South End Academy,-
+Academic Growth,ELA Growth - High-Performing Students,Michael J. Perkins Elementary School,-
+Academic Growth,ELA Growth - High-Performing Students,Mel H. King Elementary,-
+Academic Growth,ELA Growth - High-Performing Students,Mel H. King Middle,-
+Academic Growth,ELA Growth - High-Performing Students,Mel H. King Prep,-
+Academic Growth,ELA Growth - High-Performing Students,Mattahunt Elementary School,25
+Academic Growth,ELA Growth - High-Performing Students,Mildred Avenue K-8 School,25
+Academic Growth,ELA Growth - High-Performing Students,Mather Elementary School,50
+Academic Growth,ELA Growth - High-Performing Students,Nathan Hale Elementary School,100
+Academic Growth,ELA Growth - High-Performing Students,Manassah E. Bradley Elementary School,75
+Academic Growth,ELA Growth - High-Performing Students,New Mission High School,75
+Academic Growth,ELA Growth - High-Performing Students,Maurice J. Tobin K-8 School,75
+Academic Growth,Math Growth - High-Performing Students,Margarita Muniz Academy,-
+Academic Growth,Math Growth - High-Performing Students,Lee Academy,-
+Academic Growth,Math Growth - High-Performing Students,Mel H. King Middle,-
+Academic Growth,Math Growth - High-Performing Students,Muriel S. Snowden International School at Copley,-
+Academic Growth,Math Growth - High-Performing Students,Mario Umana Academy,-
+Academic Growth,Math Growth - High-Performing Students,Mary Lyon Pilot High School,-
+Academic Growth,Math Growth - High-Performing Students,Mel H. King South End Academy,-
+Academic Growth,Math Growth - High-Performing Students,Maurice J. Tobin K-8 School,-
+Academic Growth,Math Growth - High-Performing Students,Mary Lyon K-8 School,-
+Academic Growth,Math Growth - High-Performing Students,Mel H. King Elementary,-
+Academic Growth,Math Growth - High-Performing Students,"Martin Luther King, Jr. Elementary School",-
+Academic Growth,Math Growth - High-Performing Students,Madison Park Technical Vocational High School,-
+Academic Growth,Math Growth - High-Performing Students,Mel H. King Prep,-
+Academic Growth,Math Growth - High-Performing Students,Michael J. Perkins Elementary School,-
+Academic Growth,Math Growth - High-Performing Students,Mildred Avenue K-8 School,25
+Academic Growth,Math Growth - High-Performing Students,Mattahunt Elementary School,50
+Academic Growth,Math Growth - High-Performing Students,Manassah E. Bradley Elementary School,100
+Academic Growth,Math Growth - High-Performing Students,New Mission High School,100
+Academic Growth,Math Growth - High-Performing Students,Mather Elementary School,75
+Academic Growth,Math Growth - High-Performing Students,Nathan Hale Elementary School,75
+Academic Growth,ELA Growth - Low-Performing Students,Nathan Hale Elementary School,-
+Academic Growth,ELA Growth - Low-Performing Students,Mel H. King Middle,-
+Academic Growth,ELA Growth - Low-Performing Students,Margarita Muniz Academy,-
+Academic Growth,ELA Growth - Low-Performing Students,Mel H. King Elementary,-
+Academic Growth,ELA Growth - Low-Performing Students,Michael J. Perkins Elementary School,-
+Academic Growth,ELA Growth - Low-Performing Students,Mel H. King Prep,-
+Academic Growth,ELA Growth - Low-Performing Students,Mary Lyon Pilot High School,-
+Academic Growth,ELA Growth - Low-Performing Students,Mel H. King South End Academy,-
+Academic Growth,ELA Growth - Low-Performing Students,Lee Academy,-
+Academic Growth,ELA Growth - Low-Performing Students,Mary Lyon K-8 School,-
+Academic Growth,ELA Growth - Low-Performing Students,"Martin Luther King, Jr. Elementary School",50
+Academic Growth,ELA Growth - Low-Performing Students,Mather Elementary School,50
+Academic Growth,ELA Growth - Low-Performing Students,Maurice J. Tobin K-8 School,50
+Academic Growth,ELA Growth - Low-Performing Students,Madison Park Technical Vocational High School,50
+Academic Growth,ELA Growth - Low-Performing Students,Mildred Avenue K-8 School,50
+Academic Growth,ELA Growth - Low-Performing Students,Mario Umana Academy,50
+Academic Growth,ELA Growth - Low-Performing Students,Mattahunt Elementary School,100
+Academic Growth,ELA Growth - Low-Performing Students,New Mission High School,75
+Academic Growth,ELA Growth - Low-Performing Students,Manassah E. Bradley Elementary School,75
+Academic Growth,ELA Growth - Low-Performing Students,Muriel S. Snowden International School at Copley,75
+Academic Growth,Math Growth - Low-Performing Students,New Mission High School,61.7
+Academic Growth,Math Growth - Low-Performing Students,Michael J. Perkins Elementary School,-
+Academic Growth,Math Growth - Low-Performing Students,Mel H. King South End Academy,-
+Academic Growth,Math Growth - Low-Performing Students,Mary Lyon Pilot High School,-
+Academic Growth,Math Growth - Low-Performing Students,Margarita Muniz Academy,-
+Academic Growth,Math Growth - Low-Performing Students,Lee Academy,-
+Academic Growth,Math Growth - Low-Performing Students,Mary Lyon K-8 School,-
+Academic Growth,Math Growth - Low-Performing Students,Mel H. King Elementary,-
+Academic Growth,Math Growth - Low-Performing Students,Mel H. King Middle,-
+Academic Growth,Math Growth - Low-Performing Students,Mel H. King Prep,-
+Academic Growth,Math Growth - Low-Performing Students,Nathan Hale Elementary School,-
+Academic Growth,Math Growth - Low-Performing Students,Madison Park Technical Vocational High School,25
+Academic Growth,Math Growth - Low-Performing Students,"Martin Luther King, Jr. Elementary School",50
+Academic Growth,Math Growth - Low-Performing Students,Mattahunt Elementary School,50
+Academic Growth,Math Growth - Low-Performing Students,Mildred Avenue K-8 School,50
+Academic Growth,Math Growth - Low-Performing Students,Muriel S. Snowden International School at Copley,50
+Academic Growth,Math Growth - Low-Performing Students,Maurice J. Tobin K-8 School,50
+Academic Growth,Math Growth - Low-Performing Students,Manassah E. Bradley Elementary School,100
+Academic Growth,Math Growth - Low-Performing Students,Mario Umana Academy,75
+Academic Growth,Math Growth - Low-Performing Students,Mather Elementary School,75
+Academic Growth,English Learner Growth,Mary Lyon K-8 School,-
+Academic Growth,English Learner Growth,Mel H. King South End Academy,-
+Academic Growth,English Learner Growth,Nathan Hale Elementary School,-
+Academic Growth,English Learner Growth,Mel H. King Middle,-
+Academic Growth,English Learner Growth,Mel H. King Prep,-
+Academic Growth,English Learner Growth,Lee Academy,-
+Academic Growth,English Learner Growth,Mary Lyon Pilot High School,-
+Academic Growth,English Learner Growth,Michael J. Perkins Elementary School,-
+Academic Growth,English Learner Growth,Mel H. King Elementary,-
+Academic Growth,English Learner Growth,Mario Umana Academy,25
+Academic Growth,English Learner Growth,Madison Park Technical Vocational High School,25
+Academic Growth,English Learner Growth,Muriel S. Snowden International School at Copley,50
+Academic Growth,English Learner Growth,Mattahunt Elementary School,50
+Academic Growth,English Learner Growth,New Mission High School,100
+Academic Growth,English Learner Growth,Mildred Avenue K-8 School,100
+Academic Growth,English Learner Growth,Maurice J. Tobin K-8 School,100
+Academic Growth,English Learner Growth,Mather Elementary School,75
+Academic Growth,English Learner Growth,"Martin Luther King, Jr. Elementary School",75
+Academic Growth,English Learner Growth,Margarita Muniz Academy,75
+Academic Growth,English Learner Growth,Manassah E. Bradley Elementary School,75
+Academic Growth,Math Growth,Mel H. King Elementary,-
+Academic Growth,Math Growth,Margarita Muniz Academy,-
+Academic Growth,Math Growth,Mel H. King Prep,-
+Academic Growth,Math Growth,Lee Academy,-
+Academic Growth,Math Growth,Mary Lyon Pilot High School,-
+Academic Growth,Math Growth,Mel H. King Middle,-
+Academic Growth,Math Growth,Mel H. King South End Academy,-
+Academic Growth,Math Growth,Mildred Avenue K-8 School,50
+Academic Growth,Math Growth,Mattahunt Elementary School,50
+Academic Growth,Math Growth,Michael J. Perkins Elementary School,50
+Academic Growth,Math Growth,Madison Park Technical Vocational High School,50
+Academic Growth,Math Growth,"Martin Luther King, Jr. Elementary School",50
+Academic Growth,Math Growth,New Mission High School,100
+Academic Growth,Math Growth,Nathan Hale Elementary School,100
+Academic Growth,Math Growth,Manassah E. Bradley Elementary School,100
+Academic Growth,Math Growth,Mario Umana Academy,75
+Academic Growth,Math Growth,Muriel S. Snowden International School at Copley,75
+Academic Growth,Math Growth,Maurice J. Tobin K-8 School,75
+Academic Growth,Math Growth,Mather Elementary School,75
+Academic Growth,Math Growth,Mary Lyon K-8 School,75
+Academic Growth,Math Growth - Subgroups,"Martin Luther King, Jr. Elementary School",33.3
+Academic Growth,Math Growth - Subgroups,Mel H. King Prep,-
+Academic Growth,Math Growth - Subgroups,Mary Lyon K-8 School,-
+Academic Growth,Math Growth - Subgroups,Margarita Muniz Academy,-
+Academic Growth,Math Growth - Subgroups,Mel H. King Elementary,-
+Academic Growth,Math Growth - Subgroups,Mary Lyon Pilot High School,-
+Academic Growth,Math Growth - Subgroups,Mel H. King South End Academy,-
+Academic Growth,Math Growth - Subgroups,Lee Academy,-
+Academic Growth,Math Growth - Subgroups,Michael J. Perkins Elementary School,-
+Academic Growth,Math Growth - Subgroups,Mel H. King Middle,-
+Academic Growth,Math Growth - Subgroups,Mildred Avenue K-8 School,50
+Academic Growth,Math Growth - Subgroups,Manassah E. Bradley Elementary School,100
+Academic Growth,Math Growth - Subgroups,New Mission High School,100
+Academic Growth,Math Growth - Subgroups,Nathan Hale Elementary School,100
+Academic Growth,Math Growth - Subgroups,Mattahunt Elementary School,62.5
+Academic Growth,Math Growth - Subgroups,Mather Elementary School,62.5
+Academic Growth,Math Growth - Subgroups,Maurice J. Tobin K-8 School,62.5
+Academic Growth,Math Growth - Subgroups,Mario Umana Academy,75
+Academic Growth,Math Growth - Subgroups,Muriel S. Snowden International School at Copley,87.5
+Academic Growth,Math Growth - Subgroups,Madison Park Technical Vocational High School,58.3
+College and Career,Students in College after Graduation,Mary Lyon Pilot High School,-
+College and Career,Students in College after Graduation,Mel H. King Prep,-
+College and Career,Students in College after Graduation,New Mission High School,-
+College and Career,Students in College after Graduation,Margarita Muniz Academy,-
+College and Career,Students in College after Graduation,Mel H. King South End Academy,-
+College and Career,Students in College after Graduation,Madison Park Technical Vocational High School,-
+College and Career,Students in College after Graduation,Muriel S. Snowden International School at Copley,50
+Grade Level Mastery,School Meets ELA MCAS Goals,New Mission High School,38.3
+Grade Level Mastery,School Meets ELA MCAS Goals,"Martin Luther King, Jr. Elementary School",-
+Grade Level Mastery,School Meets ELA MCAS Goals,Mel H. King Elementary,-
+Grade Level Mastery,School Meets ELA MCAS Goals,Lee Academy,-
+Grade Level Mastery,School Meets ELA MCAS Goals,Mel H. King South End Academy,-
+Grade Level Mastery,School Meets ELA MCAS Goals,Mario Umana Academy,-
+Grade Level Mastery,School Meets ELA MCAS Goals,Mildred Avenue K-8 School,-
+Grade Level Mastery,School Meets ELA MCAS Goals,Mel H. King Prep,-
+Grade Level Mastery,School Meets ELA MCAS Goals,Mary Lyon Pilot High School,-
+Grade Level Mastery,School Meets ELA MCAS Goals,Margarita Muniz Academy,-
+Grade Level Mastery,School Meets ELA MCAS Goals,Muriel S. Snowden International School at Copley,-
+Grade Level Mastery,School Meets ELA MCAS Goals,Mather Elementary School,-
+Grade Level Mastery,School Meets ELA MCAS Goals,Mel H. King Middle,-
+Grade Level Mastery,School Meets ELA MCAS Goals,Maurice J. Tobin K-8 School,50
+Grade Level Mastery,School Meets ELA MCAS Goals,Madison Park Technical Vocational High School,50
+Grade Level Mastery,School Meets ELA MCAS Goals,Mary Lyon K-8 School,50
+Grade Level Mastery,School Meets ELA MCAS Goals,Mattahunt Elementary School,50
+Grade Level Mastery,School Meets ELA MCAS Goals,Nathan Hale Elementary School,100
+Grade Level Mastery,School Meets ELA MCAS Goals,Michael J. Perkins Elementary School,100
+Grade Level Mastery,School Meets ELA MCAS Goals,Manassah E. Bradley Elementary School,100
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Mather Elementary School,16.7
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,New Mission High School,38.3
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,"Martin Luther King, Jr. Elementary School",-
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Mary Lyon Pilot High School,-
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Mildred Avenue K-8 School,-
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Lee Academy,-
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Mel H. King Prep,-
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Mel H. King Elementary,-
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Margarita Muniz Academy,-
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Mel H. King South End Academy,-
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Mary Lyon K-8 School,-
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Mel H. King Middle,-
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Muriel S. Snowden International School at Copley,25
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Mario Umana Academy,50
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Madison Park Technical Vocational High School,50
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Nathan Hale Elementary School,50
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Maurice J. Tobin K-8 School,50
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Manassah E. Bradley Elementary School,100
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Michael J. Perkins Elementary School,100
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Mattahunt Elementary School,37.5
+Grade Level Mastery,School Meets Math MCAS Goals,New Mission High School,11.7
+Grade Level Mastery,School Meets Math MCAS Goals,Mel H. King Elementary,-
+Grade Level Mastery,School Meets Math MCAS Goals,Mel H. King Prep,-
+Grade Level Mastery,School Meets Math MCAS Goals,Mel H. King Middle,-
+Grade Level Mastery,School Meets Math MCAS Goals,Margarita Muniz Academy,-
+Grade Level Mastery,School Meets Math MCAS Goals,Muriel S. Snowden International School at Copley,-
+Grade Level Mastery,School Meets Math MCAS Goals,Lee Academy,-
+Grade Level Mastery,School Meets Math MCAS Goals,Mel H. King South End Academy,-
+Grade Level Mastery,School Meets Math MCAS Goals,"Martin Luther King, Jr. Elementary School",-
+Grade Level Mastery,School Meets Math MCAS Goals,Mary Lyon Pilot High School,-
+Grade Level Mastery,School Meets Math MCAS Goals,Madison Park Technical Vocational High School,50
+Grade Level Mastery,School Meets Math MCAS Goals,Mildred Avenue K-8 School,50
+Grade Level Mastery,School Meets Math MCAS Goals,Mario Umana Academy,50
+Grade Level Mastery,School Meets Math MCAS Goals,Mattahunt Elementary School,50
+Grade Level Mastery,School Meets Math MCAS Goals,Mather Elementary School,100
+Grade Level Mastery,School Meets Math MCAS Goals,Michael J. Perkins Elementary School,100
+Grade Level Mastery,School Meets Math MCAS Goals,Maurice J. Tobin K-8 School,100
+Grade Level Mastery,School Meets Math MCAS Goals,Nathan Hale Elementary School,100
+Grade Level Mastery,School Meets Math MCAS Goals,Manassah E. Bradley Elementary School,100
+Grade Level Mastery,School Meets Math MCAS Goals,Mary Lyon K-8 School,75
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,New Mission High School,8.8
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Mel H. King Prep,-
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Mel H. King Middle,-
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Mel H. King Elementary,-
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Mary Lyon K-8 School,-
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Mary Lyon Pilot High School,-
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Muriel S. Snowden International School at Copley,-
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Lee Academy,-
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,"Martin Luther King, Jr. Elementary School",-
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Mel H. King South End Academy,-
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Margarita Muniz Academy,-
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Madison Park Technical Vocational High School,25
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Mildred Avenue K-8 School,50
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Mattahunt Elementary School,50
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Mario Umana Academy,50
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Maurice J. Tobin K-8 School,50
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Nathan Hale Elementary School,100
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Michael J. Perkins Elementary School,100
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Manassah E. Bradley Elementary School,100
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Mather Elementary School,66.7
+Grade Level Mastery,School Meets Science MCAS Goals,New Mission High School,76.7
+Grade Level Mastery,School Meets Science MCAS Goals,Mary Lyon Pilot High School,-
+Grade Level Mastery,School Meets Science MCAS Goals,Mel H. King Prep,-
+Grade Level Mastery,School Meets Science MCAS Goals,Mel H. King Middle,-
+Grade Level Mastery,School Meets Science MCAS Goals,Nathan Hale Elementary School,-
+Grade Level Mastery,School Meets Science MCAS Goals,"Martin Luther King, Jr. Elementary School",-
+Grade Level Mastery,School Meets Science MCAS Goals,Mel H. King Elementary,-
+Grade Level Mastery,School Meets Science MCAS Goals,Michael J. Perkins Elementary School,-
+Grade Level Mastery,School Meets Science MCAS Goals,Mildred Avenue K-8 School,-
+Grade Level Mastery,School Meets Science MCAS Goals,Margarita Muniz Academy,-
+Grade Level Mastery,School Meets Science MCAS Goals,Lee Academy,-
+Grade Level Mastery,School Meets Science MCAS Goals,Mel H. King South End Academy,-
+Grade Level Mastery,School Meets Science MCAS Goals,Maurice J. Tobin K-8 School,50
+Grade Level Mastery,School Meets Science MCAS Goals,Manassah E. Bradley Elementary School,50
+Grade Level Mastery,School Meets Science MCAS Goals,Mario Umana Academy,50
+Grade Level Mastery,School Meets Science MCAS Goals,Muriel S. Snowden International School at Copley,50
+Grade Level Mastery,School Meets Science MCAS Goals,Mattahunt Elementary School,100
+Grade Level Mastery,School Meets Science MCAS Goals,Mather Elementary School,100
+Grade Level Mastery,School Meets Science MCAS Goals,Mary Lyon K-8 School,100
+Grade Level Mastery,School Meets Science MCAS Goals,Madison Park Technical Vocational High School,75

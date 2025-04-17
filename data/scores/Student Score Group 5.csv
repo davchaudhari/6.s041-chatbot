@@ -1,0 +1,353 @@
+Outcome,Metric,School_Name,Score
+College and Career,Graduate in 4 Years,TechBoston Academy,60
+College and Career,Graduate in 4 Years,The English High School,70
+College and Career,Graduate in 4 Years,Ruth Batson Academy,60
+College and Career,Graduate in 5 Years,The English High School,70
+College and Career,Graduate in 5 Years,Ruth Batson Academy,70
+College and Career,Graduate in 5 Years,TechBoston Academy,75
+Grade Level Mastery,ELA Achievement Gap,Ruth Batson Academy,-
+Grade Level Mastery,ELA Achievement Gap,Rev. Dr. Michael E. Haynes Early Education Center,-
+Grade Level Mastery,ELA Achievement Gap,Patrick J. Kennedy Elementary School,-
+Grade Level Mastery,ELA Achievement Gap,Oliver W. Holmes Elementary School,-
+Grade Level Mastery,ELA Achievement Gap,Shaw-Taylor Elementary School,-
+Grade Level Mastery,ELA Achievement Gap,Orchard Gardens K-8 School,-
+Grade Level Mastery,ELA Achievement Gap,Samuel W. Mason Elementary School,-
+Grade Level Mastery,ELA Achievement Gap,Rafael Hernandez Elementary School,-
+Grade Level Mastery,ELA Achievement Gap,TechBoston Academy,-
+Grade Level Mastery,ELA Achievement Gap,Richard J. Murphy K-8 School,-
+Grade Level Mastery,ELA Achievement Gap,Sarah Greenwood K-8 School,-
+Grade Level Mastery,ELA Achievement Gap,Oliver Hazard Perry Elementary School,-
+Grade Level Mastery,ELA Achievement Gap,Roger Clap Innovation School,-
+Grade Level Mastery,ELA Achievement Gap,Paul A. Dever Elementary School,-
+Grade Level Mastery,ELA Achievement Gap,The English High School,-
+Grade Level Mastery,ELA Achievement Gap,Patrick F. Lyndon K-8 Pilot School,100
+Grade Level Mastery,ELA Achievement Gap,Samuel Adams Elementary School,100
+Grade Level Mastery,ELA Achievement Gap,Philbrick-Sumner Elementary School,100
+Grade Level Mastery,ELA Achievement Gap,Phineas Bates Elementary School,75
+Grade Level Mastery,ELA Achievement Gap,Thomas A. Edison Elementary School,75
+Grade Level Mastery,Math Achievement Gap,Orchard Gardens K-8 School,-
+Grade Level Mastery,Math Achievement Gap,Sarah Greenwood K-8 School,-
+Grade Level Mastery,Math Achievement Gap,Rafael Hernandez Elementary School,-
+Grade Level Mastery,Math Achievement Gap,Patrick J. Kennedy Elementary School,-
+Grade Level Mastery,Math Achievement Gap,Paul A. Dever Elementary School,-
+Grade Level Mastery,Math Achievement Gap,The English High School,-
+Grade Level Mastery,Math Achievement Gap,Shaw-Taylor Elementary School,-
+Grade Level Mastery,Math Achievement Gap,Oliver Hazard Perry Elementary School,-
+Grade Level Mastery,Math Achievement Gap,TechBoston Academy,-
+Grade Level Mastery,Math Achievement Gap,Samuel W. Mason Elementary School,-
+Grade Level Mastery,Math Achievement Gap,Richard J. Murphy K-8 School,-
+Grade Level Mastery,Math Achievement Gap,Ruth Batson Academy,-
+Grade Level Mastery,Math Achievement Gap,Oliver W. Holmes Elementary School,-
+Grade Level Mastery,Math Achievement Gap,Rev. Dr. Michael E. Haynes Early Education Center,-
+Grade Level Mastery,Math Achievement Gap,Samuel Adams Elementary School,100
+Grade Level Mastery,Math Achievement Gap,Philbrick-Sumner Elementary School,100
+Grade Level Mastery,Math Achievement Gap,Patrick F. Lyndon K-8 Pilot School,100
+Grade Level Mastery,Math Achievement Gap,Phineas Bates Elementary School,100
+Grade Level Mastery,Math Achievement Gap,Roger Clap Innovation School,75
+Grade Level Mastery,Math Achievement Gap,Thomas A. Edison Elementary School,75
+College and Career,Students Set Goals and Persist,Rev. Dr. Michael E. Haynes Early Education Center,-
+College and Career,Students Set Goals and Persist,The English High School,50
+College and Career,Students Set Goals and Persist,Oliver Hazard Perry Elementary School,100
+College and Career,Students Set Goals and Persist,Orchard Gardens K-8 School,62.5
+College and Career,Students Set Goals and Persist,Phineas Bates Elementary School,62.5
+College and Career,Students Set Goals and Persist,Rafael Hernandez Elementary School,62.5
+College and Career,Students Set Goals and Persist,Ruth Batson Academy,62.5
+College and Career,Students Set Goals and Persist,Roger Clap Innovation School,62.5
+College and Career,Students Set Goals and Persist,Oliver W. Holmes Elementary School,75
+College and Career,Students Set Goals and Persist,TechBoston Academy,75
+College and Career,Students Set Goals and Persist,Samuel W. Mason Elementary School,75
+College and Career,Students Set Goals and Persist,Thomas A. Edison Elementary School,75
+College and Career,Students Set Goals and Persist,Sarah Greenwood K-8 School,75
+College and Career,Students Set Goals and Persist,Patrick F. Lyndon K-8 Pilot School,75
+College and Career,Students Set Goals and Persist,Paul A. Dever Elementary School,75
+College and Career,Students Set Goals and Persist,Shaw-Taylor Elementary School,75
+College and Career,Students Set Goals and Persist,Richard J. Murphy K-8 School,75
+College and Career,Students Set Goals and Persist,Patrick J. Kennedy Elementary School,75
+College and Career,Students Set Goals and Persist,Philbrick-Sumner Elementary School,75
+College and Career,Students Set Goals and Persist,Samuel Adams Elementary School,75
+College and Career,Drop-Out Rate,The English High School,-
+College and Career,Drop-Out Rate,Ruth Batson Academy,-
+College and Career,Drop-Out Rate,TechBoston Academy,100
+Academic Growth,ELA Growth,Ruth Batson Academy,89.1
+Academic Growth,ELA Growth,Rev. Dr. Michael E. Haynes Early Education Center,-
+Academic Growth,ELA Growth,Samuel W. Mason Elementary School,25
+Academic Growth,ELA Growth,Paul A. Dever Elementary School,25
+Academic Growth,ELA Growth,Shaw-Taylor Elementary School,50
+Academic Growth,ELA Growth,The English High School,50
+Academic Growth,ELA Growth,Rafael Hernandez Elementary School,50
+Academic Growth,ELA Growth,Sarah Greenwood K-8 School,50
+Academic Growth,ELA Growth,Samuel Adams Elementary School,100
+Academic Growth,ELA Growth,Phineas Bates Elementary School,100
+Academic Growth,ELA Growth,Orchard Gardens K-8 School,100
+Academic Growth,ELA Growth,Oliver W. Holmes Elementary School,100
+Academic Growth,ELA Growth,Oliver Hazard Perry Elementary School,100
+Academic Growth,ELA Growth,Roger Clap Innovation School,75
+Academic Growth,ELA Growth,Patrick J. Kennedy Elementary School,75
+Academic Growth,ELA Growth,Richard J. Murphy K-8 School,75
+Academic Growth,ELA Growth,TechBoston Academy,75
+Academic Growth,ELA Growth,Philbrick-Sumner Elementary School,75
+Academic Growth,ELA Growth,Thomas A. Edison Elementary School,75
+Academic Growth,ELA Growth,Patrick F. Lyndon K-8 Pilot School,75
+Academic Growth,ELA Growth - Subgroups,The English High School,56.5
+Academic Growth,ELA Growth - Subgroups,TechBoston Academy,63.6
+Academic Growth,ELA Growth - Subgroups,Ruth Batson Academy,89.1
+Academic Growth,ELA Growth - Subgroups,Rev. Dr. Michael E. Haynes Early Education Center,-
+Academic Growth,ELA Growth - Subgroups,Roger Clap Innovation School,-
+Academic Growth,ELA Growth - Subgroups,Samuel W. Mason Elementary School,-
+Academic Growth,ELA Growth - Subgroups,Paul A. Dever Elementary School,25
+Academic Growth,ELA Growth - Subgroups,Rafael Hernandez Elementary School,50
+Academic Growth,ELA Growth - Subgroups,Orchard Gardens K-8 School,100
+Academic Growth,ELA Growth - Subgroups,Samuel Adams Elementary School,100
+Academic Growth,ELA Growth - Subgroups,Oliver W. Holmes Elementary School,100
+Academic Growth,ELA Growth - Subgroups,Phineas Bates Elementary School,100
+Academic Growth,ELA Growth - Subgroups,Oliver Hazard Perry Elementary School,100
+Academic Growth,ELA Growth - Subgroups,Patrick F. Lyndon K-8 Pilot School,62.5
+Academic Growth,ELA Growth - Subgroups,Philbrick-Sumner Elementary School,62.5
+Academic Growth,ELA Growth - Subgroups,Sarah Greenwood K-8 School,37.5
+Academic Growth,ELA Growth - Subgroups,Patrick J. Kennedy Elementary School,75
+Academic Growth,ELA Growth - Subgroups,Richard J. Murphy K-8 School,75
+Academic Growth,ELA Growth - Subgroups,Shaw-Taylor Elementary School,75
+Academic Growth,ELA Growth - Subgroups,Thomas A. Edison Elementary School,56.3
+Academic Growth,ELA Growth - High-Performing Students,Sarah Greenwood K-8 School,-
+Academic Growth,ELA Growth - High-Performing Students,Patrick J. Kennedy Elementary School,-
+Academic Growth,ELA Growth - High-Performing Students,Samuel Adams Elementary School,-
+Academic Growth,ELA Growth - High-Performing Students,Shaw-Taylor Elementary School,-
+Academic Growth,ELA Growth - High-Performing Students,The English High School,-
+Academic Growth,ELA Growth - High-Performing Students,Rev. Dr. Michael E. Haynes Early Education Center,-
+Academic Growth,ELA Growth - High-Performing Students,Oliver Hazard Perry Elementary School,-
+Academic Growth,ELA Growth - High-Performing Students,TechBoston Academy,-
+Academic Growth,ELA Growth - High-Performing Students,Ruth Batson Academy,-
+Academic Growth,ELA Growth - High-Performing Students,Oliver W. Holmes Elementary School,-
+Academic Growth,ELA Growth - High-Performing Students,Roger Clap Innovation School,-
+Academic Growth,ELA Growth - High-Performing Students,Samuel W. Mason Elementary School,-
+Academic Growth,ELA Growth - High-Performing Students,Paul A. Dever Elementary School,25
+Academic Growth,ELA Growth - High-Performing Students,Thomas A. Edison Elementary School,25
+Academic Growth,ELA Growth - High-Performing Students,Rafael Hernandez Elementary School,50
+Academic Growth,ELA Growth - High-Performing Students,Phineas Bates Elementary School,100
+Academic Growth,ELA Growth - High-Performing Students,Orchard Gardens K-8 School,100
+Academic Growth,ELA Growth - High-Performing Students,Richard J. Murphy K-8 School,75
+Academic Growth,ELA Growth - High-Performing Students,Patrick F. Lyndon K-8 Pilot School,75
+Academic Growth,ELA Growth - High-Performing Students,Philbrick-Sumner Elementary School,75
+Academic Growth,Math Growth - High-Performing Students,The English High School,-
+Academic Growth,Math Growth - High-Performing Students,Shaw-Taylor Elementary School,-
+Academic Growth,Math Growth - High-Performing Students,Samuel Adams Elementary School,-
+Academic Growth,Math Growth - High-Performing Students,Sarah Greenwood K-8 School,-
+Academic Growth,Math Growth - High-Performing Students,Oliver W. Holmes Elementary School,-
+Academic Growth,Math Growth - High-Performing Students,Rev. Dr. Michael E. Haynes Early Education Center,-
+Academic Growth,Math Growth - High-Performing Students,Samuel W. Mason Elementary School,-
+Academic Growth,Math Growth - High-Performing Students,Paul A. Dever Elementary School,-
+Academic Growth,Math Growth - High-Performing Students,Orchard Gardens K-8 School,-
+Academic Growth,Math Growth - High-Performing Students,Patrick J. Kennedy Elementary School,-
+Academic Growth,Math Growth - High-Performing Students,Ruth Batson Academy,-
+Academic Growth,Math Growth - High-Performing Students,Roger Clap Innovation School,-
+Academic Growth,Math Growth - High-Performing Students,TechBoston Academy,-
+Academic Growth,Math Growth - High-Performing Students,Rafael Hernandez Elementary School,25
+Academic Growth,Math Growth - High-Performing Students,Richard J. Murphy K-8 School,50
+Academic Growth,Math Growth - High-Performing Students,Phineas Bates Elementary School,100
+Academic Growth,Math Growth - High-Performing Students,Patrick F. Lyndon K-8 Pilot School,75
+Academic Growth,Math Growth - High-Performing Students,Thomas A. Edison Elementary School,75
+Academic Growth,Math Growth - High-Performing Students,Oliver Hazard Perry Elementary School,75
+Academic Growth,Math Growth - High-Performing Students,Philbrick-Sumner Elementary School,75
+Academic Growth,ELA Growth - Low-Performing Students,Oliver Hazard Perry Elementary School,-
+Academic Growth,ELA Growth - Low-Performing Students,Phineas Bates Elementary School,-
+Academic Growth,ELA Growth - Low-Performing Students,Shaw-Taylor Elementary School,-
+Academic Growth,ELA Growth - Low-Performing Students,Ruth Batson Academy,-
+Academic Growth,ELA Growth - Low-Performing Students,The English High School,-
+Academic Growth,ELA Growth - Low-Performing Students,Roger Clap Innovation School,-
+Academic Growth,ELA Growth - Low-Performing Students,Samuel Adams Elementary School,-
+Academic Growth,ELA Growth - Low-Performing Students,Rev. Dr. Michael E. Haynes Early Education Center,-
+Academic Growth,ELA Growth - Low-Performing Students,Samuel W. Mason Elementary School,25
+Academic Growth,ELA Growth - Low-Performing Students,Philbrick-Sumner Elementary School,25
+Academic Growth,ELA Growth - Low-Performing Students,Paul A. Dever Elementary School,25
+Academic Growth,ELA Growth - Low-Performing Students,Sarah Greenwood K-8 School,50
+Academic Growth,ELA Growth - Low-Performing Students,Patrick F. Lyndon K-8 Pilot School,50
+Academic Growth,ELA Growth - Low-Performing Students,Thomas A. Edison Elementary School,50
+Academic Growth,ELA Growth - Low-Performing Students,Patrick J. Kennedy Elementary School,50
+Academic Growth,ELA Growth - Low-Performing Students,TechBoston Academy,50
+Academic Growth,ELA Growth - Low-Performing Students,Oliver W. Holmes Elementary School,100
+Academic Growth,ELA Growth - Low-Performing Students,Rafael Hernandez Elementary School,75
+Academic Growth,ELA Growth - Low-Performing Students,Orchard Gardens K-8 School,75
+Academic Growth,ELA Growth - Low-Performing Students,Richard J. Murphy K-8 School,75
+Academic Growth,Math Growth - Low-Performing Students,TechBoston Academy,31.8
+Academic Growth,Math Growth - Low-Performing Students,Rev. Dr. Michael E. Haynes Early Education Center,-
+Academic Growth,Math Growth - Low-Performing Students,Samuel Adams Elementary School,-
+Academic Growth,Math Growth - Low-Performing Students,Shaw-Taylor Elementary School,-
+Academic Growth,Math Growth - Low-Performing Students,Paul A. Dever Elementary School,-
+Academic Growth,Math Growth - Low-Performing Students,Phineas Bates Elementary School,-
+Academic Growth,Math Growth - Low-Performing Students,The English High School,-
+Academic Growth,Math Growth - Low-Performing Students,Ruth Batson Academy,-
+Academic Growth,Math Growth - Low-Performing Students,Roger Clap Innovation School,-
+Academic Growth,Math Growth - Low-Performing Students,Oliver Hazard Perry Elementary School,-
+Academic Growth,Math Growth - Low-Performing Students,Patrick J. Kennedy Elementary School,50
+Academic Growth,Math Growth - Low-Performing Students,Samuel W. Mason Elementary School,50
+Academic Growth,Math Growth - Low-Performing Students,Patrick F. Lyndon K-8 Pilot School,50
+Academic Growth,Math Growth - Low-Performing Students,Philbrick-Sumner Elementary School,50
+Academic Growth,Math Growth - Low-Performing Students,Oliver W. Holmes Elementary School,75
+Academic Growth,Math Growth - Low-Performing Students,Thomas A. Edison Elementary School,75
+Academic Growth,Math Growth - Low-Performing Students,Sarah Greenwood K-8 School,75
+Academic Growth,Math Growth - Low-Performing Students,Richard J. Murphy K-8 School,75
+Academic Growth,Math Growth - Low-Performing Students,Rafael Hernandez Elementary School,75
+Academic Growth,Math Growth - Low-Performing Students,Orchard Gardens K-8 School,75
+Academic Growth,English Learner Growth,Oliver Hazard Perry Elementary School,-
+Academic Growth,English Learner Growth,Roger Clap Innovation School,-
+Academic Growth,English Learner Growth,Rev. Dr. Michael E. Haynes Early Education Center,-
+Academic Growth,English Learner Growth,Samuel W. Mason Elementary School,-
+Academic Growth,English Learner Growth,Orchard Gardens K-8 School,50
+Academic Growth,English Learner Growth,Philbrick-Sumner Elementary School,50
+Academic Growth,English Learner Growth,Patrick F. Lyndon K-8 Pilot School,50
+Academic Growth,English Learner Growth,Rafael Hernandez Elementary School,50
+Academic Growth,English Learner Growth,Samuel Adams Elementary School,50
+Academic Growth,English Learner Growth,Paul A. Dever Elementary School,50
+Academic Growth,English Learner Growth,Thomas A. Edison Elementary School,50
+Academic Growth,English Learner Growth,Oliver W. Holmes Elementary School,50
+Academic Growth,English Learner Growth,Phineas Bates Elementary School,100
+Academic Growth,English Learner Growth,Patrick J. Kennedy Elementary School,75
+Academic Growth,English Learner Growth,Ruth Batson Academy,75
+Academic Growth,English Learner Growth,Shaw-Taylor Elementary School,75
+Academic Growth,English Learner Growth,Richard J. Murphy K-8 School,75
+Academic Growth,English Learner Growth,The English High School,75
+Academic Growth,English Learner Growth,Sarah Greenwood K-8 School,75
+Academic Growth,English Learner Growth,TechBoston Academy,75
+Academic Growth,Math Growth,The English High School,71.7
+Academic Growth,Math Growth,Rev. Dr. Michael E. Haynes Early Education Center,-
+Academic Growth,Math Growth,Paul A. Dever Elementary School,-
+Academic Growth,Math Growth,Roger Clap Innovation School,25
+Academic Growth,Math Growth,Patrick J. Kennedy Elementary School,25
+Academic Growth,Math Growth,Samuel W. Mason Elementary School,50
+Academic Growth,Math Growth,Samuel Adams Elementary School,50
+Academic Growth,Math Growth,Rafael Hernandez Elementary School,50
+Academic Growth,Math Growth,Richard J. Murphy K-8 School,50
+Academic Growth,Math Growth,TechBoston Academy,50
+Academic Growth,Math Growth,Shaw-Taylor Elementary School,50
+Academic Growth,Math Growth,Patrick F. Lyndon K-8 Pilot School,50
+Academic Growth,Math Growth,Oliver Hazard Perry Elementary School,100
+Academic Growth,Math Growth,Sarah Greenwood K-8 School,100
+Academic Growth,Math Growth,Philbrick-Sumner Elementary School,75
+Academic Growth,Math Growth,Orchard Gardens K-8 School,75
+Academic Growth,Math Growth,Ruth Batson Academy,75
+Academic Growth,Math Growth,Thomas A. Edison Elementary School,75
+Academic Growth,Math Growth,Oliver W. Holmes Elementary School,75
+Academic Growth,Math Growth,Phineas Bates Elementary School,75
+Academic Growth,Math Growth - Subgroups,The English High School,82.6
+Academic Growth,Math Growth - Subgroups,Ruth Batson Academy,69.6
+Academic Growth,Math Growth - Subgroups,Richard J. Murphy K-8 School,45
+Academic Growth,Math Growth - Subgroups,TechBoston Academy,52.3
+Academic Growth,Math Growth - Subgroups,Patrick F. Lyndon K-8 Pilot School,43.8
+Academic Growth,Math Growth - Subgroups,Samuel W. Mason Elementary School,-
+Academic Growth,Math Growth - Subgroups,Paul A. Dever Elementary School,-
+Academic Growth,Math Growth - Subgroups,Roger Clap Innovation School,-
+Academic Growth,Math Growth - Subgroups,Rev. Dr. Michael E. Haynes Early Education Center,-
+Academic Growth,Math Growth - Subgroups,Patrick J. Kennedy Elementary School,25
+Academic Growth,Math Growth - Subgroups,Samuel Adams Elementary School,50
+Academic Growth,Math Growth - Subgroups,Rafael Hernandez Elementary School,50
+Academic Growth,Math Growth - Subgroups,Shaw-Taylor Elementary School,50
+Academic Growth,Math Growth - Subgroups,Oliver Hazard Perry Elementary School,100
+Academic Growth,Math Growth - Subgroups,Sarah Greenwood K-8 School,100
+Academic Growth,Math Growth - Subgroups,Phineas Bates Elementary School,100
+Academic Growth,Math Growth - Subgroups,Oliver W. Holmes Elementary School,62.5
+Academic Growth,Math Growth - Subgroups,Philbrick-Sumner Elementary School,62.5
+Academic Growth,Math Growth - Subgroups,Orchard Gardens K-8 School,75
+Academic Growth,Math Growth - Subgroups,Thomas A. Edison Elementary School,75
+College and Career,Students in College after Graduation,TechBoston Academy,-
+College and Career,Students in College after Graduation,Ruth Batson Academy,-
+College and Career,Students in College after Graduation,The English High School,50
+Grade Level Mastery,School Meets ELA MCAS Goals,TechBoston Academy,72.9
+Grade Level Mastery,School Meets ELA MCAS Goals,The English High School,43.5
+Grade Level Mastery,School Meets ELA MCAS Goals,Patrick F. Lyndon K-8 Pilot School,-
+Grade Level Mastery,School Meets ELA MCAS Goals,Thomas A. Edison Elementary School,-
+Grade Level Mastery,School Meets ELA MCAS Goals,Sarah Greenwood K-8 School,-
+Grade Level Mastery,School Meets ELA MCAS Goals,Rev. Dr. Michael E. Haynes Early Education Center,-
+Grade Level Mastery,School Meets ELA MCAS Goals,Samuel W. Mason Elementary School,-
+Grade Level Mastery,School Meets ELA MCAS Goals,Rafael Hernandez Elementary School,-
+Grade Level Mastery,School Meets ELA MCAS Goals,Roger Clap Innovation School,-
+Grade Level Mastery,School Meets ELA MCAS Goals,Patrick J. Kennedy Elementary School,25
+Grade Level Mastery,School Meets ELA MCAS Goals,Shaw-Taylor Elementary School,25
+Grade Level Mastery,School Meets ELA MCAS Goals,Paul A. Dever Elementary School,25
+Grade Level Mastery,School Meets ELA MCAS Goals,Ruth Batson Academy,50
+Grade Level Mastery,School Meets ELA MCAS Goals,Samuel Adams Elementary School,50
+Grade Level Mastery,School Meets ELA MCAS Goals,Philbrick-Sumner Elementary School,50
+Grade Level Mastery,School Meets ELA MCAS Goals,Richard J. Murphy K-8 School,50
+Grade Level Mastery,School Meets ELA MCAS Goals,Orchard Gardens K-8 School,100
+Grade Level Mastery,School Meets ELA MCAS Goals,Oliver W. Holmes Elementary School,100
+Grade Level Mastery,School Meets ELA MCAS Goals,Oliver Hazard Perry Elementary School,100
+Grade Level Mastery,School Meets ELA MCAS Goals,Phineas Bates Elementary School,100
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Philbrick-Sumner Elementary School,16.7
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,TechBoston Academy,54.7
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Ruth Batson Academy,30.4
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Phineas Bates Elementary School,83.3
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Patrick F. Lyndon K-8 Pilot School,33.3
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Rev. Dr. Michael E. Haynes Early Education Center,-
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Rafael Hernandez Elementary School,-
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Patrick J. Kennedy Elementary School,-
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Roger Clap Innovation School,-
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Sarah Greenwood K-8 School,-
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Thomas A. Edison Elementary School,-
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Samuel W. Mason Elementary School,-
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,The English High School,25
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Richard J. Murphy K-8 School,25
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Oliver Hazard Perry Elementary School,50
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Samuel Adams Elementary School,50
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Shaw-Taylor Elementary School,50
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Paul A. Dever Elementary School,50
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Orchard Gardens K-8 School,100
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Oliver W. Holmes Elementary School,100
+Grade Level Mastery,School Meets Math MCAS Goals,TechBoston Academy,13.6
+Grade Level Mastery,School Meets Math MCAS Goals,Patrick J. Kennedy Elementary School,-
+Grade Level Mastery,School Meets Math MCAS Goals,Rev. Dr. Michael E. Haynes Early Education Center,-
+Grade Level Mastery,School Meets Math MCAS Goals,Samuel Adams Elementary School,-
+Grade Level Mastery,School Meets Math MCAS Goals,Paul A. Dever Elementary School,-
+Grade Level Mastery,School Meets Math MCAS Goals,Shaw-Taylor Elementary School,-
+Grade Level Mastery,School Meets Math MCAS Goals,Roger Clap Innovation School,-
+Grade Level Mastery,School Meets Math MCAS Goals,Richard J. Murphy K-8 School,50
+Grade Level Mastery,School Meets Math MCAS Goals,Thomas A. Edison Elementary School,50
+Grade Level Mastery,School Meets Math MCAS Goals,The English High School,50
+Grade Level Mastery,School Meets Math MCAS Goals,Sarah Greenwood K-8 School,50
+Grade Level Mastery,School Meets Math MCAS Goals,Patrick F. Lyndon K-8 Pilot School,50
+Grade Level Mastery,School Meets Math MCAS Goals,Ruth Batson Academy,100
+Grade Level Mastery,School Meets Math MCAS Goals,Oliver Hazard Perry Elementary School,100
+Grade Level Mastery,School Meets Math MCAS Goals,Rafael Hernandez Elementary School,100
+Grade Level Mastery,School Meets Math MCAS Goals,Phineas Bates Elementary School,100
+Grade Level Mastery,School Meets Math MCAS Goals,Orchard Gardens K-8 School,100
+Grade Level Mastery,School Meets Math MCAS Goals,Oliver W. Holmes Elementary School,100
+Grade Level Mastery,School Meets Math MCAS Goals,Samuel W. Mason Elementary School,100
+Grade Level Mastery,School Meets Math MCAS Goals,Philbrick-Sumner Elementary School,100
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Ruth Batson Academy,69.6
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,The English High School,48.4
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Thomas A. Edison Elementary School,31.3
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Philbrick-Sumner Elementary School,33.3
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Patrick F. Lyndon K-8 Pilot School,41.7
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,TechBoston Academy,19.3
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Samuel Adams Elementary School,-
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Roger Clap Innovation School,-
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Patrick J. Kennedy Elementary School,-
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Rev. Dr. Michael E. Haynes Early Education Center,-
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Richard J. Murphy K-8 School,25
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Sarah Greenwood K-8 School,50
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Samuel W. Mason Elementary School,50
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Rafael Hernandez Elementary School,100
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Oliver Hazard Perry Elementary School,100
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Shaw-Taylor Elementary School,37.5
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Paul A. Dever Elementary School,37.5
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Oliver W. Holmes Elementary School,75
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Orchard Gardens K-8 School,87.5
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Phineas Bates Elementary School,66.7
+Grade Level Mastery,School Meets Science MCAS Goals,The English High School,-
+Grade Level Mastery,School Meets Science MCAS Goals,Sarah Greenwood K-8 School,-
+Grade Level Mastery,School Meets Science MCAS Goals,Rafael Hernandez Elementary School,-
+Grade Level Mastery,School Meets Science MCAS Goals,Samuel Adams Elementary School,-
+Grade Level Mastery,School Meets Science MCAS Goals,Patrick J. Kennedy Elementary School,-
+Grade Level Mastery,School Meets Science MCAS Goals,TechBoston Academy,-
+Grade Level Mastery,School Meets Science MCAS Goals,Oliver Hazard Perry Elementary School,-
+Grade Level Mastery,School Meets Science MCAS Goals,Roger Clap Innovation School,-
+Grade Level Mastery,School Meets Science MCAS Goals,Patrick F. Lyndon K-8 Pilot School,-
+Grade Level Mastery,School Meets Science MCAS Goals,Rev. Dr. Michael E. Haynes Early Education Center,-
+Grade Level Mastery,School Meets Science MCAS Goals,Ruth Batson Academy,-
+Grade Level Mastery,School Meets Science MCAS Goals,Samuel W. Mason Elementary School,-
+Grade Level Mastery,School Meets Science MCAS Goals,Phineas Bates Elementary School,50
+Grade Level Mastery,School Meets Science MCAS Goals,Richard J. Murphy K-8 School,50
+Grade Level Mastery,School Meets Science MCAS Goals,Shaw-Taylor Elementary School,50
+Grade Level Mastery,School Meets Science MCAS Goals,Orchard Gardens K-8 School,50
+Grade Level Mastery,School Meets Science MCAS Goals,Thomas A. Edison Elementary School,100
+Grade Level Mastery,School Meets Science MCAS Goals,Philbrick-Sumner Elementary School,100
+Grade Level Mastery,School Meets Science MCAS Goals,Paul A. Dever Elementary School,100
+Grade Level Mastery,School Meets Science MCAS Goals,Oliver W. Holmes Elementary School,100

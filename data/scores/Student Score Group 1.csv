@@ -1,0 +1,376 @@
+Outcome,Metric,School_Name,Score
+College and Career,Graduate in 4 Years,Boston Latin Academy,95
+College and Career,Graduate in 4 Years,Community Academy of Science and Health,20
+College and Career,Graduate in 4 Years,Albert D Holland School of Technology,65
+College and Career,Graduate in 4 Years,Boston Green Academy,70
+College and Career,Graduate in 4 Years,Boston Latin School,91.7
+College and Career,Graduate in 4 Years,Charlestown High School,12.5
+College and Career,Graduate in 4 Years,Another Course to College,30
+College and Career,Graduate in 4 Years,Boston Adult Technical Academy,-
+College and Career,Graduate in 4 Years,Brighton High School,-
+College and Career,Graduate in 4 Years,Boston Arts Academy,50
+College and Career,Graduate in 5 Years,Community Academy of Science and Health,5
+College and Career,Graduate in 5 Years,Charlestown High School,41.7
+College and Career,Graduate in 5 Years,Boston Arts Academy,91.7
+College and Career,Graduate in 5 Years,Albert D Holland School of Technology,5
+College and Career,Graduate in 5 Years,Boston Latin School,95.8
+College and Career,Graduate in 5 Years,Another Course to College,60
+College and Career,Graduate in 5 Years,Community Academy,-
+College and Career,Graduate in 5 Years,Boston Collaborative High School,-
+College and Career,Graduate in 5 Years,Boston Day and Evening Academy,-
+College and Career,Graduate in 5 Years,Boston Adult Technical Academy,-
+College and Career,Graduate in 5 Years,Brighton High School,-
+College and Career,Graduate in 5 Years,Boston International High School,-
+College and Career,Graduate in 5 Years,Boston Green Academy,50
+College and Career,Graduate in 5 Years,Boston Latin Academy,100
+Grade Level Mastery,ELA Achievement Gap,Boston Latin Academy,92.2
+Grade Level Mastery,ELA Achievement Gap,Boston Latin School,8.3
+Grade Level Mastery,ELA Achievement Gap,Another Course to College,-
+Grade Level Mastery,ELA Achievement Gap,Boston International High School,-
+Grade Level Mastery,ELA Achievement Gap,Boston Adult Technical Academy,-
+Grade Level Mastery,ELA Achievement Gap,Community Academy of Science and Health,-
+Grade Level Mastery,ELA Achievement Gap,Curtis Guild Elementary School,-
+Grade Level Mastery,ELA Achievement Gap,Boston Day and Evening Academy,-
+Grade Level Mastery,ELA Achievement Gap,Albert D Holland School of Technology,-
+Grade Level Mastery,ELA Achievement Gap,Brighton High School,-
+Grade Level Mastery,ELA Achievement Gap,Boston Arts Academy,-
+Grade Level Mastery,ELA Achievement Gap,Boston Collaborative High School,-
+Grade Level Mastery,ELA Achievement Gap,Boston Green Academy,-
+Grade Level Mastery,ELA Achievement Gap,Boston Teachers Union K-8 Pilot School,-
+Grade Level Mastery,ELA Achievement Gap,Community Academy,-
+Grade Level Mastery,ELA Achievement Gap,Charlestown High School,-
+Grade Level Mastery,ELA Achievement Gap,Beethoven/Ohrenberger,-
+Grade Level Mastery,ELA Achievement Gap,Curley K-8 School,25
+Grade Level Mastery,ELA Achievement Gap,Dante Alighieri Elementary Montessori School,100
+Grade Level Mastery,Math Achievement Gap,Boston Latin School,33.4
+Grade Level Mastery,Math Achievement Gap,Boston International High School,-
+Grade Level Mastery,Math Achievement Gap,Community Academy,-
+Grade Level Mastery,Math Achievement Gap,Community Academy of Science and Health,-
+Grade Level Mastery,Math Achievement Gap,Brighton High School,-
+Grade Level Mastery,Math Achievement Gap,Boston Latin Academy,-
+Grade Level Mastery,Math Achievement Gap,Boston Day and Evening Academy,-
+Grade Level Mastery,Math Achievement Gap,Boston Green Academy,-
+Grade Level Mastery,Math Achievement Gap,Charlestown High School,-
+Grade Level Mastery,Math Achievement Gap,Boston Adult Technical Academy,-
+Grade Level Mastery,Math Achievement Gap,Boston Arts Academy,-
+Grade Level Mastery,Math Achievement Gap,Curtis Guild Elementary School,-
+Grade Level Mastery,Math Achievement Gap,Boston Collaborative High School,-
+Grade Level Mastery,Math Achievement Gap,Beethoven/Ohrenberger,-
+Grade Level Mastery,Math Achievement Gap,Another Course to College,-
+Grade Level Mastery,Math Achievement Gap,Albert D Holland School of Technology,-
+Grade Level Mastery,Math Achievement Gap,Curley K-8 School,50
+Grade Level Mastery,Math Achievement Gap,Boston Teachers Union K-8 Pilot School,100
+Grade Level Mastery,Math Achievement Gap,Dante Alighieri Elementary Montessori School,100
+College and Career,Students Set Goals and Persist,Brighton High School,-
+College and Career,Students Set Goals and Persist,Community Academy,-
+College and Career,Students Set Goals and Persist,Boston Day and Evening Academy,-
+College and Career,Students Set Goals and Persist,Boston Collaborative High School,-
+College and Career,Students Set Goals and Persist,Boston Adult Technical Academy,-
+College and Career,Students Set Goals and Persist,Boston International High School,-
+College and Career,Students Set Goals and Persist,Community Academy of Science and Health,50
+College and Career,Students Set Goals and Persist,Boston Teachers Union K-8 Pilot School,50
+College and Career,Students Set Goals and Persist,Boston Latin Academy,50
+College and Career,Students Set Goals and Persist,Charlestown High School,50
+College and Career,Students Set Goals and Persist,Curley K-8 School,62.5
+College and Career,Students Set Goals and Persist,Albert D Holland School of Technology,62.5
+College and Career,Students Set Goals and Persist,Beethoven/Ohrenberger,62.5
+College and Career,Students Set Goals and Persist,Boston Green Academy,37.5
+College and Career,Students Set Goals and Persist,Boston Arts Academy,37.5
+College and Career,Students Set Goals and Persist,Another Course to College,37.5
+College and Career,Students Set Goals and Persist,Dante Alighieri Elementary Montessori School,75
+College and Career,Students Set Goals and Persist,Curtis Guild Elementary School,75
+College and Career,Students Set Goals and Persist,Boston Latin School,75
+College and Career,Drop-Out Rate,Another Course to College,-
+College and Career,Drop-Out Rate,Boston Green Academy,-
+College and Career,Drop-Out Rate,Boston Collaborative High School,-
+College and Career,Drop-Out Rate,Albert D Holland School of Technology,-
+College and Career,Drop-Out Rate,Boston Arts Academy,-
+College and Career,Drop-Out Rate,Brighton High School,-
+College and Career,Drop-Out Rate,Boston Day and Evening Academy,-
+College and Career,Drop-Out Rate,Boston Adult Technical Academy,-
+College and Career,Drop-Out Rate,Community Academy,-
+College and Career,Drop-Out Rate,Boston International High School,-
+College and Career,Drop-Out Rate,Charlestown High School,25
+College and Career,Drop-Out Rate,Boston Latin School,100
+College and Career,Drop-Out Rate,Boston Latin Academy,75
+College and Career,Drop-Out Rate,Community Academy of Science and Health,75
+Academic Growth,ELA Growth,Boston Latin Academy,67.2
+Academic Growth,ELA Growth,Albert D Holland School of Technology,53.1
+Academic Growth,ELA Growth,Boston Latin School,83.3
+Academic Growth,ELA Growth,Brighton High School,-
+Academic Growth,ELA Growth,Boston Day and Evening Academy,-
+Academic Growth,ELA Growth,Boston Adult Technical Academy,-
+Academic Growth,ELA Growth,Boston Collaborative High School,-
+Academic Growth,ELA Growth,Boston International High School,-
+Academic Growth,ELA Growth,Community Academy,-
+Academic Growth,ELA Growth,Community Academy of Science and Health,25
+Academic Growth,ELA Growth,Another Course to College,50
+Academic Growth,ELA Growth,Boston Arts Academy,50
+Academic Growth,ELA Growth,Charlestown High School,50
+Academic Growth,ELA Growth,Beethoven/Ohrenberger,50
+Academic Growth,ELA Growth,Boston Teachers Union K-8 Pilot School,50
+Academic Growth,ELA Growth,Curtis Guild Elementary School,100
+Academic Growth,ELA Growth,Dante Alighieri Elementary Montessori School,100
+Academic Growth,ELA Growth,Curley K-8 School,75
+Academic Growth,ELA Growth,Boston Green Academy,75
+Academic Growth,ELA Growth - Subgroups,Boston Latin School,81.2
+Academic Growth,ELA Growth - Subgroups,Boston Latin Academy,58.6
+Academic Growth,ELA Growth - Subgroups,Boston Green Academy,88.5
+Academic Growth,ELA Growth - Subgroups,Boston Day and Evening Academy,-
+Academic Growth,ELA Growth - Subgroups,Community Academy of Science and Health,-
+Academic Growth,ELA Growth - Subgroups,Boston International High School,-
+Academic Growth,ELA Growth - Subgroups,Community Academy,-
+Academic Growth,ELA Growth - Subgroups,Albert D Holland School of Technology,-
+Academic Growth,ELA Growth - Subgroups,Dante Alighieri Elementary Montessori School,-
+Academic Growth,ELA Growth - Subgroups,Brighton High School,-
+Academic Growth,ELA Growth - Subgroups,Boston Collaborative High School,-
+Academic Growth,ELA Growth - Subgroups,Another Course to College,-
+Academic Growth,ELA Growth - Subgroups,Boston Adult Technical Academy,-
+Academic Growth,ELA Growth - Subgroups,Charlestown High School,50
+Academic Growth,ELA Growth - Subgroups,Curtis Guild Elementary School,100
+Academic Growth,ELA Growth - Subgroups,Boston Arts Academy,37.5
+Academic Growth,ELA Growth - Subgroups,Curley K-8 School,68.8
+Academic Growth,ELA Growth - Subgroups,Beethoven/Ohrenberger,56.3
+Academic Growth,ELA Growth - Subgroups,Boston Teachers Union K-8 Pilot School,58.3
+Academic Growth,ELA Growth - High-Performing Students,Dante Alighieri Elementary Montessori School,-
+Academic Growth,ELA Growth - High-Performing Students,Boston Collaborative High School,-
+Academic Growth,ELA Growth - High-Performing Students,Boston International High School,-
+Academic Growth,ELA Growth - High-Performing Students,Boston Arts Academy,-
+Academic Growth,ELA Growth - High-Performing Students,Brighton High School,-
+Academic Growth,ELA Growth - High-Performing Students,Community Academy,-
+Academic Growth,ELA Growth - High-Performing Students,Albert D Holland School of Technology,-
+Academic Growth,ELA Growth - High-Performing Students,Boston Adult Technical Academy,-
+Academic Growth,ELA Growth - High-Performing Students,Boston Day and Evening Academy,-
+Academic Growth,ELA Growth - High-Performing Students,Charlestown High School,-
+Academic Growth,ELA Growth - High-Performing Students,Community Academy of Science and Health,-
+Academic Growth,ELA Growth - High-Performing Students,Another Course to College,-
+Academic Growth,ELA Growth - High-Performing Students,Curtis Guild Elementary School,-
+Academic Growth,ELA Growth - High-Performing Students,Boston Latin School,50
+Academic Growth,ELA Growth - High-Performing Students,Boston Green Academy,50
+Academic Growth,ELA Growth - High-Performing Students,Boston Latin Academy,50
+Academic Growth,ELA Growth - High-Performing Students,Beethoven/Ohrenberger,50
+Academic Growth,ELA Growth - High-Performing Students,Boston Teachers Union K-8 Pilot School,50
+Academic Growth,ELA Growth - High-Performing Students,Curley K-8 School,100
+Academic Growth,Math Growth - High-Performing Students,Curtis Guild Elementary School,-
+Academic Growth,Math Growth - High-Performing Students,Community Academy of Science and Health,-
+Academic Growth,Math Growth - High-Performing Students,Boston Collaborative High School,-
+Academic Growth,Math Growth - High-Performing Students,Boston Adult Technical Academy,-
+Academic Growth,Math Growth - High-Performing Students,Boston Day and Evening Academy,-
+Academic Growth,Math Growth - High-Performing Students,Another Course to College,-
+Academic Growth,Math Growth - High-Performing Students,Boston International High School,-
+Academic Growth,Math Growth - High-Performing Students,Charlestown High School,-
+Academic Growth,Math Growth - High-Performing Students,Brighton High School,-
+Academic Growth,Math Growth - High-Performing Students,Boston Green Academy,-
+Academic Growth,Math Growth - High-Performing Students,Boston Arts Academy,-
+Academic Growth,Math Growth - High-Performing Students,Community Academy,-
+Academic Growth,Math Growth - High-Performing Students,Dante Alighieri Elementary Montessori School,-
+Academic Growth,Math Growth - High-Performing Students,Albert D Holland School of Technology,-
+Academic Growth,Math Growth - High-Performing Students,Boston Latin Academy,25
+Academic Growth,Math Growth - High-Performing Students,Boston Teachers Union K-8 Pilot School,50
+Academic Growth,Math Growth - High-Performing Students,Boston Latin School,50
+Academic Growth,Math Growth - High-Performing Students,Beethoven/Ohrenberger,50
+Academic Growth,Math Growth - High-Performing Students,Curley K-8 School,100
+Academic Growth,ELA Growth - Low-Performing Students,Boston Latin Academy,59.3
+Academic Growth,ELA Growth - Low-Performing Students,Charlestown High School,-
+Academic Growth,ELA Growth - Low-Performing Students,Dante Alighieri Elementary Montessori School,-
+Academic Growth,ELA Growth - Low-Performing Students,Boston Adult Technical Academy,-
+Academic Growth,ELA Growth - Low-Performing Students,Boston Day and Evening Academy,-
+Academic Growth,ELA Growth - Low-Performing Students,Community Academy of Science and Health,-
+Academic Growth,ELA Growth - Low-Performing Students,Brighton High School,-
+Academic Growth,ELA Growth - Low-Performing Students,Boston Collaborative High School,-
+Academic Growth,ELA Growth - Low-Performing Students,Boston International High School,-
+Academic Growth,ELA Growth - Low-Performing Students,Community Academy,-
+Academic Growth,ELA Growth - Low-Performing Students,Boston Green Academy,-
+Academic Growth,ELA Growth - Low-Performing Students,Another Course to College,-
+Academic Growth,ELA Growth - Low-Performing Students,Albert D Holland School of Technology,-
+Academic Growth,ELA Growth - Low-Performing Students,Boston Teachers Union K-8 Pilot School,25
+Academic Growth,ELA Growth - Low-Performing Students,Beethoven/Ohrenberger,50
+Academic Growth,ELA Growth - Low-Performing Students,Curley K-8 School,50
+Academic Growth,ELA Growth - Low-Performing Students,Curtis Guild Elementary School,100
+Academic Growth,ELA Growth - Low-Performing Students,Boston Latin School,75
+Academic Growth,ELA Growth - Low-Performing Students,Boston Arts Academy,75
+Academic Growth,Math Growth - Low-Performing Students,Boston Latin Academy,76.5
+Academic Growth,Math Growth - Low-Performing Students,Boston Latin School,83.3
+Academic Growth,Math Growth - Low-Performing Students,Another Course to College,-
+Academic Growth,Math Growth - Low-Performing Students,Charlestown High School,-
+Academic Growth,Math Growth - Low-Performing Students,Brighton High School,-
+Academic Growth,Math Growth - Low-Performing Students,Boston International High School,-
+Academic Growth,Math Growth - Low-Performing Students,Dante Alighieri Elementary Montessori School,-
+Academic Growth,Math Growth - Low-Performing Students,Boston Teachers Union K-8 Pilot School,-
+Academic Growth,Math Growth - Low-Performing Students,Community Academy,-
+Academic Growth,Math Growth - Low-Performing Students,Boston Collaborative High School,-
+Academic Growth,Math Growth - Low-Performing Students,Community Academy of Science and Health,-
+Academic Growth,Math Growth - Low-Performing Students,Boston Day and Evening Academy,-
+Academic Growth,Math Growth - Low-Performing Students,Albert D Holland School of Technology,-
+Academic Growth,Math Growth - Low-Performing Students,Boston Green Academy,-
+Academic Growth,Math Growth - Low-Performing Students,Boston Adult Technical Academy,-
+Academic Growth,Math Growth - Low-Performing Students,Curley K-8 School,50
+Academic Growth,Math Growth - Low-Performing Students,Beethoven/Ohrenberger,75
+Academic Growth,Math Growth - Low-Performing Students,Boston Arts Academy,75
+Academic Growth,Math Growth - Low-Performing Students,Curtis Guild Elementary School,75
+Academic Growth,English Learner Growth,Boston Latin Academy,-
+Academic Growth,English Learner Growth,Boston International High School,-
+Academic Growth,English Learner Growth,Boston Green Academy,-
+Academic Growth,English Learner Growth,Boston Collaborative High School,-
+Academic Growth,English Learner Growth,Community Academy,-
+Academic Growth,English Learner Growth,Boston Latin School,-
+Academic Growth,English Learner Growth,Boston Teachers Union K-8 Pilot School,-
+Academic Growth,English Learner Growth,Another Course to College,-
+Academic Growth,English Learner Growth,Boston Arts Academy,-
+Academic Growth,English Learner Growth,Brighton High School,-
+Academic Growth,English Learner Growth,Dante Alighieri Elementary Montessori School,-
+Academic Growth,English Learner Growth,Boston Adult Technical Academy,-
+Academic Growth,English Learner Growth,Boston Day and Evening Academy,-
+Academic Growth,English Learner Growth,Albert D Holland School of Technology,50
+Academic Growth,English Learner Growth,Beethoven/Ohrenberger,50
+Academic Growth,English Learner Growth,Curley K-8 School,50
+Academic Growth,English Learner Growth,Community Academy of Science and Health,100
+Academic Growth,English Learner Growth,Charlestown High School,100
+Academic Growth,English Learner Growth,Curtis Guild Elementary School,75
+Academic Growth,Math Growth,Albert D Holland School of Technology,90.6
+Academic Growth,Math Growth,Boston Latin Academy,59.3
+Academic Growth,Math Growth,Boston Latin School,83.3
+Academic Growth,Math Growth,Community Academy,-
+Academic Growth,Math Growth,Boston Adult Technical Academy,-
+Academic Growth,Math Growth,Boston International High School,-
+Academic Growth,Math Growth,Boston Collaborative High School,-
+Academic Growth,Math Growth,Brighton High School,-
+Academic Growth,Math Growth,Boston Day and Evening Academy,-
+Academic Growth,Math Growth,Boston Teachers Union K-8 Pilot School,25
+Academic Growth,Math Growth,Boston Green Academy,50
+Academic Growth,Math Growth,Another Course to College,50
+Academic Growth,Math Growth,Boston Arts Academy,50
+Academic Growth,Math Growth,Dante Alighieri Elementary Montessori School,100
+Academic Growth,Math Growth,Curley K-8 School,100
+Academic Growth,Math Growth,Curtis Guild Elementary School,100
+Academic Growth,Math Growth,Charlestown High School,75
+Academic Growth,Math Growth,Beethoven/Ohrenberger,75
+Academic Growth,Math Growth,Community Academy of Science and Health,75
+Academic Growth,Math Growth - Subgroups,Boston Teachers Union K-8 Pilot School,33.3
+Academic Growth,Math Growth - Subgroups,Boston Latin School,83.3
+Academic Growth,Math Growth - Subgroups,Another Course to College,-
+Academic Growth,Math Growth - Subgroups,Albert D Holland School of Technology,-
+Academic Growth,Math Growth - Subgroups,Community Academy,-
+Academic Growth,Math Growth - Subgroups,Community Academy of Science and Health,-
+Academic Growth,Math Growth - Subgroups,Boston International High School,-
+Academic Growth,Math Growth - Subgroups,Boston Adult Technical Academy,-
+Academic Growth,Math Growth - Subgroups,Dante Alighieri Elementary Montessori School,-
+Academic Growth,Math Growth - Subgroups,Boston Collaborative High School,-
+Academic Growth,Math Growth - Subgroups,Brighton High School,-
+Academic Growth,Math Growth - Subgroups,Boston Day and Evening Academy,-
+Academic Growth,Math Growth - Subgroups,Boston Green Academy,50
+Academic Growth,Math Growth - Subgroups,Boston Arts Academy,50
+Academic Growth,Math Growth - Subgroups,Charlestown High School,50
+Academic Growth,Math Growth - Subgroups,Curtis Guild Elementary School,100
+Academic Growth,Math Growth - Subgroups,Boston Latin Academy,62.5
+Academic Growth,Math Growth - Subgroups,Beethoven/Ohrenberger,68.8
+Academic Growth,Math Growth - Subgroups,Curley K-8 School,81.3
+College and Career,Students in College after Graduation,Boston Collaborative High School,-
+College and Career,Students in College after Graduation,Boston Day and Evening Academy,-
+College and Career,Students in College after Graduation,Boston International High School,-
+College and Career,Students in College after Graduation,Boston Green Academy,-
+College and Career,Students in College after Graduation,Boston Adult Technical Academy,-
+College and Career,Students in College after Graduation,Community Academy,-
+College and Career,Students in College after Graduation,Another Course to College,-
+College and Career,Students in College after Graduation,Brighton High School,-
+College and Career,Students in College after Graduation,Charlestown High School,25
+College and Career,Students in College after Graduation,Community Academy of Science and Health,25
+College and Career,Students in College after Graduation,Albert D Holland School of Technology,50
+College and Career,Students in College after Graduation,Boston Arts Academy,50
+College and Career,Students in College after Graduation,Boston Latin School,100
+College and Career,Students in College after Graduation,Boston Latin Academy,100
+Grade Level Mastery,School Meets ELA MCAS Goals,Albert D Holland School of Technology,90.6
+Grade Level Mastery,School Meets ELA MCAS Goals,Boston Latin School,16.7
+Grade Level Mastery,School Meets ELA MCAS Goals,Boston Green Academy,32.7
+Grade Level Mastery,School Meets ELA MCAS Goals,Community Academy,-
+Grade Level Mastery,School Meets ELA MCAS Goals,Beethoven/Ohrenberger,-
+Grade Level Mastery,School Meets ELA MCAS Goals,Boston Day and Evening Academy,-
+Grade Level Mastery,School Meets ELA MCAS Goals,Boston International High School,-
+Grade Level Mastery,School Meets ELA MCAS Goals,Boston Latin Academy,-
+Grade Level Mastery,School Meets ELA MCAS Goals,Boston Teachers Union K-8 Pilot School,-
+Grade Level Mastery,School Meets ELA MCAS Goals,Community Academy of Science and Health,-
+Grade Level Mastery,School Meets ELA MCAS Goals,Brighton High School,-
+Grade Level Mastery,School Meets ELA MCAS Goals,Boston Adult Technical Academy,-
+Grade Level Mastery,School Meets ELA MCAS Goals,Charlestown High School,-
+Grade Level Mastery,School Meets ELA MCAS Goals,Boston Arts Academy,-
+Grade Level Mastery,School Meets ELA MCAS Goals,Another Course to College,-
+Grade Level Mastery,School Meets ELA MCAS Goals,Boston Collaborative High School,-
+Grade Level Mastery,School Meets ELA MCAS Goals,Dante Alighieri Elementary Montessori School,100
+Grade Level Mastery,School Meets ELA MCAS Goals,Curtis Guild Elementary School,100
+Grade Level Mastery,School Meets ELA MCAS Goals,Curley K-8 School,75
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Charlestown High School,4.5
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Curley K-8 School,41.7
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Boston Arts Academy,16.7
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Albert D Holland School of Technology,46.9
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Beethoven/Ohrenberger,16.7
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Boston Teachers Union K-8 Pilot School,16.7
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Community Academy,-
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Boston Green Academy,-
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Dante Alighieri Elementary Montessori School,-
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Brighton High School,-
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Boston Latin Academy,-
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Community Academy of Science and Health,-
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Boston Collaborative High School,-
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Boston Adult Technical Academy,-
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Boston International High School,-
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Boston Day and Evening Academy,-
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Boston Latin School,25
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Curtis Guild Elementary School,50
+Grade Level Mastery,School Meets ELA MCAS Goals - Subgroups,Another Course to College,100
+Grade Level Mastery,School Meets Math MCAS Goals,Charlestown High School,4.5
+Grade Level Mastery,School Meets Math MCAS Goals,Boston Latin School,91.7
+Grade Level Mastery,School Meets Math MCAS Goals,Albert D Holland School of Technology,43.7
+Grade Level Mastery,School Meets Math MCAS Goals,Boston Collaborative High School,-
+Grade Level Mastery,School Meets Math MCAS Goals,Brighton High School,-
+Grade Level Mastery,School Meets Math MCAS Goals,Another Course to College,-
+Grade Level Mastery,School Meets Math MCAS Goals,Boston International High School,-
+Grade Level Mastery,School Meets Math MCAS Goals,Boston Adult Technical Academy,-
+Grade Level Mastery,School Meets Math MCAS Goals,Boston Day and Evening Academy,-
+Grade Level Mastery,School Meets Math MCAS Goals,Boston Teachers Union K-8 Pilot School,-
+Grade Level Mastery,School Meets Math MCAS Goals,Community Academy,-
+Grade Level Mastery,School Meets Math MCAS Goals,Boston Latin Academy,-
+Grade Level Mastery,School Meets Math MCAS Goals,Community Academy of Science and Health,50
+Grade Level Mastery,School Meets Math MCAS Goals,Beethoven/Ohrenberger,50
+Grade Level Mastery,School Meets Math MCAS Goals,Boston Arts Academy,50
+Grade Level Mastery,School Meets Math MCAS Goals,Boston Green Academy,50
+Grade Level Mastery,School Meets Math MCAS Goals,Curtis Guild Elementary School,100
+Grade Level Mastery,School Meets Math MCAS Goals,Curley K-8 School,100
+Grade Level Mastery,School Meets Math MCAS Goals,Dante Alighieri Elementary Montessori School,100
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Boston Arts Academy,33.3
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Albert D Holland School of Technology,21.9
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Charlestown High School,8.9
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Boston Latin Academy,12.5
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Curley K-8 School,91.7
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Boston Green Academy,82.7
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Boston Teachers Union K-8 Pilot School,33.3
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Dante Alighieri Elementary Montessori School,-
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Boston Adult Technical Academy,-
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Community Academy,-
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Boston International High School,-
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Brighton High School,-
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Boston Collaborative High School,-
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Another Course to College,-
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Boston Day and Evening Academy,-
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Beethoven/Ohrenberger,50
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Community Academy of Science and Health,50
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Curtis Guild Elementary School,100
+Grade Level Mastery,School Meets Math MCAS Goals - Subgroups,Boston Latin School,58.3
+Grade Level Mastery,School Meets Science MCAS Goals,Boston Green Academy,49.1
+Grade Level Mastery,School Meets Science MCAS Goals,Boston Collaborative High School,-
+Grade Level Mastery,School Meets Science MCAS Goals,Boston International High School,-
+Grade Level Mastery,School Meets Science MCAS Goals,Albert D Holland School of Technology,-
+Grade Level Mastery,School Meets Science MCAS Goals,Brighton High School,-
+Grade Level Mastery,School Meets Science MCAS Goals,Dante Alighieri Elementary Montessori School,-
+Grade Level Mastery,School Meets Science MCAS Goals,Community Academy of Science and Health,-
+Grade Level Mastery,School Meets Science MCAS Goals,Boston Latin Academy,-
+Grade Level Mastery,School Meets Science MCAS Goals,Boston Adult Technical Academy,-
+Grade Level Mastery,School Meets Science MCAS Goals,Boston Latin School,-
+Grade Level Mastery,School Meets Science MCAS Goals,Boston Day and Evening Academy,-
+Grade Level Mastery,School Meets Science MCAS Goals,Community Academy,-
+Grade Level Mastery,School Meets Science MCAS Goals,Curtis Guild Elementary School,-
+Grade Level Mastery,School Meets Science MCAS Goals,Another Course to College,50
+Grade Level Mastery,School Meets Science MCAS Goals,Boston Teachers Union K-8 Pilot School,50
+Grade Level Mastery,School Meets Science MCAS Goals,Beethoven/Ohrenberger,50
+Grade Level Mastery,School Meets Science MCAS Goals,Charlestown High School,50
+Grade Level Mastery,School Meets Science MCAS Goals,Boston Arts Academy,50
+Grade Level Mastery,School Meets Science MCAS Goals,Curley K-8 School,100
