@@ -58,4 +58,10 @@ class SchoolChatbot:
         - Use self.format_prompt() to format the user's input
         - Use self.client to generate responses
         """
-        pass
+        response = self.client.chat_completion(
+            messages=[{"role": "user", "content": self.format_prompt(user_input)}],
+            temperature=0.7,
+            max_tokens=500,
+        )
+
+        return response.choices[0].message.content
