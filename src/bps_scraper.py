@@ -69,10 +69,15 @@ class BPSScraperAgent:
         self.driver = None
 
     def start(self):
-        """Starts the Selenium WebDriver and opens the target URL."""
+        """Starts the Selenium WebDriver in headless mode and opens the target URL."""
+        options = webdriver.ChromeOptions()
+        # Headless mode (no GUI)
+        options.add_argument("--headless")        # Chrome 109+ headless
+
         service = Service(ChromeDriverManager().install())
-        self.driver = webdriver.Chrome(service=service)
+        self.driver = webdriver.Chrome(service=service, options=options)
         self.driver.get(self.base_url)
+
         # Wait until the page is fully loaded.
         WebDriverWait(self.driver, 20).until(
             lambda d: d.execute_script("return document.readyState") == "complete"

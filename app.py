@@ -1,21 +1,13 @@
 """
 Gradio Web Interface for Boston School Chatbot
+----------------------------------------------
 
-This script creates a web interface for your chatbot using Gradio.
-You only need to implement the chat function.
-
-Key Features:
-- Creates a web UI for your chatbot
-- Handles conversation history
-- Provides example questions
-- Can be deployed to Hugging Face Spaces
-
-Example Usage:
-    # Run locally:
+Run locally:
     python app.py
-    
-    # Access in browser:
-    # http://localhost:7860
+Then open the browser at http://localhost:7860
+
+If you push this repo to Hugging Face Spaces with a
+`requirements.txt` (gradio==4.* etc.), it will run there too.
 """
 
 import gradio as gr
@@ -23,59 +15,69 @@ from src.chat import SchoolChatbot
 
 def create_chatbot():
     """
-    Creates and configures the chatbot interface.
+    Builds and returns the Gradio ChatInterface
+    for the Boston Public School selection assistant.
     """
-    chatbot = SchoolChatbot()
-    
-    def chat(message, history):
+
+    # One chatbot instance for the whole Space / local session
+    bot = SchoolChatbot()
+
+    def chat(message: str, history: list[list[str]]) -> str:
         """
-        TODO:Generate a response for the current message in a Gradio chat interface.
-        
-        This function is called by Gradio's ChatInterface every time a user sends a message.
-        You only need to generate and return the assistant's response - Gradio handles the
-        chat display and history management automatically.
+        Generate a reply for the user's newest message.
 
-        Args:
-            message (str): The current message from the user
-            history (list): List of previous message pairs, where each pair is
-                           [user_message, assistant_message]
-                           Example:
-                           [
-                               ["What schools offer Spanish?", "The Hernandez School..."],
-                               ["Where is it located?", "The Hernandez School is in Roxbury..."]
-                           ]
+        Args
+        ----
+        message : str
+            The user's latest utterance.
+        history : list of [str, str]
+            Previous turns.  (Not needed by SchoolChatbot because it
+            already tracks its own conversation state, but we can
+            use the length of `history` to detect a fresh chat.)
 
-        Returns:
-            str: The assistant's response to the current message.
-
-
-        Note:
-            - Gradio automatically:
-                - Displays the user's message
-                - Displays your returned response
-                - Updates the chat history
-                - Maintains the chat interface
-            - You only need to:
-                - Generate an appropriate response to the current message
-                - Return that response as a string
+        Returns
+        -------
+        str
+            Assistant reply to show in the Gradio UI.
         """
-        # TODO: Generate and return response
-        pass
+        # Fresh chat panel?  Reset our internal state.
+        if len(history) == 0:
+            bot.reset_conversation()
 
-    
-    
-    # Create Gradio interface. Customize the interface however you'd like!
+        # Delegate to the domain‑specific chatbot
+        return bot.get_response(message)
+
+    def reset_conversation():
+        """
+        Callback for the ChatInterface “Clear” button.
+        """
+        bot.reset_conversation()
+        # Returning None tells Gradio to clear the textbox
+        return None
+
+    # Build the UI.  You can tweak any aesthetics you like.
     demo = gr.ChatInterface(
-        chat,
+        fn=chat,
         title="Boston Public School Selection Assistant",
-        description="Ask me anything about Boston public schools! Since I am a free tier chatbot, I may give a 503 error when I'm busy. If that happens, please try again a few seconds later.",
+        description=(
+            "Ask anything about Boston Public Schools! "
+            "The assistant will gather your child's grade level "
+            "and address, search for eligible schools, and help you "
+            "compare them. \n\n"
+            "If you hit a 503 (free-tier model is busy), wait a few "
+            "seconds and try again."
+        ),
         examples=[
-            "I live in Jamaica Plain and want to send my child to kindergarten. What schools are available?"
+            "We live at 123 Maple St, 02130, and my daughter will be entering 1st grade.  What schools can we apply to?",
+            "Show me schools near 50 Everett St 02128 with before school programs.",
+            "Which elementary schools in Dorchester have Spanish immersion?"
         ]
     )
-    
+
     return demo
 
+
 if __name__ == "__main__":
-    demo = create_chatbot()
-    demo.launch()
+    interface = create_chatbot()
+    # For Spaces, you can omit server_name/port – HF sets them.
+    interface.launch()
