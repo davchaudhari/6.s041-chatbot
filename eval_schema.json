@@ -1,0 +1,68 @@
+{
+    "conversation_flow_schema": {
+      "id": "string (unique identifier, e.g., 'conv_flow_001')",
+      "type": "conversation_flow",
+      "scenario_description": "string (brief description of the scenario)",
+      "family_context": {
+        "neighborhood": "string (Boston neighborhood)",
+        "grade_level": "string (pre-K, kindergarten, elementary, middle, high)",
+        "preferences": ["array of school program preferences like bilingual programs, gifted and talented, honors, etc"],
+        "special_considerations": ["array of special considerations like special needs, transportation requirements, etc."],
+        "timeline": "string (when they need to enroll - immediately, in the fall, next year)"
+      },
+      "conversation": [
+        {
+          "turn_id": 1,
+          "role": "user",
+          "content": "string (initial user query)"
+        },
+        {
+          "turn_id": 2,
+          "role": "assistant",
+          "content": "string (expected assistant response)",
+          "expected_behavior": {
+            "should_call_tool": "boolean",
+            "tool_parameters": {
+              "neighborhood": "string (optional)",
+              "grade_level": "string (optional)",
+              "programs": ["array of strings (optional)"]
+            },
+            "should_ask_clarifying_question": "boolean",
+            "topics_to_clarify": ["array of topics that should be clarified"]
+          }
+        },
+        {
+          "turn_id": 3,
+          "role": "user",
+          "content": "string (follow-up query or response to question)"
+        },
+        {
+          "turn_id": 4,
+          "role": "assistant",
+          "content": "string (expected assistant response)",
+          "expected_behavior": {
+            "should_call_tool": "boolean",
+            "tool_parameters": {},
+            "should_incorporate_previous_context": "boolean",
+            "previous_context_elements": ["array of specific context elements that should be maintained"]
+          }
+        },
+        {
+          "turn_id": 5,
+          "role": "user",
+          "content": "string (additional follow-up or new request)"
+        },
+        {
+          "turn_id": 6,
+          "role": "assistant",
+          "content": "string (expected assistant response)",
+          "expected_behavior": {
+            "should_call_tool": "boolean",
+            "tool_parameters": {},
+            "should_handle_topic_switch": "boolean",
+            "should_summarize_previous_findings": "boolean"
+          }
+        }
+      ]
+    }
+  }
