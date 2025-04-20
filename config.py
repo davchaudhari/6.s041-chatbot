@@ -5,7 +5,8 @@ from dotenv import load_dotenv
 load_dotenv()
 
 
-BASE_MODEL = "TinyLlama/TinyLlama-1.1B-Chat-v1.0"
+BASE_MODEL ="HuggingFaceH4/zephyr-7b-beta"
+# "meta-llama/Llama-2-7b-chat-hf"
 # Other options:
 # MODEL = "meta-llama/Llama-2-7b-chat-hf"
 # MODEL = "openlm-research/open_llama_3b"

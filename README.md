@@ -16,6 +16,29 @@ secrets:
 
 This is a skeleton repo you can use to design your school choice chatbot. Feel free to change it however you'd like! This repo is compatible with CPU (using your own computer) because it uses models on HuggingFace. You can also load models locally if you'd like, but we recommend using smaller ones.
 
+## Recent Updates
+
+The chatbot now has the following features:
+1. **Web Scraping Capability**: The chatbot can scrape the Discover BPS database to find school information based on:
+   - Student's grade level
+   - Home address (street number, street name)
+   - Zip code
+
+2. **Chatbot Implementation**: The SchoolChatbot class has been implemented to:
+   - Extract user information (grade, address, zip code) from natural language
+   - Query the BPS database via the scraper
+   - Format the results in a conversational way
+   - Maintain conversation history for context
+
+3. **Web Interface**: A Gradio web interface is available through app.py that allows users to interact with the chatbot.
+
+## Todo/Next Steps
+
+1. **Testing**: Test the chatbot with various user queries to ensure reliability
+2. **Evaluation**: Develop evaluation metrics to assess chatbot performance
+3. **User Experience**: Continue improving the conversation flow and response quality
+4. **Deployment**: Deploy the chatbot to Hugging Face Spaces
+
 The end goal: make the chatbot and upload it to a Huggingface Space. We have included instructions for using HuggingFace below. [Here's an example](https://huggingface.co/spaces/sbentley/Boston-School-Choice) of a chatbot made by the course staff. Yours should be much better!
 
 Note: We encourage you to use AI tools (like Cursor or LLMs) to help you on this assignment. Learn how to leverage these tools.

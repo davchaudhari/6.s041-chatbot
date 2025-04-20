@@ -1,4 +1,4 @@
-from src.bps_chatbot import BPSChatbot
+from src.chat import SchoolChatbot
 import os
 from dotenv import load_dotenv
 
@@ -12,8 +12,7 @@ def main():
         return
         
     # Initialize the chatbot
-    chatbot = BPSChatbot()
-    chatbot.start()
+    chatbot = SchoolChatbot()
     
     print("Welcome to the Boston Public Schools Enrollment Assistant!")
     print("I can help you find eligible schools for your child.")
@@ -30,13 +29,11 @@ def main():
             if user_input.lower() == 'quit':
                 break
                 
-            response = chatbot.process_message(user_input)
+            response = chatbot.get_response(user_input)
             print(f"\nAssistant: {response}")
             
     except KeyboardInterrupt:
         print("\nGoodbye!")
-    finally:
-        chatbot.close()
 
 if __name__ == "__main__":
     main() 
