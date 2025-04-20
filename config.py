@@ -12,5 +12,6 @@ BASE_MODEL = "TinyLlama/TinyLlama-1.1B-Chat-v1.0"
 
 # If you finetune the model or change it in any way, save it to huggingface hub, then set MY_MODEL to your model ID. The model ID is in the format "your-username/your-model-name".
 MY_MODEL = None
+# MY_MODEL = "meta-llama/Llama-3.2-1B"
 
 HF_TOKEN = os.getenv("HF_TOKEN")
