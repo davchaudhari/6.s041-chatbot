@@ -180,8 +180,11 @@ class SchoolChatbot:
             try:
                 school_list = agent.run()
                 print(f"Scraped {len(school_list)} schools on attempt {attempt}.")
-                agent.close()
-                return school_list
+                if len(school_list) > 0:
+                    agent.close()
+                    return school_list
+                else:
+                    print(f'No schools found on attempt {attempt}. Retrying...')
 
             except Exception as e:
                 print(f"Warning: attempt {attempt} failed with error: {e}")
@@ -746,7 +749,7 @@ class SchoolChatbot:
 
         Recall the user's question: "{user_input}" Provide a helpful, conversational response that directly answers their question,
         using the specific schools information provided above. Answer in a short, concise paragraph or less, just like in the example.
-        Also make sure you remind the user you can ask follow up questions if they need more information, or consult the Discover BPS website for detailed information (only necessary to remind once).
+        Also make sure you remind the user you can ask follow up questions if they need more information.
         
         <|assistant|>
         """
