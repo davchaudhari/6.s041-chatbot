@@ -24,63 +24,12 @@ class SchoolChatbot:
         self.conversation_history = []
         self.state = "information_collection"  # Initial state: collecting user information
         self.user_input_data = None  # Will store the UserInput object once collected
-        self.schools_list = None  # Will store the list of SchoolDetails once retrieved
+        self.school_list = None  # Will store the list of SchoolDetails once retrieved
+
+        self._sent_school_summaries = False
+        self.school_summaries = None # Will store formatted school summaries
         self._sent_school_context = False
-    
-    def format_prompt(self, user_input):
-        """
-        Format the user's input into a proper prompt with context about the 
-        Boston school system and available data.
-        
-        Args:
-            user_input (str): The user's question about Boston schools
-        
-        Returns:
-            str: A formatted prompt ready for the model
-        """
-        # Track conversation history
-        self.conversation_history.append({"role": "user", "content": user_input})
-        
-        # System instructions with information about available school data
-        system_instructions = """
-        You are a helpful assistant that specializes in Boston Public Schools. You help parents find the right schools for their children.
-        
-        You have access to the following information about schools:
-        - School name, address, contact information (email, website)
-        - Distance from the user's home
-        - School hours and preview dates
-        - Before/after school programs
-        - School description and focus
-        - Grades offered
-        - Eligibility zones and special application requirements
-        - Quality tier rating
-        - Uniform policy
-        - Academic programs offered
-        - Facility features
-        - Student support services
-        - Sports and community partners
-        
-        When helping users, collect relevant information like:
-        1. Child's grade level
-        2. Their address or neighborhood
-        3. Specific program interests (languages, arts, sports, etc.)
-        4. Special requirements (special education, after-school care, etc.)
-        
-        Once you have enough information, you'll query a database to find matching schools. You'll receive a list of information on different schools ordered by how far they are from the student's home, with the closest school coming first. Be conversational, helpful, and focused on the user's needs.
-        """
-        
-        # Format the conversation history
-        conversation = []
-        for i, message in enumerate(self.conversation_history):
-            if message["role"] == "user":
-                conversation.append(f"User: {message['content']}")
-            else:
-                conversation.append(f"Assistant: {message['content']}")
-        
-        # Combine everything into the final prompt
-        formatted_prompt = f"{system_instructions}\n\n{''.join(conversation)}\n\nAssistant:"
-        
-        return formatted_prompt
+        self.school_context = None  # Will store full formatted school information
     
     def extract_json(self, text: str) -> str:
         """
@@ -185,10 +134,12 @@ class SchoolChatbot:
         }}
         </END EXAMPLE 5>
 
-        Now here is the user's message. ONLY OUTPUT THE JSON. YOUR OUTPUT SHOULD BE VALID JSON AND NOTHING ELSE.
-    
+        Consider all the conversation history to extract this information:
+        {self.format_conversation_history()}
+        
+        Now include the current message:
         <|user|>
-        "{user_input}"
+        {user_input}
         
         <|assistant|>
         """
@@ -243,23 +194,23 @@ class SchoolChatbot:
             print('Failed to scrape schools after 3 attempts.')
             raise last_exception
 
-    def format_schools_for_llm_context(self, num_schools=10):
+    def format_school_summaries(self, num_schools=10):
         """
         Format a list of school dictionaries into a structured, readable context
         that can be used effectively by a language model.
         
         Args:
-            schools_list (list): List of dictionaries containing school information
+            school_list (list): List of dictionaries containing school information
             
         Returns:
             str: A formatted string with school information in a clear, hierarchical structure
         """
-        if not self.schools_list:
+        if not self.school_list:
             return "No schools information available."
         
         formatted_output = "# SCHOOLS INFORMATION\n\n"
 
-        summary_stats = [el.model_dump(include={'school_name', 'distance_from_home', 'school_description', 'school_focus'}) for el in self.schools_list]
+        summary_stats = [el.model_dump(include={'school_name', 'distance_from_home', 'school_description', 'school_focus'}) for el in self.school_list]
         
         for i, school in enumerate(summary_stats[:num_schools], 1):
             # Main header with school name and distance
@@ -298,24 +249,23 @@ class SchoolChatbot:
         
         return formatted_output
             
-    
-    def format_school_information(self, schools_list):
+    def format_school_list(self, num_schools=10):
         """
         Format a list of SchoolDetails objects into a readable, well-structured string
         that can be used as context for the language model.
         
         Args:
-            schools_list (list): List of SchoolDetails pydantic objects
+            school_list (list): List of SchoolDetails pydantic objects
             
         Returns:
             str: Formatted school information
         """
-        if not schools_list:
+        if not self.school_list:
             return "No schools found matching your criteria."
         
         formatted_output = "# MATCHING SCHOOLS INFORMATION\n\n"
         
-        for i, school in enumerate(schools_list, 1):
+        for i, school in enumerate(self.school_list[:num_schools], 1):
             # Main header with school name and key info
             formatted_output += f"## {i}. {school.school_name}\n"
             formatted_output += f"**Distance:** {school.distance_from_home} | **Grades:** {school.grades_offered}\n\n"
@@ -376,47 +326,66 @@ class SchoolChatbot:
         
         return formatted_output
     
-    def format_school_results(self, schools, user_input_obj):
+    def format_conversation_history(self):
         """
-        Format the school results for the chatbot response.
+        Format the conversation history for model prompts.
         
-        Args:
-            schools (list): List of matching SchoolDetails objects
-            user_input_obj (UserInput): The user input parameters
-            
         Returns:
-            str: Formatted school results
+            str: Formatted conversation history
         """
-        # Convert user_input_obj to a readable summary
-        user_preferences = f"""
-        - Grade level: {user_input_obj.grade_level}
-        - Address: {user_input_obj.street_number} {user_input_obj.street_name}, {user_input_obj.zip_code}
-        """
+        if not self.conversation_history:
+            return ""
+            
+        formatted_history = []
+        for message in self.conversation_history:
+            if message["role"] == "user":
+                formatted_history.append(f"<|user|>\n{message['content']}")
+            else:
+                formatted_history.append(f"<|assistant|>\n{message['content']}")
+                
+        return "\n\n".join(formatted_history)
+    
+    # def generate__full_response(self, schools, user_input_obj):
+    #     """
+    #     Format the school results for the chatbot response.
         
-        # Build a prompt to format the results in a helpful way
-        format_prompt = f"""
-        <|system|>
-        You have a list of schools that match the user's preferences.
+    #     Args:
+    #         schools (list): List of matching SchoolDetails objects
+    #         user_input_obj (UserInput): The user input parameters
+            
+    #     Returns:
+    #         str: Formatted school results
+    #     """
+    #     # Convert user_input_obj to a readable summary
+    #     user_preferences = f"""
+    #     - Grade level: {user_input_obj.grade_level}
+    #     - Address: {user_input_obj.street_number} {user_input_obj.street_name}, {user_input_obj.zip_code}
+    #     """
         
-        User preferences:
-        {user_preferences}
+    #     # Build a prompt to format the results in a helpful way
+    #     format_prompt = f"""
+    #     <|system|>
+    #     You have a list of schools that match the user's preferences.
         
-        School information:
-        {self.format_school_information(schools)}
+    #     User preferences:
+    #     {user_preferences}
         
-        Provide a helpful, conversational response that summarizes the best options for the user.
-        Focus on what's most relevant to the user's needs based on their grade level and location.
-        Organize the information well and highlight key details that match their preferences.
-        """
+    #     School information:
+    #     {self.format_school_summaries(schools)}
         
-        # Get formatting from the LLM
-        response = self.client.chat_completion(
-            messages=[{"role": "user", "content": format_prompt}],
-            temperature=0.7,
-            max_tokens=2000,
-        )
+    #     Provide a helpful, conversational response that summarizes the best options for the user.
+    #     Focus on what's most relevant to the user's needs based on their grade level and location.
+    #     Organize the information well and highlight key details that match their preferences.
+    #     """
         
-        return response.choices[0].message.content
+    #     # Get formatting from the LLM
+    #     response = self.client.chat_completion(
+    #         messages=[{"role": "user", "content": format_prompt}],
+    #         temperature=0.7,
+    #         max_tokens=2000,
+    #     )
+        
+    #     return response.choices[0].message.content
 
     
     def handle_information_collection(self, user_input):
@@ -442,7 +411,14 @@ class SchoolChatbot:
                 
                     # We have all the required information - collect schools
                     self.user_input_data = extracted_params
-                    self.schools_list = self.query_school_database(extracted_params)
+                    self.school_list = self.query_school_database(extracted_params)
+                    
+                    # Cache the formatted school information for future use
+
+                    self.school_summaries = self.format_school_summaries()
+                    self.school_list = self.format_school_list()
+                    self._sent_school_summaries = True
+                    self._sent_school_list = True
 
                     summarize_prompt = f"""
                     <|system|>
@@ -483,18 +459,23 @@ class SchoolChatbot:
                     3. Quincy Upper School (1.7 mi away): Offers the rigorous International Baccalaureate (IB) Program to all students in grades 6-12, with a global focus that includes world languages, arts, and international travel; prepares students for selective colleges and emphasizes cultural awareness and global citizenship.
                     </EXAMPLE>
 
-                    Now continue by summarizing eligible schools to the user:
-                    <|system|>
-                    {self.format_schools_for_llm_context()}
+                    Previous conversation:
+                    {self.format_conversation_history()}
+                    
+                    School information:
+                    {self.school_summaries}
+                    
                     <|assistant|>
                     """
 
                     response = self.client.chat_completion(
-                        messages=[{"role": "user", "content": summarize_prompt}],
+                        messages=[
+                            {"role": "system", "content": "You are a helpful assistant that summarizes information about schools a child is eligible for."},
+                            {"role": "user", "content": summarize_prompt}
+                        ],
                         temperature=0.7,
                         max_tokens=1000,
                     )
-
 
                     response_text = response.choices[0].message.content
                     self.conversation_history.append({"role": "assistant", "content": response_text})
@@ -527,24 +508,27 @@ class SchoolChatbot:
                     missing_info_prompt = f"""
                     <|system|>
                     You are helping a parent find schools for their child in Boston.
-                    Based on what they've told you so far: "{user_input}"
+                    You need to collect:
+                    1. The child's grade level
+                    2. Their home address (exact street number, exact street name, and exact zip code)
                     
-                    You need to collect the {missing_info_text}.
+                    Based on what the user has told you so far: "{user_input}"
                     
-                    Ask for this information in a friendly, conversational way.
-                    Be specific about what information you need.
-                    Be very concise and to the point.
-
-                    <EXAMPLE>
-                    <|system|>
-                    You need to collect the grade level of the child.
+                    Ask for any missing information in a friendly, conversational way.
+                    Mention specifically what information you need to help find schools.
+                    You need to be very concise and to the point.
+                    
+                    Previous conversation:
+                    {self.format_conversation_history()}
+                    
                     <|assistant|>
-                    Could you provide me with the grade level of your child to find relevant schools?
-                    </EXAMPLE>
                     """
                     
                     response = self.client.chat_completion(
-                        messages=[{"role": "user", "content": missing_info_prompt}],
+                        messages=[
+                            {"role": "system", "content": "You are helping a parent find schools for their child in Boston."},
+                            {"role": "user", "content": missing_info_prompt}
+                        ],
                         temperature=0.7,
                         max_tokens=300,
                     )
@@ -569,10 +553,18 @@ class SchoolChatbot:
             Ask for any missing information in a friendly, conversational way.
             Mention specifically what information you need to help find schools.
             You need to be very concise and to the point.
+            
+            Previous conversation:
+            {self.format_conversation_history()}
+            
+            <|assistant|>
             """
             
             response = self.client.chat_completion(
-                messages=[{"role": "user", "content": missing_info_prompt}],
+                messages=[
+                    {"role": "system", "content": "You are helping a parent find schools for their child in Boston."},
+                    {"role": "user", "content": missing_info_prompt}
+                ],
                 temperature=0.7,
                 max_tokens=300,
             )
@@ -593,12 +585,11 @@ class SchoolChatbot:
         Returns:
             str: Response message
         """
-        # Filter schools based on the query if needed
-        # filtered_schools = self.filter_schools_by_query(user_input, self.schools_list)
+        # If school context is not cached yet, create it
+        if not self.school_context and self.school_list:
+            self.school_context = self.format_school_list()
+            self._sent_school_context = True
         
-        # Generate a response based on the filtered schools
-
-
         # Create a prompt to answer the specific question with the filtered schools
         answer_prompt = f"""
         <|system|>
@@ -747,17 +738,24 @@ class SchoolChatbot:
 
         </EXAMPLE 1>
         
-        Now here is the information about the five closest schools that are closest to the user's home:
-
-        {self.format_school_information(self.schools_list[:num_schools])}
+        Previous conversation:
+        {self.format_conversation_history()}
+        
+        Here is the information about a few of the closest schools to the user's home:
+        {self.school_context}
 
         Recall the user's question: "{user_input}" Provide a helpful, conversational response that directly answers their question,
         using the specific schools information provided above. Answer in a short, concise paragraph or less, just like in the example.
         Also make sure you remind the user you can ask follow up questions if they need more information, or consult the Discover BPS website for detailed information (only necessary to remind once).
+        
+        <|assistant|>
         """
             
         response = self.client.chat_completion(
-            messages=[{"role": "user", "content": answer_prompt}],
+            messages=[
+                {"role": "system", "content": "You are a helpful assistant that provides information about Boston schools."},
+                {"role": "user", "content": answer_prompt}
+            ],
             temperature=0.7,
             max_tokens=2000,
         )
@@ -776,6 +774,9 @@ class SchoolChatbot:
         Returns:
             str: The chatbot's response
         """
+        # Add user input to conversation history first
+        self.conversation_history.append({"role": "user", "content": user_input})
+        
         if self.state == "information_collection":
             # We're still collecting information to find schools
             response, transition = self.handle_information_collection(user_input)
@@ -791,4 +792,9 @@ class SchoolChatbot:
         self.conversation_history = []
         self.state = "information_collection"
         self.user_input_data = None
-        self.schools_list = None
+        self.schools_list = None  # Will store the list of SchoolDetails once retrieved
+        self._sent_school_summaries = False
+
+        self.school_summaries = None # Will store formatted school summaries
+        self._sent_school_context = False
+        self.school_context = None  # Will store full formatted school information
