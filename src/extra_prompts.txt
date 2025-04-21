@@ -1,0 +1,6 @@
+# It is EXTREMELY IMPORTANT that if a piece of information is not present in the exact convention that is shown in the examples, you should output None for that field. 
+        # For example, if a user does not provide a grade number, then you CANNOT INFER a value for grade. You MUST output None for grade. If a user does not provide a street number, then you MUST output None for street_number. If a user does not provide a street name, then you MUST output None for street_name. If a user does not provide a zip code, then you MUST output None for zip_code. You CANNOT INFER a value for any of these fields. This is EXTREMELY IMPORTANT.
+
+
+        # Consider all the conversation history to extract this information:
+        # {self.format_conversation_history()}

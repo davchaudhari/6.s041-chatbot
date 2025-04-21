@@ -69,6 +69,9 @@ class SchoolChatbot:
         - Zip code of home address
 
         ONLY OUTPUT THE JSON. YOUR OUTPUT SHOULD BE VALID JSON AND NOTHING ELSE.
+        Note that the user may not provide all of the information in the examples. If a piece of information is not present in the exact convention that is shown in the examples, you should output None for that field. It is very important that you do not infer a value for a field that is not present in the user's message.
+
+        Remember your job is to extract information while doing as little inference as possible. You MUST output valid JSON. 
 
         EXAMPLE 1
         <|user|>
@@ -146,17 +149,10 @@ class SchoolChatbot:
             "zip_code": "02113"
         }}
         </END EXAMPLE 6>
-
-        It is EXTREMELY IMPORTANT that if a piece of information is not present in the exact convention that is shown in the examples, you should output None for that field. For example, if a user does not provide a grade number, then you CANNOT INFER a value for grade. You MUST output None for grade. If a user does not provide a street number, then you MUST output None for street_number. If a user does not provide a street name, then you MUST output None for street_name. If a user does not provide a zip code, then you MUST output None for zip_code. You CANNOT INFER a value for any of these fields. This is EXTREMELY IMPORTANT.
-
-        Consider all the conversation history to extract this information:
-        {self.format_conversation_history()}
         
         Now include the current message:
         <|user|>
         {user_input}
-
-        Remember your job is to extract information while doing as little inference as possible. You MUST output valid JSON. 
         
         <|assistant|>
         """

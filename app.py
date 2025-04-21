@@ -60,17 +60,14 @@ def create_chatbot():
         fn=chat,
         title="Boston Public School Selection Assistant",
         description=(
-            "Ask anything about Boston Public Schools! "
-            "The assistant will gather your child's grade level "
-            "and address, search for eligible schools, and help you "
-            "compare them. \n\n"
-            "If you hit a 503 (free-tier model is busy), wait a few "
-            "seconds and try again."
+            """
+            This assistant helps you find schools for your child. To start, describe your child's exact (entering), grade level, exact street number, street name, and zip code. The assistant will then search for eligible schools near you and help you compare them. For instance, a parent might say: "My daughter is in 2nd grade, and we live on 95 Dunster St, Cambridge, MA 02138."
+            """
         ),
         examples=[
-            "We live at 123 Maple St, 02130, and my daughter will be entering 1st grade.  What schools can we apply to?",
-            "Show me schools near 50 Everett St 02128 with before school programs.",
-            "Which elementary schools in Dorchester have Spanish immersion?"
+            "We live at 46 Garden St, MA 02114, and my daughter will be entering 1st grade.",
+            "My son will be a sophomore in high school, and we live at 124 Prince St, Boston, MA 02113",
+            "My child will be entering eighth grade, and we live at 75 Cedar St, Boston, MA 02114"
         ],
         cache_examples=False
     )
