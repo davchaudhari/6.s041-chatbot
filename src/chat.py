@@ -134,12 +134,29 @@ class SchoolChatbot:
         }}
         </END EXAMPLE 5>
 
+        EXAMPLE 6
+        <|user|>
+        I'm looking for elementary schools for my 4th grader. We live on 127 Endicott St, Boston, MA 02113
+
+        <|assistant|>
+        {{
+            "grade": "4",
+            "street_number": "127",
+            "street_name": "Endicott St",
+            "zip_code": "02113"
+        }}
+        </END EXAMPLE 6>
+
+        It is EXTREMELY IMPORTANT that if a piece of information is not present in the exact convention that is shown in the examples, you should output None for that field. For example, if a user does not provide a grade number, then you CANNOT INFER a value for grade. You MUST output None for grade. If a user does not provide a street number, then you MUST output None for street_number. If a user does not provide a street name, then you MUST output None for street_name. If a user does not provide a zip code, then you MUST output None for zip_code. You CANNOT INFER a value for any of these fields. This is EXTREMELY IMPORTANT.
+
         Consider all the conversation history to extract this information:
         {self.format_conversation_history()}
         
         Now include the current message:
         <|user|>
         {user_input}
+
+        Remember your job is to extract information while doing as little inference as possible. You MUST output valid JSON. 
         
         <|assistant|>
         """
@@ -149,6 +166,7 @@ class SchoolChatbot:
             messages=[{"role": "user", "content": extraction_prompt}],
             temperature=0.0,  # Use low temperature for deterministic output
             max_tokens=300,
+            top_p=0.95
         )
 
         response_text = response.choices[0].message.content
@@ -419,9 +437,9 @@ class SchoolChatbot:
                     # Cache the formatted school information for future use
 
                     self.school_summaries = self.format_school_summaries()
-                    self.school_list = self.format_school_list()
+                    self.school_context = self.format_school_list()
                     self._sent_school_summaries = True
-                    self._sent_school_list = True
+                    self._sent_school_context = True
 
                     summarize_prompt = f"""
                     <|system|>
@@ -462,11 +480,17 @@ class SchoolChatbot:
                     3. Quincy Upper School (1.7 mi away): Offers the rigorous International Baccalaureate (IB) Program to all students in grades 6-12, with a global focus that includes world languages, arts, and international travel; prepares students for selective colleges and emphasizes cultural awareness and global citizenship.
                     </EXAMPLE>
 
-                    Previous conversation:
-                    {self.format_conversation_history()}
+                    THE EXAMPLE IS FOR ILLUSTRATION PURPOSES. Format your response in the same way as the example, but do not include the information from the example in your response.
+
+                    Now we will provide you with information about the schools close to the user's home. Remember, your task is to summarize the information about the schools in a way that is helpful to the user. Your response can roughly one paragraph per school.
+                    # {self.format_conversation_history()}
                     
-                    School information:
+                    Here is the USER's school information:
+                    BEGIN USER SCHOOL INFORMATION
                     {self.school_summaries}
+                    END USER SCHOOL INFORMATION
+
+                    Remember, your job is to summarize the USER's school information per school in an information-dense, concise, and conversational way, with up to one short paragraph per school.
                     
                     <|assistant|>
                     """
@@ -478,6 +502,7 @@ class SchoolChatbot:
                         ],
                         temperature=0.7,
                         max_tokens=1000,
+                        top_p=0.95
                     )
 
                     response_text = response.choices[0].message.content
@@ -534,6 +559,7 @@ class SchoolChatbot:
                         ],
                         temperature=0.7,
                         max_tokens=300,
+                        top_p=0.95
                     )
                     
                     response_text = response.choices[0].message.content
@@ -570,6 +596,7 @@ class SchoolChatbot:
                 ],
                 temperature=0.7,
                 max_tokens=300,
+                top_p=0.95
             )
             
             response_text = response.choices[0].message.content
@@ -607,9 +634,9 @@ class SchoolChatbot:
         - Grades offered, special application procedures (for enrollment), and uniform policy (if any)
         - Student support, sports, and community partners
 
-        We'll provide information about the five closest schools that match their criteria. Here is an example of the information we have, user queries, and how you should respond:
+        We'll provide information about a few close schools that match their criteria. Here is an example of the information we have, user queries, and how you should respond:
 
-                <EXAMPLE 1>
+        <EXAMPLE INFORMATION/CONTEXT>
         <|system|>
         ## 1. Mario Umana Academy
         **Distance:** 0.345 mi from home | **Grades:** K1 - 8
@@ -721,7 +748,9 @@ class SchoolChatbot:
         - **Student Support:** Family Coordinator, Full-Time Nurse, Part-Time Nurse
         - **Community Partners:** America SCORES, Home for Little Wanderers, BOKS, Fresh Truck, CitiArts, Community Music Center, Shah Foundation, Emmanuel College, Boston College, UMASS TeachU, Mount Ida, FoodCorps, Kiwanis
         - **Uniform Policy:** PJK maroon shirt or sweatshirt with PJK crest (purchased on our PJK storefront website), khaki or black bottoms, or PJK maroon sweatpants
+        </EXAMPLE INFORMATION/CONTEXT>
 
+        <EXAMPLE USER/ASSISTANT CONVERSATION>
         <|user|>
         What are the preview dates for the schools?
 
@@ -739,17 +768,35 @@ class SchoolChatbot:
         <|assistant|>
         The email for Kennedy Patrick J Elementary School is pkennedy@bostonpublicschools.org. You can also look at their website at http://bostonpublicschools.org/Page/628
 
-        </EXAMPLE 1>
-        
-        Previous conversation:
-        {self.format_conversation_history()}
-        
-        Here is the information about a few of the closest schools to the user's home:
-        {self.school_context}
+        </EXAMPLE USER/ASSISTANT CONVERSATION>
 
-        Recall the user's question: "{user_input}" Provide a helpful, conversational response that directly answers their question,
-        using the specific schools information provided above. Answer in a short, concise paragraph or less, just like in the example.
-        Also make sure you remind the user you can ask follow up questions if they need more information.
+        You MUST NOT INCLUDE THE INFORMATION FROM THE EXAMPLE IN YOUR RESPONSE UNLESS THESE SCHOOLS APPEAR IN THE USER'S SCHOOL LIST. This is EXTREMELY IMPORTANT.
+
+        Now we will provide you with the USER'S SCHOOL LIST. These are the schools that match the user's criteria, and you MUST ONLY USE THIS INFORMATION TO ANSWER THE USER'S QUESTION.
+        
+        BEGIN USER SCHOOL LIST
+        {self.school_context}
+        END USER SCHOOL LIST
+
+        Recall the user's question: "{user_input}" Provide a helpful, conversational response that directly answers their question. These answers must be INFORMATION-DENSE and CONCISE. You may also use the information from the previous conversation to help you answer the question.
+
+        Here is a list of the previous conversation:
+        BEGIN PREVIOUS CONVERSATION
+        {self.format_conversation_history()}
+        END PREVIOUS CONVERSATION
+
+        You MUST ONLY USE THE INFORMATION FROM THE USER'S SCHOOL LIST and the PREVIOUS CONVERSATION TO ANSWER THE USER'S QUESTION.
+
+        Recall the user's question: "{user_input}" Provide a helpful, conversational response that directly answers their question. You MUST ONLY INCLUDE RELEVANT INFORMATION. For example, if the user asks about the admissions process, you SHOULD NOT include information about the school's sports program.
+        
+        Remind the user you can ask follow up questions if they need more information. If the user's question is vague, ask the user to clarify their question. For example, if a user asks about language offerings, you can ask the user to clarify which language they are interested in.
+        
+        Here is the user's question:
+        BEGIN USER QUESTION
+        {user_input}
+        END USER QUESTION
+
+        Now provide your response in a INFORMATION-DENSE and CONCISE manner, drawing PRIMARILY from the USER SCHOOL LIST. ONLY include information from the previous conversation IF it is relevant, such as a follow-up question. If you do not have enough information to answer the question, it is extremely important that you say so. Finally, DO NOT include <|assistant|> or <|user|> tags in your response. There is NO need to generate sequences that use these tags.
         
         <|assistant|>
         """
@@ -761,6 +808,7 @@ class SchoolChatbot:
             ],
             temperature=0.7,
             max_tokens=2000,
+            top_p=0.95,
         )
             
         response_text = response.choices[0].message.content
@@ -801,3 +849,4 @@ class SchoolChatbot:
         self.school_summaries = None # Will store formatted school summaries
         self._sent_school_context = False
         self.school_context = None  # Will store full formatted school information
+        print("Conversation reset")

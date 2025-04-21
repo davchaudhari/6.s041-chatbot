@@ -77,7 +77,8 @@ class BPSScraperAgent:
         options.add_argument("--no-sandbox")
         options.add_argument("--disable-dev-shm-usage")
 
-        service = Service("/usr/bin/chromedriver")
+        # service = Service("/usr/bin/chromedriver")
+        service = Service(ChromeDriverManager().install())
         self.driver = webdriver.Chrome(service=service, options=options)
         self.driver.get(self.base_url)
 
