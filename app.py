@@ -71,7 +71,8 @@ def create_chatbot():
             "We live at 123 Maple St, 02130, and my daughter will be entering 1st grade.  What schools can we apply to?",
             "Show me schools near 50 Everett St 02128 with before school programs.",
             "Which elementary schools in Dorchester have Spanish immersion?"
-        ]
+        ],
+        cache_examples=False
     )
 
     return demo
