@@ -72,7 +72,7 @@ class BPSScraperAgent:
         """Starts the Selenium WebDriver in headless mode and opens the target URL."""
         options = webdriver.ChromeOptions()
         # Headless mode (no GUI)
-        options.binary_location = "/usr/bin/chromium-browser"
+        # options.binary_location = "/usr/bin/chromium-browser"
         options.add_argument("--headless")        # Chrome 109+ headless
         options.add_argument("--no-sandbox")
         options.add_argument("--disable-dev-shm-usage")
